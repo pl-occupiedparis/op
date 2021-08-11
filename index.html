@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+
+<h1>Ten Most Common Trees of Philadelphia</h1>
+
+<ul class="grid">
+
+{% for tree in site.data.trees %}
+    <li class="grid-tree">
+    	<a href="{{ tree.tree_name | datapage_url: 'trees' }}">{{tree.tree_name}}</a>
+    </li>
+
+{% endfor %}
+</ul>
+
