@@ -11,7 +11,7 @@ title: Occupied Paris
     <title></title>
   </head>
   <body>
-    <h1>{{ "Occupied Paris" }}</h1>
+    <h1>{{ "OCCUPIED PARIS" }}</h1>
   </body>
 </html>
 
@@ -19,10 +19,16 @@ title: Occupied Paris
 
 <ul class="grid">
 
-{% for tree in site.data.trees %}
-    <li class="grid-tree">
-    	<a href="{{ tree.tree_name | datapage_url: 'trees' }}">{{tree.tree_name}}</a>
-    </li>
+  <img src="/assets/images/closed_book_icon.png" width=15%></img>
+  <img src="/assets/images/map_icon.png" width=15%></img>
+  <img src="/assets/images/globe_icon_2.png" width=15%></img>
+
+  <br>
+  <br>
+
+{% for narrative in site.data.narratives %}
+      <img src="{{ narrative.image }}" width=10% ></img>
+      <h2><a href="{{ narrative.name | datapage_url: 'narratives' }}">{{narrative.name}}</a></h2>
 
 {% endfor %}
 </ul>

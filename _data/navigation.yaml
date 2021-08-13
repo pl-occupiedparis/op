@@ -1,4 +1,6 @@
-- name: Home
+- name: Occupied Paris
   link: /
-- name: About
+- name: The Project
   link: /about.html
+- name: Maps
+- name: Historical Context
