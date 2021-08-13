@@ -67,18 +67,18 @@
     
     list-style: none;
     margin: 0; 
-    background: deepskyblue;
+    background: rgb(250, 254, 255);
   }
   
   .navigation a {
     text-decoration: none;
     display: block;
     padding: 1em;
-    color: white;
+    color: #000000;
   }
   
   .navigation a:hover {
-    background: #1565C0;
+    background: #5999E4;
   }
 
   .footer {
