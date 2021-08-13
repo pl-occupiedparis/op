@@ -207,3 +207,14 @@
     font-size: 3em;
     text-align: center;
   }
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  li {
+    height: 40vh;
+    flex-grow: 1;
+  }
+  
