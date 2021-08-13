@@ -59,6 +59,28 @@
   }
   
   /* Navigation grid */
+
+  .navigation {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    
+    list-style: none;
+    margin: 0; 
+    background: deepskyblue;
+  }
+  
+  .navigation a {
+    text-decoration: none;
+    display: block;
+    padding: 1em;
+    color: white;
+  }
+  
+  .navigation a:hover {
+    background: #1565C0;
+  }
+
   .footer {
     display: flex;
     justify-content: space-between;
@@ -227,5 +249,6 @@
   img:hover{
     transform: scale(1.1);
   }
+  
   
   
