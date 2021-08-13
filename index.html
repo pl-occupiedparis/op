@@ -1,34 +1,28 @@
 ---
 layout: default
-
-title: home
+title: Occupied Paris
 ---
 
 <!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Occupied Pari</title>
-
-    <link rel="stylesheet" href="/assets/css/styles.css"/>
-       <!--Import leaflet stylesheet + JS library -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-   crossorigin=""/>
-    
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-    
-    <!-- Import jquery  -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    
-    <script src="/assets/js/script.js" defer></script>
-
+    <title></title>
   </head>
-
   <body>
-
-
-</body>
-
+    <h1>{{ "Occupied Paris" }}</h1>
+  </body>
 </html>
+
+
+
+<ul class="grid">
+
+{% for tree in site.data.trees %}
+    <li class="grid-tree">
+    	<a href="{{ tree.tree_name | datapage_url: 'trees' }}">{{tree.tree_name}}</a>
+    </li>
+
+{% endfor %}
+</ul>
