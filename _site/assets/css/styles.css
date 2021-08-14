@@ -206,7 +206,7 @@
   .top-icon-container {
     display: flex;
     flex-flow: row wrap;  
-    justify-content: space-around;
+    justify-content: center;
     padding: 0;
     margin: 0;
     border-bottom: 20px solid black;
@@ -218,8 +218,12 @@
     display: flex;
     width: 50%;
     flex-wrap: wrap;
+    justify-content: center;
+
 
   }
+
+  /* todo look at breakpoints for css mobile -- mobile breakpoints */
 
   .book-item {
     display: flex;
