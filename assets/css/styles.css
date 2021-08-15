@@ -229,6 +229,7 @@
 
   .book-item {
     display: flex;
+    flex-flow: row wrap;  
     justify-content:center;
     flex-direction: column;
     align-items: center;
@@ -245,6 +246,19 @@
  
   }
   .top-icon {
+    padding: px;
+    width: 200px;
+    margin-top: 10px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .book-icon {
     padding: px;
     width: 200px;
     margin-top: 10px;
