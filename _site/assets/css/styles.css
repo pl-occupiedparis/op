@@ -209,14 +209,14 @@
     justify-content: center;
     padding: 0;
     margin: 0;
-    border-bottom: 20px solid black;
-    width: 50%;
+    /* border-bottom: 20px solid black; */
+    width: 60%;
   }
 
   .bookshelf {
     flex-direction: row;
     display: flex;
-    width: 50%;
+    width: 60%;
     flex-wrap: wrap;
     justify-content: center;
 
@@ -238,10 +238,12 @@
     justify-content:center;
     flex-direction: column;
     align-items: center;
+    border-bottom: 20px solid black;
+
  
   }
   .top-icon {
-    padding: 5px;
+    padding: px;
     width: 200px;
     margin-top: 10px;
     line-height: 150px;
@@ -256,6 +258,14 @@
   .globe {
     background-image: url("/assets/images/globe_icon_2.png");
     
+  }
+
+  .book {
+    background-image: url(/assets/images/closed_book_icon.png)
+  }
+
+  .map {
+    background-image: url(/assets/images/map_icon.png)
   }
 
   ul {
