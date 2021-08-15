@@ -221,6 +221,8 @@
     width: 80%;
     flex-wrap: wrap;
     justify-content: center;
+    padding: 0;
+    margin:0 ;
 
 
   }
@@ -234,6 +236,9 @@
     flex-direction: column;
     align-items: center;
     border-bottom: 20px solid black; 
+    margin-top: 10px;
+    width: 100%;
+
   }
 
   .nav-button {
