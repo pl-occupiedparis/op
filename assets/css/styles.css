@@ -206,17 +206,19 @@
   .top-icon-container {
     display: flex;
     flex-flow: row wrap;  
-    justify-content: center;
+    justify-content: space-evenly;
     padding: 0;
     margin: 0;
     /* border-bottom: 20px solid black; */
-    width: 60%;
+    width: 80%;
+    border-bottom: 20px solid black;
+
   }
 
   .bookshelf {
     flex-direction: row;
     display: flex;
-    width: 60%;
+    width: 80%;
     flex-wrap: wrap;
     justify-content: center;
 
@@ -230,7 +232,7 @@
     justify-content:center;
     flex-direction: column;
     align-items: center;
-    border-bottom: 20px solid black;
+    border-bottom: 20px solid black; 
   }
 
   .nav-button {
@@ -238,7 +240,7 @@
     justify-content:center;
     flex-direction: column;
     align-items: center;
-    border-bottom: 20px solid black;
+    /* border-bottom: 20px solid black; */
 
  
   }
