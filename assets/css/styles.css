@@ -217,13 +217,13 @@
 
   .bookshelf {
     flex-direction: row;
+    flex-flow: row wrap;
     display: flex;
+    padding: 0;
+    margin: 0;
     width: 80%;
     flex-wrap: wrap;
-    justify-content: center;
-    padding: 0;
-    margin:0 ;
-
+    justify-content: space-evenly;
 
   }
 
@@ -255,9 +255,8 @@
     width: 200px;
     margin-top: 10px;
     line-height: 150px;
-    color: white;
     font-weight: bold;
-    font-size: 3em;
+    font-size: 0em;
     text-align: center;
     background-size: contain;
     background-repeat: no-repeat;

@@ -60,14 +60,15 @@ title: Occupied Paris
   </div>
 
 
-    <div class="bookshelf">
+  <div class="bookshelf">
+    {% for narrative in site.data.narratives %}
+      <div class="book-item">
+        <a href="{{ narrative.name | datapage_url: 'narratives' }}"><img src="{{ narrative.image }}" width=10% ></img></li></a>
+        <p>{{ narrative.name }}</p>
+      </div>
+    {% endfor %}
+  </div>
 
-      {% for narrative in site.data.narratives %}
-        <div class="book-item">
-          <a href="{{ narrative.name | datapage_url: 'narratives' }}"><img src="{{ narrative.image }}" width=10% ></img></li></a>
-          <p>{{ narrative.name }}</p>
-        </div>
-      {% endfor %}
 
       <!-- <a class="book-item" href="https://www.w3schools.com/cssref/pr_background-image.asp">
         <li class="book-icon"></li>
@@ -93,7 +94,6 @@ title: Occupied Paris
         <li class="top-icon globe"></li>
         <p>Book!!</p>
       </a> -->
-    </div>
 
     
   </div>
