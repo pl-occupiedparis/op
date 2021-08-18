@@ -76,6 +76,13 @@
     padding: 1em;
     color: #000000;
   }
+
+  .navigation b {
+    text-decoration: none;
+    display: block;
+    padding: 1em;
+    color: #ee0606;
+  }
   
   .navigation a:hover {
     background: #5999E4;
@@ -239,8 +246,18 @@
     align-items: center;
     border-bottom: 20px solid black; 
     margin-top: 10px;
-    width: 100%;
+    width: 200px;
+    height: 200px;
 
+  }
+
+  .book-images {
+    height: 80%
+  }
+
+  .book-link {
+    color: black;
+    text-decoration: none
   }
 
   .nav-button {
