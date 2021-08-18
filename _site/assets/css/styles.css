@@ -232,6 +232,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: flex-start;
+    
 
   }
 
@@ -253,8 +254,8 @@
 
   .book-images {
     display: block;
-    max-width:230px;
-    max-height:130px;
+    max-width:300px;
+    max-height:180px;
     width: auto;
     height: auto;
     }
