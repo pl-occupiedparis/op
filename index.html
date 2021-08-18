@@ -63,7 +63,7 @@ title: Occupied Paris
   <div class="bookshelf">
     {% for narrative in site.data.narratives %}
       <div class="book-item">
-        <a href="{{ narrative.name | datapage_url: 'narratives' }}"><img src="{{ narrative.image }}" width=10% ></img><p>{{ narrative.name }}</p></li></a>
+        <li><a href="{{ narrative.name | datapage_url: 'narratives' }}"><img src="{{ narrative.image }}" width=10% ></img><p>{{ narrative.name }}</p></a></li>
       </div>
     {% endfor %}
   </div>

@@ -224,6 +224,7 @@
     width: 80%;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    align-items: flex-start;
 
   }
 
@@ -231,7 +232,8 @@
 
   .book-item {
     display: flex;
-    flex-flow: row wrap;  
+    flex-flow: column wrap;  
+    flex-wrap: wrap;
     justify-content:center;
     flex-direction: column;
     align-items: center;
