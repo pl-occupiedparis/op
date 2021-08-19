@@ -326,5 +326,59 @@
     transform: scale(1.1);
   }
   
+  /*bottom right nav bar for biography pages*/
+/* Place the navbar at the bottom of the page, and make it stick */
+.navbar {
+  float: right;
+  background-color: #EEF5FC;
+  overflow: hidden;
+ /* position: fixed;*/
+position: absolute; right: 0; bottom: 0; float: right;
+  height: 60px;  
+  width: 28%;
+    box-shadow: 1px 20px 20px 0.1px #707070;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: #5999E4;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.navbar a.active {
+  background-color: #5999E4;
+  color: white;
+}
+
+
+#biography-subheader {
+  text-align: right;
+  float: right;
+  margin: 20px 0;
+
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 400px;
+}
+
+.biography-image {
+  float: left;
+}
+  
+  
   
   
