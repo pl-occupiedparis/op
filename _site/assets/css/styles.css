@@ -228,7 +228,7 @@
     padding: 0;
     margin: 0;
     /* border-bottom: 20px solid black; */
-    width: 100%;
+    width: 80%;
     border-bottom: 20px solid black;
   }
 
@@ -380,7 +380,7 @@
   }
 
   .book-item:hover{
-    transform: scale(1);
+    transform: scale(1.05);
   }
   
   
