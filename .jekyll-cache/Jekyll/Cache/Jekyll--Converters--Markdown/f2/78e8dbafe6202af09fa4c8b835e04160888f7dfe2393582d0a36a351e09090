@@ -1,22 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>The Project</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-
-  <body>
-    <ul class="navigation">    <a class="navigation a" href="/">Occupied Paris</a>
-    
-      <a href="/about.html">The Project</a>
-    
-      <a href="">Maps</a>
-    
-      <a href="/context">Historical Context</a>
-    
-</ul>
-    <h1 id="the-project">The Project</h1>
+I"�<h1 id="historical-context">Historical Context</h1>
 
 <h2 id="mapping-paris-during-the-german-occupation">Mapping Paris During the German Occupation</h2>
 
@@ -46,7 +28,4 @@
 
 <p>My grandmother’s name was Renée Péron. That extra [e] which sets her apart from the illustrator of The Jew and France might be one key to the story. I could in fact dedicate the project to the letter [e] as Georges Perec did. For [e], Pour [e], For them, Pour eux. For those little ones my grandmother did not save, for the children she could have hidden in her farm and given magical memories to, for my grandmother and the person she wished she could have been for them, for the stories she could not tell as her memory was being erased, for my grandfather and the man he became thanks to Louise, for Louise who is forever part of the family narrative.</p>
 
-
-  </body>
-</html>
-
+:ET
