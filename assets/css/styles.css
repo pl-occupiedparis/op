@@ -218,7 +218,7 @@
     margin: 0;
     /* border-bottom: 20px solid black; */
     width: 80%;
-    border-bottom: 20px solid black;
+    border-bottom: 20px solid rgb(36, 36, 36);
   }
 
   .bookshelf-container {
@@ -227,10 +227,10 @@
     justify-content: space-evenly;
     padding: 0;
     margin: 0;
-    padding-top: 25px;
+    padding-top: 30px;
     /* border-bottom: 20px solid black; */
     width: 80%;
-    border-bottom: 20px solid black;
+    border-bottom: 20px solid rgb(36, 36, 36);
   }
 
  /* .bookshelf {
