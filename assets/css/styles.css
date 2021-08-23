@@ -414,11 +414,26 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-flow: row nowrap;
+
+
   }
+
+  .brand {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-flow: row nowrap;
+
+  }
+
+
   .site-header__wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-flow: row nowrap;
+
   }
   
   
