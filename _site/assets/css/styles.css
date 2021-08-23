@@ -323,7 +323,7 @@
   }
 
   .book {
-    background-image: url(/assets/images/closed_book_icon.png)
+    background-image: url(/assets/images/closed_book_icon.png);
   }
 
   .map {
@@ -332,42 +332,52 @@
 
   .muller {
     background-image: url("/assets/images/book_images/muller.jpg");
+    background-size: cover;
   }
 
   .jerdinak {
     background-image: url("/assets/images/book_images/jedinak.jpg");
+    background-size: cover;
   }
 
   .bessmann {
     background-image: url("/assets/images/book_images/bessmann.jpg");
+    background-size: cover;
   }
 
   .chapiro {
     background-image: url("/assets/images/book_images/chapiro.jpg");
+    background-size: cover;
   }
 
   .dalsace {
     background-image: url("/assets/images/book_images/dalsace.jpg");
+    background-size: cover;
   }
 
   .duval {
     background-image: url("/assets/images/book_images/duval.jpeg");
+    background-size: cover;
   }
 
   .lorch {
     background-image: url("/assets/images/book_images/lorch.jpg");
+    background-size: cover;
   }
 
   .montard {
     background-image: url("/assets/images/book_images/montard.jpg");
+    background-size: cover;
   }
 
   .mora {
     background-image: url("/assets/images/book_images/mora.jpg");
+    background-size: cover;
   }
 
   .testyler {
     background-image: url("/assets/images/book_images/testyler.jpg");
+    background-size: cover;
   }
 
   ul {
