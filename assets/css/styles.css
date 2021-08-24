@@ -230,6 +230,7 @@
     padding-top: 30px;
     /* border-bottom: 20px solid black; */
     width: 80%;
+    height: 100%;
     border-bottom: 20px solid rgb(36, 36, 36);
   }
 
@@ -264,7 +265,8 @@
     max-width:300px;
     max-height:180px;
     width: auto;
-    height: auto;
+    height: 100%;
+
     }
 
   .book-link {
@@ -316,6 +318,8 @@
     text-align: center;
     background-size: contain;
     background-repeat: no-repeat;
+    height: 280px;
+
   }
 
   .globe {
