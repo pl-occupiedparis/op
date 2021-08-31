@@ -451,5 +451,213 @@
 
   }
   
-  
+    /******************************************************************************
+  styles for biography pages (i.e.) Henri Muller -- Angie
+******************************************************************************/
+.navbar {
+  background:  white;
+  padding:  15px 50px 75px 50px;
+
+}
+
+#go-back {
+      color: #000000;
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 105%;
+    margin-left: 110px;
+    opacity:  50%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+.right-col {
+  margin:  5em;
+  padding:  5em;
+}
+
+/* Place the navbar at the bottom of the page, and make it stick */
+.bottom-right-navbar {
+  float: right;
+  background-color: #EEF5FC;
+  overflow: hidden;
+ /* position: fixed;*/
+  position: fixed; right: 0; bottom: 0; float: right;
+  height: 60px;  
+  width: 28%;
+  box-shadow: 1px 20px 20px 0.1px #707070;
+}
+
+/* Style the links inside the navigation bar */
+.bottom-right-navbar a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+/* Change the color of links on hover */
+.bottom-right-navbar a:hover {
+  background-color: #5999E4;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.bottom-right-navbar a.active {
+  background-color: #5999E4;
+  color: white;
+}
+
+.container .right-col .biography-header h1 {
+  font-size: 4em;
+  font-weight: bold;
+}
+
+#biography-subheader {
+  text-align: right;
+  float: right;
+  margin: 20px 0;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 400px;
+}
+
+.left-col .biography-photo {
+  float: left;
+  margin:  0;
+  padding:  0;
+  width:  700px;
+}
+
+section {
+  padding: 5em 2em;
+}
+
+.right-col .biography-header {
+  font-size: 48px;
+}
+
+.right-col .biography-under {
+  color: 3a3b3c;
+  margin-top: 2.5em;
+  opacity: 0.9;
+}
+
+.right-col .biography-subheader {
+  color: 3a3b3c;
+  opacity:  0.8;
+}
+
+.interactive-map {
+  text-align: center;
+}
+
+.timeline {
+  background-color: B0B3B8;
+}
+
+/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #FFFFFF;
+  font-family: HK Grotesk;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 18px;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  left-margin:  5em;
+  float: right;
+  font-size: 18px;
+  font-weight: bolder;
+  margin: 0px 55px 35px 55px;
+  padding-top: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  border: none;
+  outline: none;
+  color: black;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+.navbar #bar-items {
+  padding:  20px;
+  text-align:  left;
+}
+
+/* Add a blue background color to navbar links on hover */
+#bar-items .navbar a:hover, .dropdown:hover .dropbtn  {
+  background-color: #5999E4;
+}
+
+/* Add a blue background color to navbar links on hover */
+#bar-items .navbar a:hover {
+  background-color: #5999E4;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a blue background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #5999E4;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/*reposition occupied paris logo*/
+.navbar #logo a {
+  font-size: large;
+  margin-right: 45em;
+  margin-left: 2em;
+  }
+
   
