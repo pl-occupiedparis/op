@@ -411,14 +411,21 @@
     transform: scale(1.1);
   } */
 
-  .book-item:hover .overlay {
-    position:absolute;
-    top:0;
-    left:0;
+  .book-item:hover {
     display: flex;
     flex-direction:column;
     justify-content:center;
-    background: #1d1f21;
+    opacity: 0.4
+  }
+
+  .hover-title {
+    visibility: hidden;
+    z-index:10;
+  }
+
+  .hover-title:hover {
+    justify-content:center;
+    visibility: visible;
   }
 
   .site-header {
@@ -592,7 +599,7 @@ section {
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  left-margin:  5em;
+  left:  5em;
   float: right;
   font-size: 18px;
   font-weight: bolder;
