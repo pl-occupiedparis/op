@@ -120,10 +120,7 @@
   .divider {
     padding: 0 1rem;
   }
-  /******************************************************************************
-  END Glitch hello-app default styles
-  ******************************************************************************/
-  
+
   body {
     font-family: HK Grotesk;
     background-color: var(--color-bg);
@@ -457,6 +454,18 @@
     flex-flow: row nowrap;
 
   }
+
+  /* styles for "about" and "historical context" pages */
+
+  .banner-image {
+    display: flex; 
+    flex-flow: row nowrap;
+    align-items: center
+  }
+
+  .banner-about {
+    background-image: url("assets/images/banner_images/banner_image_1.jpg");
+  } 
   
     /******************************************************************************
   styles for biography pages (i.e.) Henri Muller -- Angie

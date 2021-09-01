@@ -1,7 +1,11 @@
 ---
-layout: default
+layout: about
 title: The Project
 ---
+
+<div class="banner-image"><img src="assets/images/banner_images/banner_image_1.jpg"></img></div>
+
+
 # The Project
 
 ## Mapping Paris During the German Occupation
