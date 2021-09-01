@@ -1,4 +1,9 @@
-I"<div class="banner-image"><img src="assets/images/banner_images/banner_image_1.jpg" />&lt;/img&gt;</div>
+I"J<div class="banner">
+    <div class="banner-image">
+        <img src="assets/images/banner_images/banner_image_1.jpg" />
+        &lt;/img&gt;
+    </div>
+</div>
 
 <h1 id="the-project">The Project</h1>
 

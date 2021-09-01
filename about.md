@@ -3,7 +3,9 @@ layout: about
 title: The Project
 ---
 
-<div class="banner-image"><img src="assets/images/banner_images/banner_image_1.jpg"></img></div>
+<div class="banner">
+    <div class="banner-image"><img src="/assets/images/banner_images/banner_image_1.jpg"></div>
+</div>
 
 
 # The Project

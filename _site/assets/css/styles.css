@@ -457,15 +457,30 @@
 
   /* styles for "about" and "historical context" pages */
 
-  .banner-image {
+  .banner {
     display: flex; 
     flex-flow: row nowrap;
-    align-items: center
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .banner-image {
+    align-items: center;
+    display: flex;
+    height: 100px;
+    padding-bottom: 1px;
+    text-align: center;
+    background-size: contain;
+
+
   }
 
   .banner-about {
-    background-image: url("assets/images/banner_images/banner_image_1.jpg");
-  } 
+    background-image: url("/assets/images/banner_images/banner_image_1.jpg");
+    background-size: cover;
+
+  }
+
   
     /******************************************************************************
   styles for biography pages (i.e.) Henri Muller -- Angie
