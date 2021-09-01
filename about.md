@@ -3,8 +3,12 @@ layout: about
 title: The Project
 ---
 
-<div class="banner">
-    <div class="banner-image"><img src="/assets/images/banner_images/banner_image_1.jpg"></div>
+<div class="main-content">
+    <div class="banner">
+        <div class="banner-image-about">
+            <img src="/assets/images/banner_images/banner_image_1.jpg">
+        </div>
+    </div>
 </div>
 
 

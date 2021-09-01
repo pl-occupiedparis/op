@@ -1,44 +1,6 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>The Project</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-
-  <body>
-    <ul class="navigation">    
-    <div class="site-header">
-      <div class="site-header__wrapper">
-        <div class="header-title">
-          <a href="/" class="brand"><img src="/assets/images/header_image.jpg"  height="70" alt="brand" /></a>
-        </div>
-        <nav class="navigation">
-          
-          <a href="/about.html">The Project</a>
-          
-          <a href="">Maps</a>
-          
-          <a href="/context">Historical Context</a>
-          
-        </nav>
-      </div>
-    </div>
-    
-    <!--<a class="navigation" href="/">Occupied Paris</a>
-    
-      <a href="/about.html">The Project</a>
-    
-      <a href="">Maps</a>
-    
-      <a href="/context">Historical Context</a>
-    -->
-</ul>
-    <div class="main-content">
-    <div class="banner">
-        <div class="banner-image-about">
-            <img src="/assets/images/banner_images/banner_image_1.jpg" />
-        </div>
+I"G<div class="banner">
+    <div class="banner-image">
+        &lt;img src="/assets/images/banner_images/banner_image_1.jpg" height= 100%&gt;
     </div>
 </div>
 
@@ -72,7 +34,4 @@
 
 <p>My grandmother’s name was Renée Péron. That extra [e] which sets her apart from the illustrator of The Jew and France might be one key to the story. I could in fact dedicate the project to the letter [e] as Georges Perec did. For [e], Pour [e], For them, Pour eux. For those little ones my grandmother did not save, for the children she could have hidden in her farm and given magical memories to, for my grandmother and the person she wished she could have been for them, for the stories she could not tell as her memory was being erased, for my grandfather and the man he became thanks to Louise, for Louise who is forever part of the family narrative.</p>
 
-
-  </body>
-</html>
-
+:ET

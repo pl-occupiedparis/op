@@ -458,22 +458,30 @@
   /* styles for "about" and "historical context" pages */
 
   .banner {
-    display: flex; 
+    display: flex;
     flex-flow: row nowrap;
     align-items: center;
     flex-direction: column;
+    height: 200px;
+
   }
 
   .banner-image {
     align-items: center;
     display: flex;
-    height: 100px;
     padding-bottom: 1px;
     text-align: center;
-    background-size: contain;
-
-
+    height:100px;
   }
+
+
+
+
+  .img {
+    max-width: 100%;
+  }
+
+
 
   .banner-about {
     background-image: url("/assets/images/banner_images/banner_image_1.jpg");
