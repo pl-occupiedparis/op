@@ -294,6 +294,10 @@
     
   }
 
+  .book-item a {
+    text-decoration: none;
+  }
+
   
 
 
@@ -303,7 +307,6 @@
     margin-top: 10px;
     line-height: 150px;
     font-weight: bold;
-    font-size: 0em;
     text-align: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -317,7 +320,6 @@
     width: 180px;
     line-height: 150px;
     font-weight: bold;
-    font-size: 0em;
     padding-bottom: 1px;
     text-align: center;
     background-size: contain;
@@ -393,11 +395,14 @@
   ul {
     display: flex;
     flex-wrap: wrap;
+    list-style: none;
   }
   
   li {
     height: 30vh;
     flex-grow: 1;
+    list-style: none;
+
   }
 
   .top-icon:hover{
@@ -412,17 +417,46 @@
     display: flex;
     flex-direction:column;
     justify-content:center;
-    opacity: 0.4
+
   }
 
   .hover-title {
-    visibility: hidden;
     z-index:10;
+    font-size: 1em;
+    width: 100px;
+    height: 100px;
+    opacity: 0;
+    text-decoration: none;
   }
 
   .hover-title:hover {
     justify-content:center;
-    visibility: visible;
+    font-size: 1em;
+    
+  }
+
+  .book-item:hover .hover-title {
+    opacity:1
+  }
+
+  .book-item:hover li {
+    opacity:0.5
+  }
+
+
+
+
+
+
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
   }
 
   .site-header {
