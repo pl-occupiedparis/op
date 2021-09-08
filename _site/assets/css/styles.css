@@ -325,10 +325,11 @@
     background-repeat: no-repeat;
     height: 280px;
     text-align: center;
-    font: serif;
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
+
 
 
   }
@@ -430,16 +431,16 @@
     z-index:10;
     font-size: 20px;
     color: black;
-    width: 100px;
     opacity: 0;
     text-align: center;
     margin: auto;
-    text-shadow: white;
+    text-shadow: 2px 2px #FFFFFF;
     letter-spacing: 1px;
     text-align: center;
     align-items: center;
-    height:100%;
     padding: 70px 0;
+    font-size: x-large;
+
 
 
     
