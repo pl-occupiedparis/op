@@ -512,24 +512,18 @@
     flex-flow: row nowrap;
     align-items: center;
     flex-direction: column;
-    height: 200px;
+    height: 250px;
 
 
   }
 
-  .banner-image {
-    align-items: center;
-    display: flex;
-    padding-bottom: 1px;
-    text-align: center;
-    height:100px;
-    background-size: contain;
 
-  }
 
   .banner-about {
     background-image: url("/assets/images/banner_images/banner_image_1.jpg");
     background-size: cover;
+    background-position:0% 80%;
+
   }
 
 
