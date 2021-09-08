@@ -422,25 +422,23 @@
 
   .hover-title {
     z-index:10;
-    font-size: 1em;
+    font-size: 20px;
+    color: black;
     width: 100px;
     height: 100px;
     opacity: 0;
     text-decoration: none;
   }
 
-  .hover-title:hover {
-    justify-content:center;
-    font-size: 1em;
-    
-  }
 
   .book-item:hover .hover-title {
-    opacity:1
+    opacity:1;
+    color: red
+
   }
 
   .book-item:hover li {
-    opacity:0.5
+    background: rgba(255,255,255,0.8);    
   }
 
 
