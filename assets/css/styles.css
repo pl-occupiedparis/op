@@ -526,6 +526,13 @@
 
   }
 
+  .banner-context {
+    background-image: url("/assets/images/banner_images/newspaper.png");
+    background-size: cover;
+    background-position:0% 10%;
+
+  }
+
 
 
   .img {

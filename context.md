@@ -2,6 +2,10 @@
 layout: default
 title: Historical Context
 ---
+
+<div class= "banner banner-context"></div>
+
+
 # Historical Context
 
 ## Historical Context
