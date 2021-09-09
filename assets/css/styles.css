@@ -540,6 +540,15 @@
     max-width: 100%;
   }
 
+  .img-inline {
+    width: 450px;
+    display:block;
+    float: center;
+    clear: right;
+    margin: 0 0 0 15px;
+
+  }
+
 
 
 

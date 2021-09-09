@@ -1,39 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>The Project</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-
-  <body>
-    <ul class="navigation">    
-    <div class="site-header">
-      <div class="site-header__wrapper">
-        <div class="header-title">
-          <a href="/" class="brand"><img src="/assets/images/header_image.jpg"  height="70" alt="brand" /></a>
-        </div>
-        <div class="pages-navigation">
-          
-          <a href="/about.html">The Project</a>
-          
-          <a href="">Maps</a>
-          
-          <a href="/context">Historical Context</a>
-          
-        </div>
-    </div>
-    
-    <!--<a class="navigation" href="/">Occupied Paris</a>
-    
-      <a href="/about.html">The Project</a>
-    
-      <a href="">Maps</a>
-    
-      <a href="/context">Historical Context</a>
-    -->
-</ul>
-    <div class="banner banner-about"></div>
+I"�D<div class="banner banner-about"></div>
 
 <h1 id="the-project">The Project</h1>
 
@@ -128,15 +93,12 @@
 
 <p>Using the same knotting method, we are currently connecting the VHA testimony of Nadia Kaluski to Louise Jacobson’s story. Nadia’s maiden name is Jacobson. She is in fact Louise’s older sister. The testimony of Arlette Reiman seems to mirror parts of Dora Bruder’s story. Claude, Nadia and Arlette offer versions of what the lives of Hélène, Louise and Dora could have been.</p>
 
-<p><img src="/assets/images/the_project/intro_17.png" alt="" class="img-inline" /></p>
-
 <p>Beside its informational nature, the mapping project provides a surface for the passing through of witnesses to turn into an inscription, a trace. It enables the drafts, the victims’ lives were condemned to be, to unfold into a variation of texts they could have become. The starring effect of Hantaï’s paintings happens on the map and, as Fourcade says about the artist’s work, it “lifts, suspends, prolongates a time that was not supposed to last.”</p>
+
+<p><img src="/assets/images/the_project/intro_17.png" alt="" class="img-inline" /></p>
 
 <p>On the map, three little stars identify the stories of witnesses. Three little stars are conventionally used to mask somebody’s identity. In the unfolded map, it is a reminder of the breathing constellation that connects the visible and the vanished, here and there, now and then, us and them.</p>
 
 <p>Hantaï started his folding method when he moved his family from Paris to Meun. A tiny village barely visible on a map. It is located 30 kms from Pithiviers and 30 kms from Beaune-la-Rolande - both known for their internment camps where thousands of Jew – among whom many children-transited before being deported to Auschwitz. His series Blancs was started the year I was born. Maybe this is when it all started for me.</p>
 
-
-  </body>
-</html>
-
+:ET

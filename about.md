@@ -18,13 +18,28 @@ Yet, I created a course on Paris during the German Occupation, applied and recei
 
 ## Why? Why would I explore a time from a past I did not experience?
 
+![Peron](/assets/images/the_project/intro_1.png){:class="img-inline"}
+
+
 To answer this question, I turned to my primary signifier. Could my name lead me to the liminal moment when it all started or should I say the threshold, as my name actually means in French if you add an extra [r]? A quick Google search conjures up a frightening web connecting my name to …anti-Semitism. René Péron, the illustrator known for the poster he drew for the movie And God created woman, was the author of the infamous poster The Jew and France. Perón, with a displaced accent on the [o], takes us to the Argentinian leader who financed the escape of key architects of the Holocaust. Pèron, with an inverted accent on the [e], means pillory in old French. Au Pilori was the most virulent anti-Semitic weekly paper during the Occupation.
+
+
+
+
+
+![Pithiviers Beaune La Rolande](/assets/images/the_project/intro_2.png){:class="img-inline"}
 
 My place of birth only reinforces the rooting of my origins into the wrong side of history. I was born 30 kms away from Beaune-la-Rolande, 50 kms away from Pithiviers. Both towns became known for their internment camps where thousands of Jews – a lot of whom were children- transited before being deported to Auschwitz. Growing up, for the longest time, I only knew that a Pithiviers was a cake, specialty of the town bearing the same name.
 
 Maybe this is where it all started.
 
+
+
+
 ## My Grandmother's Apron 
+
+![](/assets/images/the_project/intro_3.png){:class="img-inline"}
+
 
 My grandmother was a peasant. One about whom books do not talk much. She worked like a man, ran the farm and raised 2 young daughters while her husband was a war prisoner in Czechoslovakia for 5 years. A woman of few words, she always remembered to make everyone’s favorite dish when they came visit, to plant all of her grandchildren’s favorite fruits in the garden, to take us on long bike rides finding the best tree under which to take a nap. She got up hours before everyone else, put on her meticulously ironed apron and silently got everything ready. She lived backstage, in her charismatic husband’s shadow. She never talked about her past. She never talked about her feelings. She never talked about her dreams. No one asked her about them anyway. She was just there for us, her “little ones” (mes petits) as she called us.
 
@@ -36,5 +51,77 @@ My grandmother eventually had Alzheimer’s. My name and my face were the only o
 
 All I have is her first name. Louise. My grandfather’s name was Maurice. Louise and Maurice met in 1945 on the road. He was heading back home from Czechoslovakia where he was a war prisoner. She was a survivor from a concentration camp. She had nothing on. Her feet were swollen and bloody. My grandfather gave her a jacket and made her shoes with leaves and tree bark. He had never met a Jew and she surely did not look like what he had in mind Jews looked like. I can’t help wonder: had my grandfather not been taken prisoner in 1940, would he have supported the Vichy anti-Semitic laws? He used to say Louise was the best thing that ever happened to him during that war. We all knew Louise who religiously called once a year – probably on the anniversary of the day they met. Yet, nobody in my family, but my grandfather, ever saw her or spoke to her. After he died, I looked for her name in his address book. She was listed simply as Louise. There was no address. Only a phone number. Soon after, somebody discarded the old book and Louise vanished with it.
 
+![](/assets/images/the_project/intro_4.png){:class="img-inline"}
+
+
 My grandmother’s name was Renée Péron. That extra [e] which sets her apart from the illustrator of The Jew and France might be one key to the story. I could in fact dedicate the project to the letter [e] as Georges Perec did. For [e], Pour [e], For them, Pour eux. For those little ones my grandmother did not save, for the children she could have hidden in her farm and given magical memories to, for my grandmother and the person she wished she could have been for them, for the stories she could not tell as her memory was being erased, for my grandfather and the man he became thanks to Louise, for Louise who is forever part of the family narrative.
+
+## Interstitial Whites: Simon Hantaï
+
+![Simon Hantaï](/assets/images/the_project/intro_5.png){:class="img-inline"}
+
+The painter Simon Hantaï developed a particular method he called pliage (folding). The word method versus the word technique entails that the painter did not claim full control over the means he employed and did not aim at a definite outcome. His method consisted in folding, creasing, knotting (ficelage) a large canvas.
+
+Once the paint was dry, he proceeded to unknot and unfold the cloth.
+
+![](/assets/images/the_project/intro_6.png){:class="img-inline"}
+
+In the catalogue of a 1976 retrospective, Hantaï shared a picture pointing at the potential origin of his method. The picture shows his mother wearing a meticulously ironed apron. The symmetrical creases visible on the shiny cloth turns the maternal apron prefigured the tabulas painted by the son. Folding-as-method then helps bringing back memories to the surface.
+
+Unfolding the canvas was always a revelation. Hantaï talked about chance as a key agent in his work for conjuring up what he could not even imagine or think of at the beginning. In this Tabula, the blue grid is counterbalanced by the white at the intersections created by the knots. Georges Didi-Huberman poetically called it étoilement, starring effect. The poet Dominique Fourcade explains that the starring effect generates “a sort of lifting, suspension, a prolongation of a time that is not supposed to last.”
+
+
+![](/assets/images/the_project/intro_7.png){:class="img-inline"}
+![](/assets/images/the_project/intro_8.png){:class="img-inline"}
+
+
+In Hantaï’s series Blancs, the white activates the painted. The painted is brought into the visible by the empty. We see how the folds connect and separate whites and colors, pieces and the whole, inside and outside. The effect recalls the incessant back and forth binary movement of breathing in and out. When the canvas is stretched and finds the verticality it was denied while in the making, one can hear and see its heart beat.
+
+![](/assets/images/the_project/intro_9.png){:class="img-inline"}
+
+
+In Hantaï’s series Blancs, the white activates the painted. The painted is brought into the visible by the empty. We see how the folds connect and separate whites and colors, pieces and the whole, inside and outside. The effect recalls the incessant back and forth binary movement of breathing in and out. When the canvas is stretched and finds the verticality it was denied while in the making, one can hear and see its heart beat.
+
+![](/assets/images/the_project/intro_10.png){:class="img-inline"}
+
+In 2016, I was granted the Rutman Teaching Fellowship to conduct research for my course entitled Paris during the German Occupation and its places of Non-Memory. I knew I wanted to create a digital map to help my students – some of whom had never been to Paris – envision as best as possible the Paris of the time. Beyond locating the key places of the Nazi machinery and the collaborationist monster, I also wanted the map to become the space where the stories of individuals who vanished recovered their voices. What I did not know was how to answer the simple question: So what are the expected outcomes of this project? I would just say: “I’m not sure where it will take me. We’ll see.”
+
+![](/assets/images/the_project/intro_11.png){:class="img-inline"}
+
+First, I bought a 1940 map for a modest 5 euros on ebay. It was unfolded and scanned with the creases time had left in its fabric visible. The digital image of the map was then layered onto a digital map of current Paris and the paper map was refolded.
+
+![](/assets/images/the_project/intro_12.png){:class="img-inline"}
+
+From then on, I followed the same method rooted in unpredictability as Hantaï: bent over the canvas my floor, strewn with books, lose sheets and notes, had become, I adopted the floating vision of the painter.
+
+![](/assets/images/the_project/intro_13.png){:class="img-inline"}
+
+Then, Kyra and I knotted texts, images, voices together. Instead of brushing paint over this montage, we transposed it onto the map. Despite the frontal position we suddenly had, facing the screen, we still proceeded blindly. Mechanically pinning, stitching onto the fabric of the map never knowing what was going to appear in the end. When we would zoom out, empty spaces punctuated the map. Yet, surprisingly, there were not obscure blanks, signs of an inevitable erasure. Instead they were dynamic lights, semaphores that led us to keep on looking. They were the complicit lights I saw in my grandmother’s stare.
+
+![](/assets/images/the_project/intro_14.png){:class="img-inline"}
+
+The background of the course is woven with the stories of three young women: Hélène Berr, Dora Bruder and Louise Jacobson. Hélène left a diary started in 1942 and interrupted in 1944 when she was arrested. Louise left letters written during her captivity in the Drancy camp. Dora left an ad in the newspaper posted by her parents asking for anyone who had seen their runaway daughter to contact them. They all died in a concentration camp. Patrick Modiano tried to follow Dora’ steps in his eponymous novel. We used the Visual History Archive. We cross-referenced and cross-stitched the stories of these three young women with the stories of young women who, unlike them, were able to tell their stories, after the war was over.
+
+![](/assets/images/the_project/intro_15.png){:class="img-inline"}
+
+The Shoah Foundation Visual History Archive counts 52,000 testimonies from Holocaust witnesses. 1,858 are in French. 24, 626 are in English. In order to find my way amidst this ocean of stories, I searched the database using the keywords Paris, Hélène, Dora, Louise and each girl’s date of birth as cross-reference criteria.
+
+This is how I met Claude Bloch. I had initially selected her file because the Parisian was born the same year as Dora Bruder. As I was listening to the elegant 80 year-old lady Claude was fortunate to have become, I realized she grew up in the same milieu and neighborhood as Hélène Berr. And then magic or what Hantaï held dear, chance, happened: Claude talked about her mother’s fragile state after her father, Jean Bloch, was arrested. It reminded me of a passage where Hélène Berr cryptically wrote about a family friend whose state of mind after her husband’s arrest worried her. I flipped through the pages of the journal and found the passage. The lady in question was named … Mme Bloch. I kept on flipping the pages and came across the entry where Hélène wrote “Jean Bloch was deported yesterday”. The knotting together of Hélène Berr’s journal and Claude Bloch’s visual testimony triggered a starring effect further linking both young women: they both mention the Senator Pierre Masse who linked them to Paul Léon, James Joyce’s friend, who tied them to Sylvia Beach, the owner of the famous bookstore Shakespeare and Company. During the same time, I had also started to read the book written by Georges Wellers, in 1946, about his captivity in the Drancy camp.
+
+Sylvia Beach has a very short chapter on the Occupation at the end of her memoirs. As could be expected, she talks about the exuberant Hemingway and, surprisingly, mentions a young Jewish friend who volunteered at the bookstore. Her name was Françoise Bernheim. The ricochet effect happened again: Françoise Bernheim is a recurring name in Hélène’s journal. The two young women had met at the Jewish organization where they both volunteered. In the first part of her journal, Hélène constantly talks about her congenial colleague. In the second part of her journal, she writes about the void Françoise left behind after her arrest. Because the ricochet effect could not stop here, I ran into a whole chapter entitled Françoise Bernheim at the end of Georges Wellers’s book. Georges Wellers described a young woman whose joie de vivre and selflessness touched many. In the last scene of the chapter, we see her heading towards the bus taking her to her final destination. She pulls the hood of her grey raincoat over her head and waives at Wellers goodbye with a smile echoing Hélène’s description. Wellers and Hélène had to be referring to the same person. As chance wanted, Kyra found the report Françoise’s niece filled at Yad Vashem. Her name is Françoise Findlay. She lives in London. Google provided me with a strange email address for a Françoise Findlay. I sent a message. Françoise and her sister Deanna kindly responded.
+
+In the course of the detailed portrait they made of their aunt, they mentioned a farm they own in Pithiviers, 50 kms from my childhood village, and a book their cousin wrote about the war and which they highly recommended Kyra and I read. The name of the cousin? Claude Bloch. Claude Bloch married Françoise’s cousin at the end of the war. She probably never met Françoise. Deanna and Françoise sent us a picture of their aunt taken during the war. We could finally pin the smile we had read about and … pronounce her name correctly /bernem/
+
+Using the same knotting method, we are currently connecting the VHA testimony of Nadia Kaluski to Louise Jacobson’s story. Nadia’s maiden name is Jacobson. She is in fact Louise’s older sister. The testimony of Arlette Reiman seems to mirror parts of Dora Bruder’s story. Claude, Nadia and Arlette offer versions of what the lives of Hélène, Louise and Dora could have been.
+
+![](/assets/images/the_project/intro_17.png){:class="img-inline"}
+
+
+Beside its informational nature, the mapping project provides a surface for the passing through of witnesses to turn into an inscription, a trace. It enables the drafts, the victims’ lives were condemned to be, to unfold into a variation of texts they could have become. The starring effect of Hantaï’s paintings happens on the map and, as Fourcade says about the artist’s work, it “lifts, suspends, prolongates a time that was not supposed to last.”
+
+On the map, three little stars identify the stories of witnesses. Three little stars are conventionally used to mask somebody’s identity. In the unfolded map, it is a reminder of the breathing constellation that connects the visible and the vanished, here and there, now and then, us and them.
+
+Hantaï started his folding method when he moved his family from Paris to Meun. A tiny village barely visible on a map. It is located 30 kms from Pithiviers and 30 kms from Beaune-la-Rolande - both known for their internment camps where thousands of Jew – among whom many children-transited before being deported to Auschwitz. His series Blancs was started the year I was born. Maybe this is when it all started for me.
+
+
 
