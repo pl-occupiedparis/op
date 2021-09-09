@@ -4,12 +4,11 @@
         <div class="header-title">
           <a href="/" class="brand"><img src="/assets/images/header_image.jpg"  height="70" alt="brand" /></a>
         </div>
-        <nav class="navigation">
+        <div class="pages-navigation">
           {% for item in site.data.navigation %}
           <a href="{{ item.link }}">{{ item.name }}</a>
           {% endfor %}
-        </nav>
-      </div>
+        </div>
     </div>
     
     <!--<a class="navigation" href="/">{{ "Occupied Paris" }}</a>

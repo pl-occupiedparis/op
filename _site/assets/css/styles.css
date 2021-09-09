@@ -60,15 +60,7 @@
   
   /* Navigation grid */
 
-  .navigation {
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: flex-end;
-    
-    list-style: none;
-    margin: 0; 
-    background: rgb(250, 254, 255);
-  }
+
   
   .navigation a {
     text-decoration: none;
@@ -482,15 +474,9 @@
     width: 100%
   }
 
-  .header-title {
-    display: flex;
-    align-items: flex-start;
-    flex-flow: row nowrap;
-  }
 
   .brand {
     display: flex;
-    justify-content: space-between;
     align-items: flex-start;
     flex-flow: row nowrap;
 
@@ -499,10 +485,24 @@
 
   .site-header__wrapper {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     flex-flow: row nowrap;
+    width: 100%;
+  }
 
+  .header-title {
+    display: flex;
+    align-items: flex-start;
+    flex-flow: row nowrap;
+  }
+
+  .pages-navigation {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    margin: 0; 
+    background: rgb(250, 254, 255);
+    margin-left: auto;
   }
 
   /* styles for "about" and "historical context" pages */
@@ -549,6 +549,7 @@
 .navbar {
   background:  white;
   padding:  15px 50px 75px 50px;
+  
 
 }
 
