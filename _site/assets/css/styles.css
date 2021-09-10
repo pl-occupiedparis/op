@@ -542,9 +542,9 @@
 
   .img-inline {
     width: 450px;
-    display:block;
-    float: center;
+    display: inline;
     clear: right;
+    display: flex;
     margin: 0 0 0 15px;
 
   }
