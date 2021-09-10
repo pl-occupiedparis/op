@@ -270,8 +270,7 @@
     flex-direction: column;
     align-items: center;
     text-transform: uppercase;
-    flex-direction: column
-
+    flex-direction: column;
   }
 
   .book-item {
@@ -295,8 +294,9 @@
 
   .top-icon {
     padding: 1px;
-    width: 180px;
-    margin-top: 10px;
+    width: 150px;
+    height: 180px;
+    margin-top: 35px;
     line-height: 150px;
     font-weight: bold;
     text-align: center;
@@ -542,24 +542,20 @@
 
   .img-inline {
     width: 450px;
-    display: inline;
+    display: block;
     clear: right;
-    display: flex;
+    float: right;
     margin: 0 0 0 15px;
 
-  }
-
-
-
-
+  }    
   
-    /******************************************************************************
+  
+  /******************************************************************************
   styles for biography pages (i.e.) Henri Muller -- Angie
 ******************************************************************************/
 .navbar {
   background:  white;
   padding:  15px 50px 75px 50px;
-  
 
 }
 
@@ -695,7 +691,7 @@ section {
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  left:  5em;
+  margin-left:  5em;
   float: right;
   font-size: 18px;
   font-weight: bolder;
@@ -763,4 +759,8 @@ section {
   margin-left: 2em;
   }
 
+
+
+
   
+
