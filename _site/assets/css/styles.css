@@ -762,5 +762,31 @@ section {
 
 
 
-  
+  Result Skip Results Iframe
+EDIT ON
+
+pn-body {
+  padding: 50px;
+}
+
+.pn-container {
+  border: none;
+  padding: 20px 40px 40px;
+  display: flex;
+}
+.pn-image {
+  margin: 20px 50px 0 0;
+    width: 25%;
+    object-fit: contain;
+    align-self: flex-start;
+}
+.pn-text {
+  flex: 1 1 auto;
+}
+
+.pn-text header {
+  color: #5999E4;
+  font-size: 400%;
+  font-weight: bold;
+}
 
