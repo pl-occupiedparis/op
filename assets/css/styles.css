@@ -802,3 +802,15 @@ pn-body {
   margin: 3% 0 5% 0;
 }
 
+.pn-container-timeline {
+  border: none;
+  padding: 20px 40px 40px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 10%
+}
+
+.pn-container-timeline h2 {
+  color: #5999E4;
+  font-size: 200%;
+}
