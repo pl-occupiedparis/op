@@ -775,18 +775,26 @@ pn-body {
   display: flex;
 }
 .pn-image {
-  margin: 20px 50px 0 0;
+  margin: 20px 8% 0 0;
     width: 25%;
     object-fit: contain;
     align-self: flex-start;
 }
 .pn-text {
+  margin: 20px 80px 0 0;
   flex: 1 1 auto;
 }
 
 .pn-text header {
   color: #5999E4;
-  font-size: 400%;
+  font-size: 350%;
   font-weight: bold;
+}
+
+.pn-text h2 {
+  color: black;
+  font-weight: bold;
+  font-size: larger;
+  margin: 3% 0 5% 0;
 }
 
