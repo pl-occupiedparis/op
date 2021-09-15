@@ -67,6 +67,7 @@
     display: block;
     padding: 1em;
     color: #000000;
+    text-transform: uppercase;
   }
 
   .navigation b {
@@ -487,23 +488,26 @@
     display: flex;
     align-items: center;
     flex-flow: row nowrap;
-    width: 100%;
+    width: 90%;
   }
 
   .header-title {
     display: flex;
     align-items: flex-start;
     flex-flow: row nowrap;
+    align-items: center;
+
   }
 
   .pages-navigation {
     display: flex;
+    align-items: center;
     flex-flow: row nowrap;
     justify-content: flex-end;
     margin: 0; 
     background: rgb(250, 254, 255);
     margin-left: auto;
-    font-size: larger;
+    font-size: large;
   }
 
   /* styles for "about" and "historical context" pages */
