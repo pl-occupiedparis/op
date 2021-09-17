@@ -1,6 +1,7 @@
 
 - name: The Project
   link: /about.html
-- name: Maps
+- name: Map
+  link: "https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit"
 - name: Historical Context
   link: /context

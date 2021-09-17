@@ -753,7 +753,7 @@ section {
 }
 
 /*reposition occupied paris logo*/
-.navbar #logo a {
+.navbar-np #logo a {
   font-size: large;
   margin-right: 45em;
   margin-left: 2em;
@@ -783,7 +783,7 @@ pn-body {
 
 
 .pn-text {
-  margin: 20px 30px 0 0;
+  margin: 5px 5px 0 0;
   flex: 1 1 auto;
 }
 
@@ -795,6 +795,25 @@ pn-body {
 }
 
 .pn-text h2 {
+  color: black;
+  font-weight: bold;
+  font-size: larger;
+  margin: 0 0 5% 0;
+}
+
+.pn-text-bio {
+  margin: 20px 30px 0 0;
+  flex: 1 1 auto;
+}
+
+
+.pn-text-bio header {
+  color: #5999E4;
+  font-size: 350%;
+  font-weight: bold;
+}
+
+.pn-text-bio h2 {
   color: black;
   font-weight: bold;
   font-size: larger;
@@ -815,6 +834,28 @@ pn-body {
 
 
 .pn-container-section h2 {
+  color: #2d4d72;
+  font-size: 160%;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+.pn-container-section-embed {
+  border: none;
+  padding: 20px 40px 40px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 5%;
+  margin: 20px 20px 20px 20px;
+  flex: 1 1 auto;
+  background-color: #EAEAEA;
+
+}
+
+
+
+.pn-container-section-embed h2 {
   color: #2d4d72;
   font-size: 160%;
   font-weight: bold;
