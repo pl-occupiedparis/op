@@ -585,20 +585,9 @@ ul {
   padding:  5em;
 }
 
-/* Place the navbar at the bottom of the page, and make it stick */
-.bottom-right-navbar {
-  float: right;
-  background-color: #EEF5FC;
-  overflow: hidden;
- /* position: fixed;*/
-  position: fixed; right: 0; bottom: 0; float: right;
-  height: 60px;  
-  width: 28%;
-  box-shadow: 1px 20px 20px 0.1px #707070;
-}
 
 /* Style the links inside the navigation bar */
-.bottom-right-navbar a {
+.navbar-pn a {
   float: left;
   display: block;
   color: #000000;
@@ -610,16 +599,16 @@ ul {
 }
 
 /* Change the color of links on hover */
-.bottom-right-navbar a:hover {
+.navbar-pn a:hover {
   background-color: #5999E4;
   color: white;
 }
 
-/* Add a color to the active/current link */
-.bottom-right-navbar a.active {
+/* Add a color to the active/current link 
+.navbar-pn a.active {
   background-color: #5999E4;
   color: white;
-}
+}*/
 
 .container .right-col .biography-header h1 {
   font-size: 4em;
@@ -675,18 +664,19 @@ section {
 .navbar-pn {
   overflow: hidden;
   font-family: HK Grotesk;
-  background-color: blue;
+  background-color: #e6f0fa;
   position: fixed;
   bottom: 0;
   right: 0;
   z-index: 10;
+  box-shadow: 5px 5px 5px 5px grey;
+  padding: 0.5%;
 }
 
 /* Links inside the navbar */
 .navbar-pn a {
   float: left;
   font-size: 18px;
-  font-weight: bolder;
   color: black;
   text-align: center;
   padding: 14px 16px;
