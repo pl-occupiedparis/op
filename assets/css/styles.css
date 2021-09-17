@@ -208,6 +208,7 @@
     padding: 0;
     margin: 0;
     /* border-bottom: 20px solid black; */
+    padding-top: 4%;
     width: 80%;
     border-bottom: 20px solid rgb(36, 36, 36);  
   }
@@ -670,14 +671,19 @@ section {
 }
 
 /* Navbar container */
-.navbar {
+
+.navbar-pn {
   overflow: hidden;
-  background-color: #FFFFFF;
   font-family: HK Grotesk;
+  background-color: blue;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 10;
 }
 
 /* Links inside the navbar */
-.navbar a {
+.navbar-pn a {
   float: left;
   font-size: 18px;
   font-weight: bolder;
@@ -711,7 +717,7 @@ section {
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
-.navbar #bar-items {
+.navbar-pn #bar-items {
   padding:  20px;
   text-align:  left;
 }
