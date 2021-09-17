@@ -3,7 +3,7 @@
     <ol class="carousel-indicators">
      {% for picture in include.data %}
      {% if forloop.first == true %}
-       <li data-target=”#{{ include.name }}” data-slide-to=”0" class=”active”></li>
+       <li data-target=”#{{ include.name }}” data-slide-to="0" class=”active”></li>
      {% else %}
        <li data-target=”#{{ include.name }}” data-slide-to=”{{ forloop.index0 }}”></li>
      {% endif %}
