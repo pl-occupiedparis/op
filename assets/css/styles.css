@@ -784,10 +784,13 @@ pn-body {
     object-fit: contain;
     align-self: flex-start;
 }
+
+
 .pn-text {
-  margin: 20px 80px 0 0;
+  margin: 20px 30px 0 0;
   flex: 1 1 auto;
 }
+
 
 .pn-text header {
   color: #5999E4;
