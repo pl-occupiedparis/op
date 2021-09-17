@@ -812,5 +812,6 @@ pn-body {
 
 .pn-container-timeline h2 {
   color: #2d4d72;
-  font-size: 180%;
+  font-size: 170%;
+  font-weight: bold;
 }
