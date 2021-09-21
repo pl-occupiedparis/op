@@ -9,7 +9,6 @@ title: Interview with Annette Bessmann
 
 # Interview with Henri Muller
 
-HENRI MULLER
 
 Interview conducted in Charenton-le-Pont on september 7, 1995 by Norbert Lipsyc.
 Credits : USC Shoah Foundation Institute Visual History Archive

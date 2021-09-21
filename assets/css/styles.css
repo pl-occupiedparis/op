@@ -536,6 +536,12 @@
     background-image: url("/assets/images/banner_images/communion_annette.jpg");
     background-size: cover;
     background-position:0% 45%;
+  }
+
+  .banner-michel {
+    background-image: url("/assets/images/banner_images/banner-michel.jpg");
+    background-size: cover;
+    background-position: 0% 45%;
 
   }
 

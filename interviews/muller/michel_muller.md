@@ -1,15 +1,13 @@
 ---
 layout: about
-title: Interview with Annette Bessmann
+title: Interview with Michel Bessmann
 ---
 
 
-<div class= "banner banner-amuller"></div>
+<div class= "banner banner-michel.jpg"></div>
 
 
-# Interview with Annette Bessmann née Muller
-
-MICHEL MULLER
+# Interview with Michel Muller
 
 Interview conducted in Paris on June 8, 1995 by Norbert Lipszyc.
 Credits : USC Shoah Foundation Institute Visual History Archive
