@@ -608,11 +608,26 @@ ul {
   padding: 20px;
   text-decoration: none;
   font-size: 20px;
-
 }
 
 /* Change the color of links on hover */
 .navbar-pn a:hover {
+  background-color: #5999E4;
+  color: white;
+}
+
+.navbar-atlas a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.navbar-atlas a:hover {
   background-color: #5999E4;
   color: white;
 }
@@ -696,6 +711,26 @@ section {
   text-decoration: none;
 }
 
+.navbar-atlas {
+  overflow: hidden;
+  font-family: HK Grotesk;
+  background-color: #e6f0fa;
+
+  box-shadow: 5px 5px 5px 5px grey;
+  padding: 0.5%;
+}
+
+/* Links inside the navbar */
+.navbar-atlas a {
+  float: left;
+  font-size: 18px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
 /* The dropdown container */
 .dropdown {
   float: left;
@@ -721,6 +756,11 @@ section {
 }
 
 .navbar-pn #bar-items {
+  padding:  20px;
+  text-align:  left;
+}
+
+.navbar-atlas #bar-items {
   padding:  20px;
   text-align:  left;
 }
