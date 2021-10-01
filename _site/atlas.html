@@ -45,19 +45,39 @@
   </head>
 
   <div class="navbar-atlas" id="bar-items">
-    <a href="#biography">Biography</a>
-    <a href="#timeline">Timeline</a>
-    <a href="#map">Map</a>
-    <a href="#interview">Interview</a>
-    <a href="#documents">Documents</a>
+    <a class = "toggleButton" id="muller-map" onclick="switchMap(this.id)"></h1>Muller</a>
+    <a class = "toggleButton" id="perec">Perec</a>
+    <a class = "toggleButton" id="perec">Jedinak</a>
+    <a class = "toggleButton" id="muller-map">Bessman</a>
   </div>
 
+
 <body>
-  <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit" width="100%" height="700vh" frameborder="0"></iframe>
+	<div id="map">
+    <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit" width="100%" height="700vh" frameborder="0"></iframe>
+	</div>
 </body>
 
-  <!--  make height and width 90%  --> 
+<script>
 
+document.getElementsByClassName("toggleButton").onclick = console.log(this.id); 
+
+
+
+
+
+
+function switchMap(id){
+  let map = document.getElementById("map");
+	map.innerHTML = "<iframe src='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' width='100%' height='700vh' frameborder='0'></iframe>"
+}
+
+
+
+</script>
+
+
+  <!--  make height and width 90%  --> 
 
   </body>
 </html>
