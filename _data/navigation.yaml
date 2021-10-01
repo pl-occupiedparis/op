@@ -3,5 +3,7 @@
   link: /about.html
 - name: Map
   link: /map.html
+- name: Atlas
+  link: /atlas.html
 - name: Historical Context
   link: /context

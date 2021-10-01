@@ -632,11 +632,10 @@ ul {
   color: white;
 }
 
-/* Add a color to the active/current link 
-.navbar-pn a.active {
+.navbar-atlas a:active {
   background-color: #5999E4;
   color: white;
-}*/
+}
 
 .container .right-col .biography-header h1 {
   font-size: 4em;
