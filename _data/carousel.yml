@@ -1,8 +1,7 @@
-images: 
+entries:
   - image: /assets/images/slider/image1.jpg
+    caption: "caption 1"
   - image: /assets/images/slider/image2.jpg
-  - image: /assets/images/slider/image3.jpg
-  - image: /assets/images/slider/image4.jpg
-  - image: /assets/images/slider/image5.jpg
+    caption: "caption 2"
 
 
