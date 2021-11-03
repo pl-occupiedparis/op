@@ -27,20 +27,21 @@
         <div class="carousel__track">
           <ul>
             {% for item in site.data.carousel.entries %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
-              <p>{{ item.caption }}</p>
+            <li class="carousel__slide" style="background-image: url('{{ item.image }}'); background-size: 80%; background-repeat: no-repeat">
+              <p style="position: absolute; bottom: 0; left: 50%">{{ item.caption }}</p>
             </li>
+      
   
             {% endfor %}
           </ul>
         </div>
-        <div class="carousel__indicators">
+        <!--<div class="carousel__indicators">
             {% for item in site.data.carousel.entries %}
               <label class="carousel__indicator" for="{{ letters[forloop.index0] }}"></label>
             {% endfor %}
         </div>
       </div>
-      <!-- <div class="carousel__track">
+       <div class="carousel__track">
         {% for item in site.data.carousel.entries %}
           <li class="carousel__slide"><p>{{ item.caption }}</p></li>
         {% endfor %}
@@ -53,8 +54,8 @@
 <style>
 .carousel__holder {width: 95%; position: relative; justify-content: right; padding-bottom: {{ include.height }}{{ include.unit }}; margin: 1rem 0 1rem;}
 .carousel {
-  height: 80%;
-  width: 70%;
+  width: 100%;
+  height: 100%;
   overflow: hidden;
   text-align: center;
   position: absolute;
@@ -101,7 +102,7 @@
   cursor: pointer;
   border-width: 5px 5px 0 0;
   border-style: solid;
-  border-color: #fafafa;
+  border-color: grey;
   opacity: 0.35;
   opacity: 1;
   outline: 0;
@@ -181,8 +182,9 @@
   width: 30px;
 }
 .carousel__indicator {
-  background-color: #fafafa;
+  background-color:white;
 }
+
 {% for item in site.data.carousel.entries %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type({{ forloop.index }}) {
@@ -190,6 +192,7 @@
   background-position: center;
 }
 {% endfor %}
+
 </style>
 
 <script>
