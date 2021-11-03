@@ -166,13 +166,13 @@
           <ul>
             
             <li class="carousel__slide" style="background-image: url('/assets/images/slider/image1.jpg'); background-size: 80%; background-repeat: no-repeat">
-              <p style="position: absolute; bottom: 0; left: 50%">caption 1</p>
+              <p style="position: absolute; bottom: 0; text-align: center">Long caption long caption long caption long caption long caption example</p>
             </li>
       
   
             
             <li class="carousel__slide" style="background-image: url('/assets/images/slider/image2.jpg'); background-size: 80%; background-repeat: no-repeat">
-              <p style="position: absolute; bottom: 0; left: 50%">caption 2</p>
+              <p style="position: absolute; bottom: 0; text-align: center">caption 2</p>
             </li>
       
   
@@ -189,7 +189,7 @@
       </div>
        <div class="carousel__track">
         
-          <li class="carousel__slide"><p>caption 1</p></li>
+          <li class="carousel__slide"><p>Long caption long caption long caption long caption long caption example</p></li>
         
           <li class="carousel__slide"><p>caption 2</p></li>
         
@@ -200,7 +200,7 @@
 
 
 <style>
-.carousel__holder {width: 95%; position: relative; justify-content: right; padding-bottom: 65%; margin: 1rem 0 1rem;}
+.carousel__holder {width: 100%; position: relative; justify-content: right; padding-bottom: 65%; margin: 1rem 0 1rem;}
 .carousel {
   width: 100%;
   height: 100%;
@@ -310,7 +310,7 @@
   margin: 0 2.5px 0 2.5px;
 }
 .carousel__indicator:hover {
-  opacity: 0.75;
+  opacity: 0.5;
 }
 .carousel__track {
   position: absolute;
@@ -331,6 +331,7 @@
   right: 0;
   opacity: 1;
 }
+
 
 .carousel__track .carousel__slide:nth-of-type(1) {
   -webkit-transform: translateX(000%);
@@ -366,20 +367,20 @@
 .carousel__slide:nth-of-type(1),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
   background-size: cover;
-  background-position: center;
+  background-position: center top;
 }
 
 .carousel__slide:nth-of-type(2),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(2) {
   background-size: cover;
-  background-position: center;
+  background-position: center top;
 }
 
 
 </style>
 
 <script>
-  console.log({"image"=>"/assets/images/slider/image1.jpg", "caption"=>"caption 1"}{"image"=>"/assets/images/slider/image2.jpg", "caption"=>"caption 2"})
+  console.log({"image"=>"/assets/images/slider/image1.jpg", "caption"=>"Long caption long caption long caption long caption long caption example"}{"image"=>"/assets/images/slider/image2.jpg", "caption"=>"caption 2"})
   function isVisible(el) {
         while (el) {
             if (el === document) {
