@@ -1,7 +1,17 @@
 entries:
-  - image: /assets/images/slider/image1.jpg
+  - image: /assets/images/muller_carousel/image1.jpg
     caption: "Long caption long caption long caption long caption long caption example"
-  - image: /assets/images/slider/image2.jpg
-    caption: "caption 2"
+  - image: /assets/images/muller_carousel/image2.jpg
+    caption: "Long caption long caption long caption long caption long caption example"
+  - image: /assets/images/muller_carousel/image3.jpg
+    caption: "Long caption long caption long caption long caption long caption example"
+  - image: /assets/images/muller_carousel/image4.jpg
+    caption: "Long caption long caption long caption long caption long caption example"
+  - image: /assets/images/muller_carousel/image5.jpg
+    caption: "Long caption long caption long caption long caption long caption example"
+  - image: /assets/images/muller_carousel/image6.jpg
+    caption: "Long caption long caption long caption long caption long caption example"
+  - image: /assets/images/muller_carousel/image7.jpg
+    caption: "Long caption long caption long caption long caption long caption example"
 
 
