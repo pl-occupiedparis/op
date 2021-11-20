@@ -11,6 +11,10 @@ layout: default
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Biography</title>
   <link rel="stylesheet" href="assets/css/styles.css">
+  <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
   </head>
 
   <br>
@@ -96,11 +100,97 @@ layout: default
     </div>
   </div></a>
 
-  <div class="pn-container-section">
-    <h2>Photos</h2>
-    {% include carousel.html height="65" unit="%" duration="7" %}
+
+  <div class="carousel-body">
+    <div class="carousel">
+      <div class="carousel__nav">
+       <span id="moveLeft" class="carousel__arrow">
+            <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
+        <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
+    </svg>
+        </span>
+        <span id="moveRight" class="carousel__arrow" >
+          <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
+      <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
+    </svg>    
+        </span>
+      </div>
+      <div class="carousel-item">
+        <div class="carousel-item__image carousel-item--1" id="carousel-item__image"></div>
+        <div class="carousel-item__info">
+          <div class="carousel-item__container">
+          <h2 class="carousel-item__subtitle">hello! grand moment </h2>
+          <h1 class="carousel-item__title">Le tour</h1>
+          <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+          <a href="#" class="carousel-item__btn">Explore the tour</a>
+          <button onclick="toggle()">Flip the page over!</button>
+            </div>
+        </div>
+
+
+  
+
+      </div>
+
+
+      <!--        
+        <div class="pages-navigation">
+          {% for item in site.data.navigation %}
+          <a href="{{ item.link }}">{{ item.name }}</a>
+          {% endfor %}
+        </div>
+      
+      -->
+
+      <div class="carousel-item carousel-item--2">
+        <div class="carousel-item__image"></div>
+        <div class="carousel-item__info">
+          <div class="carousel-item__container">
+          <h2 class="carousel-item__subtitle">The big window </h2>
+          <h1 class="carousel-item__title">Minimal window</h1>
+          <p class="carousel-item__description">Clear Glass Window With Brown and White Wooden Frame iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+          <a href="#" class="carousel-item__btn">Read the article</a>
+            </div>
+        </div>
+      </div>
+        <div class="carousel-item carousel-item--3">
+        <div class="carousel-item__image"></div>
+        <div class="carousel-item__info">
+          <div class="carousel-item__container">
+          <h2 class="carousel-item__subtitle">Tropical palms </h2>
+          <h1 class="carousel-item__title">Palms</h1>
+          <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+          <a href="#" class="carousel-item__btn">Explore the palms</a>
+            </div>
+        </div>
+      </div>
+      
+       <div class="carousel-item carousel-item--4">
+        <div class="carousel-item__image"></div>
+        <div class="carousel-item__info">
+          <div class="carousel-item__container">
+          <h2 class="carousel-item__subtitle">Beach </h2>
+          <h1 class="carousel-item__title">The beach </h1>
+          <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+          <a href="#" class="carousel-item__btn">Explore the beach</a>
+            </div>
+        </div>
+      </div>
+      
+     <div class="carousel-item carousel-item--5">
+        <div class="carousel-item__image"></div>
+        <div class="carousel-item__info">
+          <div class="carousel-item__container">
+          <h2 class="carousel-item__subtitle">The white building </h2>
+          <h1 class="carousel-item__title">White building</h1>
+          <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+          <a href="#" class="carousel-item__btn">Read the article</a>
+            </div>
+        </div>
+      </div>
+      
+    </div>
   </div>
-  <br>
 
   <a name= "documents"><div class="pn-container-section">
     <div class="pn-text">
@@ -112,7 +202,67 @@ layout: default
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Lorem ipsum dolor sit amet consectetur adipiscing. Auctor neque vitae tempus quam pellentesque. Morbi leo urna molestie at elementum. Facilisis magna etiam tempor orci eu lobortis. Arcu risus quis varius quam. Id leo in vitae turpis. Non blandit massa enim nec dui nunc mattis enim. Leo vel fringilla est ullamcorper eget nulla facilisi. Arcu odio ut sem nulla pharetra diam sit amet nisl. Sagittis vitae et leo duis ut diam quam. Rhoncus urna neque viverra justo nec ultrices dui. Tincidunt augue interdum velit euismod in pellentesque. Duis tristique sollicitudin nibh sit amet commodo nulla. Enim neque volutpat ac tincidunt vitae semper quis lectus. Penatibus et magnis dis parturient montes nascetur ridiculus mus. Nulla pellentesque dignissim enim sit.</p>
     </div>
   </div></a>
-  
+
+<script>
+  $(function(){
+  $('.carousel-item').eq(0).addClass('active');
+  var total = $('.carousel-item').length;
+  var current = 0;
+  $('#moveRight').on('click', function(){
+    var next=current;
+    current= current+1;
+    setSlide(next, current);
+  });
+  $('#moveLeft').on('click', function(){
+    var prev=current;
+    current = current- 1;
+    setSlide(prev, current);
+  });
+  function setSlide(prev, next){
+    var slide= current;
+    if(next>total-1){
+     slide=0;
+      current=0;
+    }
+    if(next<0){
+      slide=total - 1;
+      current=total - 1;
+    }
+           $('.carousel-item').eq(prev).removeClass('active');
+           $('.carousel-item').eq(slide).addClass('active');
+      setTimeout(function(){
+
+      },800);
+    
+
+    
+    console.log('current '+current);
+    console.log('prev '+prev);
+  }
+});
+
+let imgElement = document.getElementById("carousel-item__image");
+let facingFront = true;
+let url = "carte_23.8.1942_b";
+
+if(facingFront == true){
+  let url = "/assets/images/muller/letters/"+'{{ item.frontimg }}';
+}else if(facingFront == false){
+  let url = "/assets/images/muller/letters/"+'{{ item.backimg }}';
+}
+
+imgElement.style = "background-image:url('"+ url +"')";
+
+
+function toggle(){
+  if(facingFront== true){
+    facingFront = false;
+  }else if(facingFront ==false){
+    facingFront = true;
+  }
+
+}
+</script>  
 
 
   <!--
