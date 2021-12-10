@@ -1,43 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>The Project</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-
-  <body>
-    <ul class="navigation">    
-    <div class="site-header">
-      <div class="site-header__wrapper">
-        <div class="header-title">
-          <a href="/" class="brand"><img src="/assets/images/header_image_2.jpg"  height="40px" alt="brand" /></a>
-        </div>
-        <div class="pages-navigation">
-          
-          <a href="/about.html">The Project</a>
-          
-          <a href="/map.html">Map</a>
-          
-          <a href="/atlas.html">Atlas</a>
-          
-          <a href="/context">Historical Context</a>
-          
-        </div>
-    </div>
-    
-    <!--<a class="navigation" href="/">Occupied Paris</a>
-    
-      <a href="/about.html">The Project</a>
-    
-      <a href="/map.html">Map</a>
-    
-      <a href="/atlas.html">Atlas</a>
-    
-      <a href="/context">Historical Context</a>
-    -->
-</ul>
-    <div class="banner banner-about"></div>
+I"�"<div class="banner banner-about"></div>
 
 <h1 id="re-membering-wwii-paris">RE-MEMBERING WWII PARIS</h1>
 
@@ -101,41 +62,4 @@
 
 <p><img src="/assets/images/the_project/intro_19.png" alt="Peron" class="img-inline" /></p>
 
-<p>Besides the obvious reminders of the historical context such as the ads looking for employees who could speak German or the mention of coupons to buy daily life necessities,  if you take a look at the cartoon and the ad for the laundry detergent, you see insidious forms the ideological narrative of the Vichy régime took. They echo the pervasive rhetoric on cleaning / cleansing the social fabric which took its most dramatic onomastic form in the code name given to the July round-up: Operation spring breeze. On the page with an article on Cerdan, we read that only 2 short months after the round-up, the Vel d’Hiv was back to its entertaining function: it hosted a boxing match with the most famous French boxer Marcel Cerdan. The proceeds were to be donated to the families of prisoners in need. If the fundraising event tries to cover the antisemitic crimes commonly committed at the time, the announcement for a large public auction, right beneath,  “brings back to the surface the ground underneath the paper”. In fact, the announcement echoes the flourishing public sales of spoiled Jewish properties. In the context of the map, it encourages to click on the icon for auction houses and leads the reader to understand the intrinsic connection between the commercial activity of the place and the cleansing ideology put in place by the Nazi and the Vichy regime.</p>
-
-<p><img src="/assets/images/the_project/intro_20.png" alt="Peron" class="img-inline" /></p>
-
-<p>So combined with the various material highlighting, on the one hand, the transitory nature of the space and, on the other hand, the pervasive theme of sanitation, the visualization of the location of the velodrome seems to tell us the story of a building predestined long before July 1942 to serve the role of antechamber to the gas chambers and which predicted the amnesia surrounding it after the war.</p>
-
-<p>The story of the Levitan building shares similar characteristics. Located near the Gare de l’Est which is the train station to eastern destinations,  Lévitan was a famous modern furniture store owned by Mr Levitan, a Jewish man, who was known for his innovative marketing campaigns in the 1930’s. On one of those ads shown on the map, he is presented as a perpetual member of the railroad workers brotherhood and offers special discounts to his so-called brothers.</p>
-
-<p><img src="/assets/images/the_project/intro_21.png" alt="Peron" class="img-inline" /></p>
-
-<p>On another one, a blond child thanks him for offering her toys while another ad promises that the Lévitan furniture procures family bliss and forever youth. In 1943, as Hélène Berr writes in her journal, it was turned into a warehouse where captive half-Jews cleaned, fixed and packed looted Jewish properties such as toys, living-room sets, linens to be sent to Germany for families in need. It also became the personal department store of occupying Nazi authorities who regularly came to shop for free. The remaining stolen properties left by trains from Gare de l’Est heading to Germany where many presumably blond children were happy to play with same as new second-hand toys. By trains from Gare de l’Est so did convoys of Jews leave heading to extermination camps. Many were unfortunately forever young. The building is today the headquarter of Le Bon Coin the French equivalent of Craigslist.</p>
-
-<p><img src="/assets/images/the_project/intro_22.png" alt="Peron" class="img-inline" />
-<img src="/assets/images/the_project/intro_23.png" alt="Peron" class="img-inline" /></p>
-
-<p>While famous Parisian locations are already known to most students, the map summons the untold narratives hidden behind these places. It reminds us of what Patrick Modiano, who received the Nobel prize for “the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the Occupation,” described in his Oslo speech:</p>
-
-<p>[…] in my youth, to help me write, I tried to find the old Parisian telephone directories, especially the ones that listed names by street with building numbers. I had the feeling as I turned the pages that I was looking at an X ray of the city – a submerged city like Atlantis – and breathing in the scent of time.</p>
-
-<p>Neatline makes the ontological connections between the temporal layers literally visible, further supporting Modiano’s palimpsest metaphor. As a matter of fact, upon logging into the map, for not even a second, one can witness the layers overlap, the WWII map coming together and eventually laying over the current map of Paris.</p>
-
-<h2 id="part-ii---the-revealing-of-the-interstitial-whites">Part II - The Revealing of the Interstitial Whites</h2>
-
-<p>The background of the course was initially woven around the stories of three young women: Hélène Berr, Dora Bruder and Louise Jacobson. Hélène wrote a diary started in 1942 and interrupted in 1944 when she was arrested. Louise wrote letters written during her captivity in the Drancy camp. Dora’s parents wrote an ad in the newspaper asking for anyone who saw their runaway daughter to contact them. They all died in deportation.</p>
-
-<p><img src="/assets/images/the_project/intro_24.jpeg" alt="Peron" class="img-inline" />
-<img src="/assets/images/the_project/intro_25_jpeg" alt="Peron" class="img-inline" />
-<img src="/assets/images/the_project/intro_26.jpeg" alt="Peron" class="img-inline" /></p>
-
-<p>“I can’t <em>hear</em> what she says.”  The lexical confusion of a student whose mother tongue is Spanish was another seminal moment. Translating <em>entender</em> (to understand) by the French <em>entendre</em> (to hear) to explain that she did not understand what Hélène Berr wrote actually made sense: how to understand History if you cannot hear the stories of those who were directly impacted by it? How to connect with a time if you cannot relate to the people who lived then? What about the stories of those who did not write the history books? Those whose voices were not heard either because they were not considered as major sources or simply because they could not talk anymore?</p>
-
-<h2 id="starring-effect-1">Starring Effect 1</h2>
-
-<p>I was granted the Rutman Teaching Fellowship to conduct research at the <a href="https://sfi.usc.edu/what-we-do/collections">USC Shoah Foundation Visual  History Archive</a>. The VHA counts 52,000 testimonies from Holocaust witnesses. About 2,000 are in French. I had only 4 days.  In order to find my way amidst this ocean of stories, I searched the database using the keywords Dora, Hélène, Louise, the location Paris and each girl’s year of birth as cross-reference criteria. I was looking for women who, unlike Dora, Hélène and Louise, were able to physically tell their stories, after the war was over. This is how I met Francine Christophe, Annette Muller and Arlette Testyler.The narratives from the Shoah Foundation VHA literally help the students <em>hear</em> the past and the voices of those who vanished or were not expected to be heard.  The testimonies were transcribed to facilitate the comprehension and individual maps were created to host these voices. In this case, the digital maps enable us to follow the witnesses’ steps through what was once their childhood landscape.</p>
-
-  </body>
-</html>
-
+:ET

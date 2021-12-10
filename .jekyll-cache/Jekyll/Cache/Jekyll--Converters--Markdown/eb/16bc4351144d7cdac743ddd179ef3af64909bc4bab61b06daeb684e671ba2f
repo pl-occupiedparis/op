@@ -1,0 +1,29 @@
+I"P<div class="banner banner-about"></div>
+
+<h1 id="re-membering-wwii-paris">RE-MEMBERING WWII PARIS</h1>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>The project of this website was created for an undergraduate advanced French history and culture course entitled Paris under the German Occupation and its [Non-] Places of Memory. The French title is a play on the words « lieu de mémoire » (place of memory) and « un non-lieu » (a dismissed case). The first questions I was faced with when putting the syllabus together were:  How could students of French, from an American university, understand a past neither of us lived? And  how to expect students – some of whom have never been to Paris - to envision the city under the German Occupation without even knowing its space?</p>
+
+<p>After piloting the course and getting students’ input at the end of the semester, the idea to create an interactive map came as a way to address these questions.  The <a href="https://authorial.stanford.edu/">Authorial London Project</a> was a first source of inspiration. Unfortunately, it was a Stanford developed software which was not ready to be shared yet. So with the support of the Penn Libraries and the Price Lab for Digital Humanities, a first map was designed using the plug-in Neatline and hosted on the open-source web-authoring tool Omeka. Later, in the summer of 2021, a Price Lab cohort started the creation of the current website. The bookshelf design,  inspired by the <a href="https://otletsshelf.tumblr.com/">Otlet’s Shelf</a> Tumblr theme encourages viewers to “browse the shelves” and provides a space where the stories of individuals who vanished recovered their voices.</p>
+
+<p>But before going into the story of the creation of the map, let’s take a detour…</p>
+
+<h2 id="detour">Detour</h2>
+
+<p>The painter Simon Hantaï developed a particular method he called folding (pliage). The word method versus the word technique highlights the fact the painter did not claim full control over the means he employed and did not aim at a definite outcome. His method consisted in folding, creasing, knotting the canvas whose dimensions were usually excessively large.</p>
+
+<p><img src="/assets/images/the_project/intro_18" alt="Peron" class="img-inline" /></p>
+
+<p>He then proceeded to lay the canvas on the floor and painted its visible convex spaces. Being on his knees and bent over his work, Hantaï intentionally denied himself full sight and could not foresee the final result.  This is what he called “retinal silence”. Once the paint was dry, he proceeded to unknot and unfold the cloth.</p>
+
+<p><img src="/assets/images/the_project/intro_7.png" alt="Peron" class="img-inline" /></p>
+
+<p>In the catalogue of a 1976 retrospective, Hantaï shared a picture pointing at the origin of his method. The picture shows his mother wearing a meticulously ironed apron. The symmetrical creases visible on the shiny cloth turn the maternal apron into one of the canvas painted by the son. Therefore, one can say his folding method helped the painter bring back memories to the surface.</p>
+
+<p>The unfolding acted as a revelation. Hantaï talked about chance (hasard) as a key agent in his work for conjuring up what he could not even imagine or think of. Georges Didi-Huberman poetically calls étoilement the white starring effect left at the intersections and created by the knots. The poet Dominique Fourcade explains that the starring effect represents “a sort of lifting, suspension, a prolongation of a time that is not supposed to last.”</p>
+
+<p><img src="/assets/images/the_project/intro_9.png" alt="Peron" class="img-inline" /></p>
+
+:ET

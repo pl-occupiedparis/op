@@ -8,120 +8,94 @@ title: The Project
 <div class= "banner banner-about"></div>
 
 
-# The Project
+# RE-MEMBERING WWII PARIS
 
-## Mapping Paris During the German Occupation
 
-My name is Mélanie Péron. I come from a tiny village barely visible on a map. I am not Jewish. None of my relatives was a victim of the Holocaust. My grandparents were not in the Resistance. They did not save any one from the Holocaust.
+## Introduction
 
-Yet, I created a course on Paris during the German Occupation, applied and received the Lori Rutman Teaching Fellowship. With the support of the USC Shoah Foundation and the Penn Price Lab for Digital Humanities, I then developed a multimedia map of Paris during WWII.  
+The project of this website was created for an undergraduate advanced French history and culture course entitled Paris under the German Occupation and its [Non-] Places of Memory. The French title is a play on the words « lieu de mémoire » (place of memory) and « un non-lieu » (a dismissed case). The first questions I was faced with when putting the syllabus together were:  How could students of French, from an American university, understand a past neither of us lived? And  how to expect students – some of whom have never been to Paris - to envision the city under the German Occupation without even knowing its space?
 
-## Why? Why would I explore a time from a past I did not experience?
+After piloting the course and getting students’ input at the end of the semester, the idea to create an interactive map came as a way to address these questions.  The [Authorial London Project](https://authorial.stanford.edu/) was a first source of inspiration. Unfortunately, it was a Stanford developed software which was not ready to be shared yet. So with the support of the Penn Libraries and the Price Lab for Digital Humanities, a first map was designed using the plug-in Neatline and hosted on the open-source web-authoring tool Omeka. Later, in the summer of 2021, a Price Lab cohort started the creation of the current website. The bookshelf design,  inspired by the [Otlet’s Shelf](https://otletsshelf.tumblr.com/) Tumblr theme encourages viewers to “browse the shelves” and provides a space where the stories of individuals who vanished recovered their voices.
 
-![Peron](/assets/images/the_project/intro_1.png){:class="img-inline"}
+But before going into the story of the creation of the map, let’s take a detour… 
 
 
-To answer this question, I turned to my primary signifier. Could my name lead me to the liminal moment when it all started or should I say the threshold, as my name actually means in French if you add an extra [r]? A quick Google search conjures up a frightening web connecting my name to …anti-Semitism. René Péron, the illustrator known for the poster he drew for the movie And God created woman, was the author of the infamous poster The Jew and France. Perón, with a displaced accent on the [o], takes us to the Argentinian leader who financed the escape of key architects of the Holocaust. Pèron, with an inverted accent on the [e], means pillory in old French. Au Pilori was the most virulent anti-Semitic weekly paper during the Occupation.
+## Detour
 
+The painter Simon Hantaï developed a particular method he called folding (pliage). The word method versus the word technique highlights the fact the painter did not claim full control over the means he employed and did not aim at a definite outcome. His method consisted in folding, creasing, knotting the canvas whose dimensions were usually excessively large. 
 
 
+![Peron](/assets/images/the_project/intro_18.jpeg){:class="img-inline"}
 
 
-![Pithiviers Beaune La Rolande](/assets/images/the_project/intro_2.png){:class="img-inline"}
+He then proceeded to lay the canvas on the floor and painted its visible convex spaces. Being on his knees and bent over his work, Hantaï intentionally denied himself full sight and could not foresee the final result.  This is what he called “retinal silence”. Once the paint was dry, he proceeded to unknot and unfold the cloth.
 
-My place of birth only reinforces the rooting of my origins into the wrong side of history. I was born 30 kms away from Beaune-la-Rolande, 50 kms away from Pithiviers. Both towns became known for their internment camps where thousands of Jews – a lot of whom were children- transited before being deported to Auschwitz. Growing up, for the longest time, I only knew that a Pithiviers was a cake, specialty of the town bearing the same name.
+![Peron](/assets/images/the_project/intro_7.png){:class="img-inline"}
 
-Maybe this is where it all started.
+In the catalogue of a 1976 retrospective, Hantaï shared a picture pointing at the origin of his method. The picture shows his mother wearing a meticulously ironed apron. The symmetrical creases visible on the shiny cloth turn the maternal apron into one of the canvas painted by the son. Therefore, one can say his folding method helped the painter bring back memories to the surface.
 
+The unfolding acted as a revelation. Hantaï talked about chance (hasard) as a key agent in his work for conjuring up what he could not even imagine or think of. Georges Didi-Huberman poetically calls étoilement the white starring effect left at the intersections and created by the knots. The poet Dominique Fourcade explains that the starring effect represents “a sort of lifting, suspension, a prolongation of a time that is not supposed to last.”
 
+![Peron](/assets/images/the_project/intro_9.png){:class="img-inline"}
 
+When the canvas is stretched and finds the verticality it was denied while in the making, one can find themselves hear and see its heart beating. 
+ 
+*“I realized what my true subject was – the resurgence of the ground underneath my painting.”*
 
-## My Grandmother's Apron 
+Let’s go to the map…
 
-![](/assets/images/the_project/intro_3.png){:class="img-inline"}
+## Part I — Mapping as Method 
 
+First, for 5 euros on eBay, I bought a promotional 1940 pocket agenda book with a map of Paris folded inside. It was offered to the customers of the famous department store Les Galeries Lafayette. I liked the idea of a map that had been carried around and manipulated by a stranger instead of a sterile reproduction. Besides, the story of the department store itself is a page ripped out of the history of the German occupation. By the end of 1940, it was aryanized meaning that its Jewish owners and employees were evicted and replaced by non-Jews. The map was unfolded and scanned with the creases time had left in its fabric visible. 
 
-My grandmother was a peasant. One about whom books do not talk much. She worked like a man, ran the farm and raised 2 young daughters while her husband was a war prisoner in Czechoslovakia for 5 years. A woman of few words, she always remembered to make everyone’s favorite dish when they came visit, to plant all of her grandchildren’s favorite fruits in the garden, to take us on long bike rides finding the best tree under which to take a nap. She got up hours before everyone else, put on her meticulously ironed apron and silently got everything ready. She lived backstage, in her charismatic husband’s shadow. She never talked about her past. She never talked about her feelings. She never talked about her dreams. No one asked her about them anyway. She was just there for us, her “little ones” (mes petits) as she called us.
+![Peron](/assets/images/the_project/intro_12.png){:class="img-inline"}
 
-Sometimes, she would go to my grandfather’s office and close the door. Once I hid and saw her take a key from under a book and open the cabinet. She pulled out a folder, sat and cried repeating “these poor little ones”. After she left, I took the key, opened the cabinet and looked at the papers. They were newspaper clippings about the camps in Pithiviers and Beaune-la-Rolande. I never said anything to her about it.
+The digital image of the map was then layered onto a digital map of current Paris and the vintage paper map refolded back in its pocketbook. From then on, I followed the same method rooted in unpredictability as Hantaï: bent over the canvas my floor strewn with books, lose sheets, notes, had become, I adopted the dislocated, floating vision of Hantaï. I selected material in accordance with the goals I had for my class specifically which was to make the time period as palpable as possible. I knotted texts together, images and texts together. Instead of brushing paint over this montage as he did, I translated it onto the map using the Neatline platform.  Despite the frontal position I suddenly had facing the screen of my computer, I still proceeded blindly. Mechanically pinning, stitching onto the fabric of the map never knowing what was going to appear in the end and if there was even an end. When I would zoom out, blanks punctuated the map. Yet, surprisingly, they were not obscure blanks, signs of an inevitable erasure.  They stood like semaphores that led me to keep on looking. 
 
-My grandmother eventually had Alzheimer’s. My name and my face were the only ones she remembered. Her body was broken and took the shape of an inverted L. When she walked, her gaze could only stare at the floor. She filled the pocket of her apron with all sorts of little rocks she would find on the ground and inspect them before going to sleep. As she would painfully try to put her finger on what was inevitably ending on the tip of her tongue, I decided to appease her ordeal and stopped using words to talk to her. We communicated with gestures and looks. I had so many questions for her but she had no words for me. What she had for me though, apart from the little rocks she would leave on my bed, was this bright complicit light in her eyes when she looked at me. My relatives only talk about her blank stare. We evidently did not live in the same story.
+About 240 key places were geolocated and identified with a description of the place before the war, during the war, and after the war. The places were first selected following Cécile Desprairies’s invaluable guide Paris dans la Collaboration which is organized by arrondissement. Almost each pin comes with a picture and with excerpts
+- from selected memoirs written by key actors who survived and were published after the war e.g. the prefect of Paris Roger Langeron, the journalist Pierre Audiat, the lawyer Maurice Garçon, the novelist Jean Guéhenno , the historian Georges Wellers, the German artist Arno Breker 
+- from the texts written by 2 young key witnesses who did not survive the war: Hélène Berr, Louise Jacobson
+- from the writings of young witnesses later turned writers: Sarah Kofman, Marcel Cohen, Patrick Modiano, Georges Perec
 
-## Louise 
+![Peron](/assets/images/the_project/intro_14.png){:class="img-inline"}
 
-All I have is her first name. Louise. My grandfather’s name was Maurice. Louise and Maurice met in 1945 on the road. He was heading back home from Czechoslovakia where he was a war prisoner. She was a survivor from a concentration camp. She had nothing on. Her feet were swollen and bloody. My grandfather gave her a jacket and made her shoes with leaves and tree bark. He had never met a Jew and she surely did not look like what he had in mind Jews looked like. I can’t help wonder: had my grandfather not been taken prisoner in 1940, would he have supported the Vichy anti-Semitic laws? He used to say Louise was the best thing that ever happened to him during that war. We all knew Louise who religiously called once a year – probably on the anniversary of the day they met. Yet, nobody in my family, but my grandfather, ever saw her or spoke to her. After he died, I looked for her name in his address book. She was listed simply as Louise. There was no address. Only a phone number. Soon after, somebody discarded the old book and Louise vanished with it.
+The map’s significance lies in the spatial visualization of history it provides and which contributes to reducing the historical and psychological distance that separates us from then and them. We can take the example of the Vélodrome d’Hiver where 13,000 Jews were locked in after being rounded up on July 16th, 1942 and before being sent to concentration camps.The velodrome was an indoor stadium famous for its bicycle races. In the mid 30s, it hosted many political conventions led by the future Socialist prime minister, Léon Blum, a Jewish man.  The July 1942 round-up is known today by the name Vel d’Hiv round-up. Being able to see where the Vél d’Hiv stood – it does not exist anymore -  first makes us realize how shockingly close it was from the Eiffel Tower (in fact, it was a short 10 minute walk). We can also read from the map that it stood amid the liminal space connecting the industrial neighborhoods in the south – best represented by the Citroen car factory where Taylorism was first experimented in France -  and the area developed through the various world fairs Paris hosted. One of the characteristics of those fairs was to build places programmed to be erased from the map almost immediately afterwards and replaced soon after. 
 
-![](/assets/images/the_project/intro_4.png){:class="img-inline"}
+Clicking on the Velodrome pin on the map gives access to pages from period newspapers which in turn give the reader closer access to the fabric | fabrications of the time. In  fact, in the newspaper from October 1941, three sections are referring to the Vélodrome : Nélaton and Grenelle which are the names of the 2 streets the velodrome was located at and then under the title “La Nuit des Etoiles” (The night of the stars) which fortunately does not refer to the yellow stars that were to be worn the following May.
 
+![Peron](/assets/images/the_project/intro_19.png){:class="img-inline"}
 
-My grandmother’s name was Renée Péron. That extra [e] which sets her apart from the illustrator of The Jew and France might be one key to the story. I could in fact dedicate the project to the letter [e] as Georges Perec did. For [e], Pour [e], For them, Pour eux. For those little ones my grandmother did not save, for the children she could have hidden in her farm and given magical memories to, for my grandmother and the person she wished she could have been for them, for the stories she could not tell as her memory was being erased, for my grandfather and the man he became thanks to Louise, for Louise who is forever part of the family narrative.
+ Besides the obvious reminders of the historical context such as the ads looking for employees who could speak German or the mention of coupons to buy daily life necessities,  if you take a look at the cartoon and the ad for the laundry detergent, you see insidious forms the ideological narrative of the Vichy régime took. They echo the pervasive rhetoric on cleaning / cleansing the social fabric which took its most dramatic onomastic form in the code name given to the July round-up: Operation spring breeze. On the page with an article on Cerdan, we read that only 2 short months after the round-up, the Vel d’Hiv was back to its entertaining function: it hosted a boxing match with the most famous French boxer Marcel Cerdan. The proceeds were to be donated to the families of prisoners in need. If the fundraising event tries to cover the antisemitic crimes commonly committed at the time, the announcement for a large public auction, right beneath,  “brings back to the surface the ground underneath the paper”. In fact, the announcement echoes the flourishing public sales of spoiled Jewish properties. In the context of the map, it encourages to click on the icon for auction houses and leads the reader to understand the intrinsic connection between the commercial activity of the place and the cleansing ideology put in place by the Nazi and the Vichy regime. 
 
-## Interstitial Whites: Simon Hantaï
+![Peron](/assets/images/the_project/intro_20.png){:class="img-inline"}
 
-![Simon Hantaï](/assets/images/the_project/intro_5.png){:class="img-inline"}
+So combined with the various material highlighting, on the one hand, the transitory nature of the space and, on the other hand, the pervasive theme of sanitation, the visualization of the location of the velodrome seems to tell us the story of a building predestined long before July 1942 to serve the role of antechamber to the gas chambers and which predicted the amnesia surrounding it after the war. 
 
-The painter Simon Hantaï developed a particular method he called pliage (folding). The word method versus the word technique entails that the painter did not claim full control over the means he employed and did not aim at a definite outcome. His method consisted in folding, creasing, knotting (ficelage) a large canvas.
+The story of the Levitan building shares similar characteristics. Located near the Gare de l’Est which is the train station to eastern destinations,  Lévitan was a famous modern furniture store owned by Mr Levitan, a Jewish man, who was known for his innovative marketing campaigns in the 1930’s. On one of those ads shown on the map, he is presented as a perpetual member of the railroad workers brotherhood and offers special discounts to his so-called brothers. 
 
-Once the paint was dry, he proceeded to unknot and unfold the cloth.
+![Peron](/assets/images/the_project/intro_21.png){:class="img-inline"}
 
-![](/assets/images/the_project/intro_6.png){:class="img-inline"}
+On another one, a blond child thanks him for offering her toys while another ad promises that the Lévitan furniture procures family bliss and forever youth. In 1943, as Hélène Berr writes in her journal, it was turned into a warehouse where captive half-Jews cleaned, fixed and packed looted Jewish properties such as toys, living-room sets, linens to be sent to Germany for families in need. It also became the personal department store of occupying Nazi authorities who regularly came to shop for free. The remaining stolen properties left by trains from Gare de l’Est heading to Germany where many presumably blond children were happy to play with same as new second-hand toys. By trains from Gare de l’Est so did convoys of Jews leave heading to extermination camps. Many were unfortunately forever young. The building is today the headquarter of Le Bon Coin the French equivalent of Craigslist.
 
-In the catalogue of a 1976 retrospective, Hantaï shared a picture pointing at the potential origin of his method. The picture shows his mother wearing a meticulously ironed apron. The symmetrical creases visible on the shiny cloth turns the maternal apron prefigured the tabulas painted by the son. Folding-as-method then helps bringing back memories to the surface.
+![Peron](/assets/images/the_project/intro_22.png){:class="img-inline"}
+![Peron](/assets/images/the_project/intro_23.png){:class="img-inline"}
 
-Unfolding the canvas was always a revelation. Hantaï talked about chance as a key agent in his work for conjuring up what he could not even imagine or think of at the beginning. In this Tabula, the blue grid is counterbalanced by the white at the intersections created by the knots. Georges Didi-Huberman poetically called it étoilement, starring effect. The poet Dominique Fourcade explains that the starring effect generates “a sort of lifting, suspension, a prolongation of a time that is not supposed to last.”
+While famous Parisian locations are already known to most students, the map summons the untold narratives hidden behind these places. It reminds us of what Patrick Modiano, who received the Nobel prize for “the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the Occupation,” described in his Oslo speech:
 
+[...] in my youth, to help me write, I tried to find the old Parisian telephone directories, especially the ones that listed names by street with building numbers. I had the feeling as I turned the pages that I was looking at an X ray of the city – a submerged city like Atlantis – and breathing in the scent of time. 
 
-![](/assets/images/the_project/intro_7.png){:class="img-inline"}
-![](/assets/images/the_project/intro_8.png){:class="img-inline"}
+Neatline makes the ontological connections between the temporal layers literally visible, further supporting Modiano’s palimpsest metaphor. As a matter of fact, upon logging into the map, for not even a second, one can witness the layers overlap, the WWII map coming together and eventually laying over the current map of Paris. 
 
+## Part II - The Revealing of the Interstitial Whites 
 
-In Hantaï’s series Blancs, the white activates the painted. The painted is brought into the visible by the empty. We see how the folds connect and separate whites and colors, pieces and the whole, inside and outside. The effect recalls the incessant back and forth binary movement of breathing in and out. When the canvas is stretched and finds the verticality it was denied while in the making, one can hear and see its heart beat.
+The background of the course was initially woven around the stories of three young women: Hélène Berr, Dora Bruder and Louise Jacobson. Hélène wrote a diary started in 1942 and interrupted in 1944 when she was arrested. Louise wrote letters written during her captivity in the Drancy camp. Dora’s parents wrote an ad in the newspaper asking for anyone who saw their runaway daughter to contact them. They all died in deportation. 
 
-![](/assets/images/the_project/intro_9.png){:class="img-inline"}
+![Peron](/assets/images/the_project/intro_24.jpeg){:class="img-inline"}
+![Peron](/assets/images/the_project/intro_25_jpeg){:class="img-inline"}
+![Peron](/assets/images/the_project/intro_26.jpeg){:class="img-inline"}
 
+"I can’t *hear* what she says."  The lexical confusion of a student whose mother tongue is Spanish was another seminal moment. Translating *entender* (to understand) by the French *entendre* (to hear) to explain that she did not understand what Hélène Berr wrote actually made sense: how to understand History if you cannot hear the stories of those who were directly impacted by it? How to connect with a time if you cannot relate to the people who lived then? What about the stories of those who did not write the history books? Those whose voices were not heard either because they were not considered as major sources or simply because they could not talk anymore?
 
-In Hantaï’s series Blancs, the white activates the painted. The painted is brought into the visible by the empty. We see how the folds connect and separate whites and colors, pieces and the whole, inside and outside. The effect recalls the incessant back and forth binary movement of breathing in and out. When the canvas is stretched and finds the verticality it was denied while in the making, one can hear and see its heart beat.
+## Starring Effect 1 
 
-![](/assets/images/the_project/intro_10.png){:class="img-inline"}
-
-In 2016, I was granted the Rutman Teaching Fellowship to conduct research for my course entitled Paris during the German Occupation and its places of Non-Memory. I knew I wanted to create a digital map to help my students – some of whom had never been to Paris – envision as best as possible the Paris of the time. Beyond locating the key places of the Nazi machinery and the collaborationist monster, I also wanted the map to become the space where the stories of individuals who vanished recovered their voices. What I did not know was how to answer the simple question: So what are the expected outcomes of this project? I would just say: “I’m not sure where it will take me. We’ll see.”
-
-![](/assets/images/the_project/intro_11.png){:class="img-inline"}
-
-First, I bought a 1940 map for a modest 5 euros on ebay. It was unfolded and scanned with the creases time had left in its fabric visible. The digital image of the map was then layered onto a digital map of current Paris and the paper map was refolded.
-
-![](/assets/images/the_project/intro_12.png){:class="img-inline"}
-
-From then on, I followed the same method rooted in unpredictability as Hantaï: bent over the canvas my floor, strewn with books, lose sheets and notes, had become, I adopted the floating vision of the painter.
-
-![](/assets/images/the_project/intro_13.png){:class="img-inline"}
-
-Then, Kyra and I knotted texts, images, voices together. Instead of brushing paint over this montage, we transposed it onto the map. Despite the frontal position we suddenly had, facing the screen, we still proceeded blindly. Mechanically pinning, stitching onto the fabric of the map never knowing what was going to appear in the end. When we would zoom out, empty spaces punctuated the map. Yet, surprisingly, there were not obscure blanks, signs of an inevitable erasure. Instead they were dynamic lights, semaphores that led us to keep on looking. They were the complicit lights I saw in my grandmother’s stare.
-
-![](/assets/images/the_project/intro_14.png){:class="img-inline"}
-
-The background of the course is woven with the stories of three young women: Hélène Berr, Dora Bruder and Louise Jacobson. Hélène left a diary started in 1942 and interrupted in 1944 when she was arrested. Louise left letters written during her captivity in the Drancy camp. Dora left an ad in the newspaper posted by her parents asking for anyone who had seen their runaway daughter to contact them. They all died in a concentration camp. Patrick Modiano tried to follow Dora’ steps in his eponymous novel. We used the Visual History Archive. We cross-referenced and cross-stitched the stories of these three young women with the stories of young women who, unlike them, were able to tell their stories, after the war was over.
-
-![](/assets/images/the_project/intro_15.png){:class="img-inline"}
-
-The Shoah Foundation Visual History Archive counts 52,000 testimonies from Holocaust witnesses. 1,858 are in French. 24, 626 are in English. In order to find my way amidst this ocean of stories, I searched the database using the keywords Paris, Hélène, Dora, Louise and each girl’s date of birth as cross-reference criteria.
-
-This is how I met Claude Bloch. I had initially selected her file because the Parisian was born the same year as Dora Bruder. As I was listening to the elegant 80 year-old lady Claude was fortunate to have become, I realized she grew up in the same milieu and neighborhood as Hélène Berr. And then magic or what Hantaï held dear, chance, happened: Claude talked about her mother’s fragile state after her father, Jean Bloch, was arrested. It reminded me of a passage where Hélène Berr cryptically wrote about a family friend whose state of mind after her husband’s arrest worried her. I flipped through the pages of the journal and found the passage. The lady in question was named … Mme Bloch. I kept on flipping the pages and came across the entry where Hélène wrote “Jean Bloch was deported yesterday”. The knotting together of Hélène Berr’s journal and Claude Bloch’s visual testimony triggered a starring effect further linking both young women: they both mention the Senator Pierre Masse who linked them to Paul Léon, James Joyce’s friend, who tied them to Sylvia Beach, the owner of the famous bookstore Shakespeare and Company. During the same time, I had also started to read the book written by Georges Wellers, in 1946, about his captivity in the Drancy camp.
-
-Sylvia Beach has a very short chapter on the Occupation at the end of her memoirs. As could be expected, she talks about the exuberant Hemingway and, surprisingly, mentions a young Jewish friend who volunteered at the bookstore. Her name was Françoise Bernheim. The ricochet effect happened again: Françoise Bernheim is a recurring name in Hélène’s journal. The two young women had met at the Jewish organization where they both volunteered. In the first part of her journal, Hélène constantly talks about her congenial colleague. In the second part of her journal, she writes about the void Françoise left behind after her arrest. Because the ricochet effect could not stop here, I ran into a whole chapter entitled Françoise Bernheim at the end of Georges Wellers’s book. Georges Wellers described a young woman whose joie de vivre and selflessness touched many. In the last scene of the chapter, we see her heading towards the bus taking her to her final destination. She pulls the hood of her grey raincoat over her head and waives at Wellers goodbye with a smile echoing Hélène’s description. Wellers and Hélène had to be referring to the same person. As chance wanted, Kyra found the report Françoise’s niece filled at Yad Vashem. Her name is Françoise Findlay. She lives in London. Google provided me with a strange email address for a Françoise Findlay. I sent a message. Françoise and her sister Deanna kindly responded.
-
-In the course of the detailed portrait they made of their aunt, they mentioned a farm they own in Pithiviers, 50 kms from my childhood village, and a book their cousin wrote about the war and which they highly recommended Kyra and I read. The name of the cousin? Claude Bloch. Claude Bloch married Françoise’s cousin at the end of the war. She probably never met Françoise. Deanna and Françoise sent us a picture of their aunt taken during the war. We could finally pin the smile we had read about and … pronounce her name correctly /bernem/
-
-Using the same knotting method, we are currently connecting the VHA testimony of Nadia Kaluski to Louise Jacobson’s story. Nadia’s maiden name is Jacobson. She is in fact Louise’s older sister. The testimony of Arlette Reiman seems to mirror parts of Dora Bruder’s story. Claude, Nadia and Arlette offer versions of what the lives of Hélène, Louise and Dora could have been.
-
-![](/assets/images/the_project/intro_17.png){:class="img-inline"}
-
-
-Beside its informational nature, the mapping project provides a surface for the passing through of witnesses to turn into an inscription, a trace. It enables the drafts, the victims’ lives were condemned to be, to unfold into a variation of texts they could have become. The starring effect of Hantaï’s paintings happens on the map and, as Fourcade says about the artist’s work, it “lifts, suspends, prolongates a time that was not supposed to last.”
-
-On the map, three little stars identify the stories of witnesses. Three little stars are conventionally used to mask somebody’s identity. In the unfolded map, it is a reminder of the breathing constellation that connects the visible and the vanished, here and there, now and then, us and them.
-
-Hantaï started his folding method when he moved his family from Paris to Meun. A tiny village barely visible on a map. It is located 30 kms from Pithiviers and 30 kms from Beaune-la-Rolande - both known for their internment camps where thousands of Jew – among whom many children-transited before being deported to Auschwitz. His series Blancs was started the year I was born. Maybe this is when it all started for me.
-
-
-
+I was granted the Rutman Teaching Fellowship to conduct research at the [USC Shoah Foundation Visual  History Archive](https://sfi.usc.edu/what-we-do/collections). The VHA counts 52,000 testimonies from Holocaust witnesses. About 2,000 are in French. I had only 4 days.  In order to find my way amidst this ocean of stories, I searched the database using the keywords Dora, Hélène, Louise, the location Paris and each girl’s year of birth as cross-reference criteria. I was looking for women who, unlike Dora, Hélène and Louise, were able to physically tell their stories, after the war was over. This is how I met Francine Christophe, Annette Muller and Arlette Testyler.The narratives from the Shoah Foundation VHA literally help the students *hear* the past and the voices of those who vanished or were not expected to be heard.  The testimonies were transcribed to facilitate the comprehension and individual maps were created to host these voices. In this case, the digital maps enable us to follow the witnesses’ steps through what was once their childhood landscape. 
