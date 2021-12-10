@@ -1,6 +1,11 @@
 
 - name: The Project
   link: /about.html
+  sublinks:
+    - title: FAQ
+      url: /about.html
+    - title: FAQ
+      url: /about.html  
 - name: Map
   link: /map.html
 - name: Atlas
