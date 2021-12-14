@@ -3,9 +3,9 @@
   link: /about.html
   sublinks:
     - title: FAQ
-      url: /about.html
+      url: /contributors.html
     - title: FAQ
-      url: /about.html  
+      url: /contributors.html  
 - name: Map
   link: /map.html
 - name: Atlas

@@ -275,6 +275,7 @@
     flex-direction: column;
   }
 
+
   .book-item {
     display: flex;
     justify-content:center;
@@ -525,7 +526,6 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    height: 100%;
   }
 
 
@@ -535,7 +535,7 @@
   }
 
   .has-dropdown:hover .dropdown   {
-    opacity: 1;
+    opacity: 0;
     pointer-events: auto;
 }
 
@@ -561,7 +561,6 @@
 
 .dropdown-item a {
     width: 100%;
-    height: 100%;
 }
 
 
