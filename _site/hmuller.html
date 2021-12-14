@@ -15,24 +15,29 @@
         </div>
         <div class="pages-navigation">
           <ul class="navbar-nav">
-            <div class="nav-item has-dropdown">
-              <a href="/about">About</a>
-              <ul class="dropdown">
-                <div class="dropdown-item">
-                  <a href="/contributors">Contributors</a>
-                </div>
-                <div class="dropdown-item">
-                  <a href="/context">Historical Context</a>
-                </div>
-
-              </ul>
+            <div class="nav-item">
+              <a href="/map">Map</a>
             </div>
             <div class="nav-item">
               <a href="/atlas">Atlas</a>
             </div>
-            <div class="nav-item">
-              <a href="/map">Map</a>
+            <div class="nav-item has-dropdown">
+              <a href="/about">About</a>
+              <ul class="dropdown">
+                <div class="dropdown-item">
+                  <a href="/about">The Project</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="/context">Historical Context</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="/contributors">Contributors</a>
+                </div>
+
+              </ul>
             </div>
+
+
 
           </ul>
 
@@ -154,6 +159,37 @@
     </svg>    
         </span>
       </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller_carousel/image1.jpg')"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title">1 image</h1>-->
+              <p class="carousel-item__description">Example caption example caption sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              <button onclick="toggle()">Flip the page over!</button>
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller_carousel/image2.jpg')"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title">2 image</h1>-->
+              <p class="carousel-item__description">Example caption example caption sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              <button onclick="toggle()">Flip the page over!</button>
+            </div>
+          </div>
+        </div>
+        
+    </div>
+  </div>
+     
+      <!-- 
       <div class="carousel-item">
         <div class="carousel-item__image carousel-item--1" id="carousel-item__image"></div>
         <div class="carousel-item__info">
@@ -165,27 +201,9 @@
           <button onclick="toggle()">Flip the page over!</button>
             </div>
         </div>
-
-
-  
-
       </div>
 
 
-      <!--        
-        <div class="pages-navigation">
-          
-          <a href="/about.html">The Project</a>
-          
-          <a href="/map.html">Map</a>
-          
-          <a href="/atlas.html">Atlas</a>
-          
-          <a href="/context">Historical Context</a>
-          
-        </div>
-      
-      -->
 
       <div class="carousel-item carousel-item--2">
         <div class="carousel-item__image"></div>
@@ -234,8 +252,67 @@
         </div>
       </div>
       
+      -->
+
+
+  <div class="carousel-body">
+    <div class="carousel">
+      <div class="carousel__nav">
+       <span id="letter-moveLeft" class="carousel__arrow">
+            <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
+        <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
+    </svg>
+        </span>
+        <span id="letter-moveRight" class="carousel__arrow" >
+          <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
+      <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
+    </svg>    
+        </span>
+      </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-color: red; background-image:url('/assets/images/muller/letters/28_juillet_1942.JPG');background-size:contain" ></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title">first letter</h1>-->
+              <p class="carousel-item__description">Here is an example caption.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              <button onclick="toggle()">Flip the page over!</button>
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-color: red; background-image:url('/assets/images/muller/letters/carte_7.9.42_a.jpeg');background-size:contain" ></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title">second letter</h1>-->
+              <p class="carousel-item__description">Here is an example caption for the second letter.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              <button onclick="toggle()">Flip the page over!</button>
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-color: red; background-image:url('/assets/images/muller/letters/carte_7.9.42_a.jpeg');background-size:contain" ></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title">second letter</h1>-->
+              <p class="carousel-item__description">Here is an example caption for the second letter.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              <button onclick="toggle()">Flip the page over!</button>
+            </div>
+          </div>
+        </div>
+        
     </div>
   </div>
+
+
 
   <a name= "documents"><div class="pn-container-section">
     <div class="pn-text">
@@ -247,6 +324,7 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Lorem ipsum dolor sit amet consectetur adipiscing. Auctor neque vitae tempus quam pellentesque. Morbi leo urna molestie at elementum. Facilisis magna etiam tempor orci eu lobortis. Arcu risus quis varius quam. Id leo in vitae turpis. Non blandit massa enim nec dui nunc mattis enim. Leo vel fringilla est ullamcorper eget nulla facilisi. Arcu odio ut sem nulla pharetra diam sit amet nisl. Sagittis vitae et leo duis ut diam quam. Rhoncus urna neque viverra justo nec ultrices dui. Tincidunt augue interdum velit euismod in pellentesque. Duis tristique sollicitudin nibh sit amet commodo nulla. Enim neque volutpat ac tincidunt vitae semper quis lectus. Penatibus et magnis dis parturient montes nascetur ridiculus mus. Nulla pellentesque dignissim enim sit.</p>
     </div>
   </div></a>
+
 
 <script>
   $(function(){
@@ -286,18 +364,91 @@
   }
 });
 
-let imgElement = document.getElementById("carousel-item__image");
+// let imgElement = document.getElementById("carousel-item__image");
+// let facingFront = true;
+// let url = "carte_23.8.1942_b";
+
+// if(facingFront == true){
+//   let url = "/assets/images/muller/letters/"+'';
+// }else if(facingFront == false){
+//   let url = "/assets/images/muller/letters/"+'';
+// }
+
+// imgElement.style = "background-image:url('"+ url +"')";
+
+
+// function toggle(){
+//   if(facingFront== true){
+//     facingFront = false;
+//   }else if(facingFront ==false){
+//     facingFront = true;
+//   }
+
+// }
+
+$(function(){
+  $('.carousel-letter-item').eq(0).addClass('active');
+  var total = $('.carousel-letter-item').length;
+  var current = 0;
+  $('#letter-moveRight').on('click', function(){
+    var next=current;
+    current= current+1;
+    setSlide(next, current);
+  });
+  $('#letter-moveLeft').on('click', function(){
+    var prev=current;
+    current = current- 1;
+    setSlide(prev, current);
+  });
+  function setSlide(prev, next){
+    var slide= current;
+    if(next>total-1){
+     slide=0;
+      current=0;
+    }
+    if(next<0){
+      slide=total - 1;
+      current=total - 1;
+    }
+           $('.carousel-letter-item').eq(prev).removeClass('active');
+           $('.carousel-letter-item').eq(slide).addClass('active');
+      setTimeout(function(){
+
+      },800);
+    
+
+    
+    console.log('current '+current);
+    console.log('prev '+prev);
+  }
+});
+
+let imgElement = document.getElementById("carousel-letter-item__image");
 let facingFront = true;
-let url = "carte_23.8.1942_b";
+//let url;
+
+let baseurl = imgElement.style.backgroundImage;
+console.log(baseurl);
 
 if(facingFront == true){
-  let url = "/assets/images/muller/letters/"+'';
+  let url = baseurl;
 }else if(facingFront == false){
-  let url = "/assets/images/muller/letters/"+'';
+  let url = baseurl.substring(0,baseurl.length-4) + "_back.JPG";
+  console.log(url);
 }
 
-imgElement.style = "background-image:url('"+ url +"')";
 
+imgElement.style = "background-image: "+ baseurl ;
+
+
+$('button').on('click',function(){
+  if(facingFront== true){
+    facingFront = false;
+  }else if(facingFront ==false){
+    facingFront = true;
+  }
+
+})
 
 function toggle(){
   if(facingFront== true){
@@ -307,6 +458,8 @@ function toggle(){
   }
 
 }
+
+
 </script>  
 
 

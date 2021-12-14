@@ -1,0 +1,20 @@
+[
+  {
+    "title": "first letter",
+    "image-front": "/assets/images/muller/letters/28_juillet_1942.JPG",
+    "image-back": "/assets/images/muller/letters/28_juillet_1942_back.JPG",
+    "caption": "Here is an example caption."
+  },
+  {
+    "title": "second letter",
+    "image-front": "/assets/images/muller/letters/carte_7.9.42_a.jpeg",
+    "image-back": "/assets/images/muller/letters/carte_7.9.42_b.jpeg",
+    "caption": "Here is an example caption for the second letter."
+  },
+  {
+    "title": "second letter",
+    "image-front": "/assets/images/muller/letters/carte_7.9.42_a.jpeg",
+    "image-back": "/assets/images/muller/letters/carte_7.9.42_b.jpeg",
+    "caption": "Here is an example caption for the second letter."
+  }
+]
