@@ -530,12 +530,17 @@
 
 
   .has-dropdown {
+  }
+
+  .has-dropdown .dropdown{
+    opacity: 0;
     display: flex;
     justify-content: space-around;
   }
 
+
   .has-dropdown:hover .dropdown   {
-    opacity: 0;
+    opacity: 1;
     pointer-events: auto;
 }
 
