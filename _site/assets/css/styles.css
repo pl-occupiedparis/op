@@ -522,20 +522,30 @@
   .navbar-nav {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 10px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
   }
 
+  .nav-item {
+    height: auto;
+    padding: 10px;
+    
+  }
+
+
 
   .has-dropdown {
+    align-items: center;
   }
 
   .has-dropdown .dropdown{
     opacity: 0;
     display: flex;
     justify-content: space-around;
+    flex-direction: column;
+
   }
 
 
@@ -546,7 +556,6 @@
 
   .dropdown {
     position: absolute;
-    width: 500px;
     z-index: 2;
     background: white;
     
@@ -554,7 +563,6 @@
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
-    height: 3rem;
     margin-top: 2rem;
     padding: 0.5rem;
    
@@ -564,8 +572,8 @@
 
 
 
-.dropdown-item a {
-    width: 100%;
+.dropdown-item  {
+  padding: 1rem;  
 }
 
 
