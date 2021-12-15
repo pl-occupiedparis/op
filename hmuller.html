@@ -115,9 +115,9 @@ layout: default
     </svg>    
         </span>
       </div>
-        {% for item in site.data.carousel %}
+        {% for item in site.data.muller_carousel %}
         <div class="carousel-item">
-          <div class="carousel-item__image" style="background-image:url('{{ item.image }}')"></div>
+          <div class="carousel-item__image" style="background-image:url('{{ item.image }}');background-size:contain"></div>
           <div class="carousel-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
@@ -214,12 +214,12 @@ layout: default
       </div>
         {% for item in site.data.letters %}
         <div class="carousel-letter-item">
-          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-color: red; background-image:url('{{ item.image-front }}');background-size:contain" ></div>
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
           <div class="carousel-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
               <h1 class="carousel-item__title">{{item.title}}</h1>-->
-              <p class="carousel-item__description">{{ item.caption }}</p>
+              <p class="carousel-item__description">{{ item.transcription }}</p>
                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
               <button onclick="toggle()">Flip the page over!</button>
             </div>
