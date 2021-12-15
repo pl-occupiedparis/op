@@ -158,9 +158,11 @@ layout: default
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
               <h1 class="carousel-item__title">{{item.title}}</h1>-->
-              <p class="carousel-item__description">{{ item.transcription }}</p>
+              <p class="carousel-item__description">{{ item.transcription_EN }}</p>
                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
-              <button onclick="toggle()">Flip the page over!</button>
+              {% if item.toggle == "yes" %}
+                <button onclick="toggle()">Flip the page over!</button>
+              {% endif %}
             </div>
           </div>
         </div>
