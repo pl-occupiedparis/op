@@ -137,8 +137,8 @@ layout: default
      
       
 
-  <a name="letters"><div class="carousel-body">
-    <div class="carousel">
+  <div class="carousel-letter-body">
+    <div class="carousel-letter">
       <div class="carousel__nav">
        <span id="letter-moveLeft" class="carousel__arrow">
             <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
@@ -154,11 +154,14 @@ layout: default
         {% for item in site.data.letters %}
         <div class="carousel-letter-item">
           <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
-          <div class="carousel-item__info">
+          <div class="carousel-letter-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
               <h1 class="carousel-item__title">{{item.title}}</h1>-->
-              <p class="carousel-item__description">{{ item.transcription_EN }}</p>
+              {% if item.title %}
+                <h2 class="carousel-item__subtitle">{{item.title}}</h2>
+              {% endif %}
+              <p class="carousel-item__description">{{ item.transcription_FR }}</p>
                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
               {% if item.toggle == "yes" %}
                 <button onclick="toggle()">Flip the page over!</button>
@@ -168,7 +171,7 @@ layout: default
         </div>
         {% endfor %}
     </div>
-  </div></a>
+  </div>
 
 
 
@@ -270,6 +273,7 @@ $(function(){
     }
            $('.carousel-letter-item').eq(prev).removeClass('active');
            $('.carousel-letter-item').eq(slide).addClass('active');
+           $('.carousel-item__image').eq(slide).addClass('active');
       setTimeout(function(){
 
       },800);
@@ -281,39 +285,42 @@ $(function(){
   }
 });
 
-let imgElement = document.getElementById("carousel-letter-item__image");
-let facingFront = true;
-//let url;
+// let imgElement = document.getElementById("carousel-letter-item__image");
+// let facingFront = true;
+// let url;
 
-let baseurl = imgElement.style.backgroundImage;
-console.log(baseurl);
+// let baseurl = imgElement.style.backgroundImage;
+
+// imgElement.style = "background-image: "+ baseurl ;
+
+function toggle(){
+
+let imgElement = document.getElementsByClassName("active");
+let facingFront = true;
+let url;
+
+let baseurl = imgElement[0].style.backgroundImage;
+
+imgElement[0].style = "background-image: "+ baseurl ;
+
+  if(facingFront== true){
+    facingFront = false;
+  }else if(facingFront ==false){
+    facingFront = true;
+  }
+console.log("button is clicked! hooraahhh")
+
+//let baseurl = imgElement.style.backgroundImage;
+console.log("baseurl: " + baseurl);
 
 if(facingFront == true){
   let url = baseurl;
+  console.log(url)
 }else if(facingFront == false){
-  let url = baseurl.substring(0,baseurl.length-4) + "_back.JPG";
+  let url = baseurl.substring(0,baseurl.length-6) + '_back.JPG")';
   console.log(url);
 }
-
-
-imgElement.style = "background-image: "+ baseurl ;
-
-
-$('button').on('click',function(){
-  if(facingFront== true){
-    facingFront = false;
-  }else if(facingFront ==false){
-    facingFront = true;
-  }
-
-})
-
-function toggle(){
-  if(facingFront== true){
-    facingFront = false;
-  }else if(facingFront ==false){
-    facingFront = true;
-  }
+imgElement[0].style = "background-image: "+ baseurl ;
 
 }
 

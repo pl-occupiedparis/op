@@ -1,24 +1,34 @@
 [
   {
-    "title": "Correspondance",
+    "title": "Correspondence",
     "image-front": "/assets/images/muller/carousel/1945_enfants_Manek.jpg",
     "image-back": "/assets/images/muller/letters/28_juillet_1942_back.JPG",
     "transcription_EN": "Henri Muller has kept many letters and cards exchanged between brothers and sisters during the war but also between Manek and his children. This epistolary correspondence highlights the love that bound the Muller family. Despite the risks involved, the father never stopped writing to his children and making sure they had everything they needed. Reading Manek's letters also tells the story of an immigrant who had not yet mastered the French language and had to hide. In his handwritten letters, we hear the melody of his accent that emerges from his phonetic writing. In the ones written for him by his childhood friend, Marc Kleinman, who spoke French perfectly and with whom Manek was hiding in Périgueux, the accent disappears behind a text displaying precise grammar and spelling. There are also letters with approximate spelling written by French people, such as the concierge of the Place du Guignier. To read these texts is to unwind the intimate thread that linked the family despite the separation. But it is also to discover the story of an immigrant through his linguistic peregrinations. The man who was called Manek Schneps in his native country became Manek Muller in his adopted country. Although his letters are signed Muller, it is Schneps who expresses himself through a language that often escapes him and who, in spite of everything, succeeds in expressing all his love to his children.",
     "transcription_FR": "Henri Muller a conservé de nombreuses lettres et cartes échangées entre frères et soeur pendant la guerre mais aussi entre Manek et ses enfants. Cette correspondance épistolaire met en lumière l'amour qui liait la famille Muller. Malgré les risques encourus, le père n'a jamais cessé d'écrire à ses enfants et de s'assurer qu'ils ne manquaient de rien. La lecture du courrier de Manek raconte aussi l'histoire d'un immigré qui ne maîtrisait pas encore parfaitement la langue française et qui devait se cacher. Dans les lettres qu'il a écrites de sa main, on entend la mélodie de son accent qui se dégage de son écriture phonétique. Dans celles rédigées pour lui par son ami d'enfance, Marc Kleinman, qui parlait parfaitement le français et chez qui Manek se cachait à Périgueux, l'accent disparaît derrière un texte à la grammaire et l'orthographe précises. Il y aussi des lettres à l'orthographe approximative redigées par des Français, comme vraisemblablement la concierge de la place du Guignier. Lire ces textes, c'est dérouler le fil intime qui a relié la famille malgré la séparation. Mais c'est aussi découvrir l'histoire d'un immigré à travers ses pérégrinations linguistiques. Celui qui s'appelait Manek Schneps dans son pays natal est devenu Manek Muller dans son pays d'adoption. Bien que son courrier soit signé Muller, c'est pourtant Schneps qui s'exprime à travers une langue qui lui échappe souvent et qui, malgré tout, réussit à exprimer tout son amour à ses enfants.",
+    "address_from": "Maison St Vincent de Paul pour H. et J. Muller 34, rue des Tournelles L’Hay-les-Roses (Seine)",
+    "address_to": "",
     "toggle": "no"
   },
   {
-    "title": "second letter",
-    "image-front": "/assets/images/muller/letters/carte_7.9.42_a.jpeg",
-    "image-back": "/assets/images/muller/letters/carte_7.9.42_b.jpeg",
+    "title": "",
+    "image-front": "/assets/images/muller/letters/28_juillet_1942.jpg",
+    "image-back": "/assets/images/muller/letters/28_juillet_1942_back.jpg",
     "transcription_EN": "Here is an example caption for Muller's first letter.",
-    "transcription_FR": "",
+    "transcription_FR": "Here is an example caption for Muller's first letter",
     "toggle": "yes"
   },
   {
-    "title": "second letter",
-    "image-front": "/assets/images/muller/letters/carte_7.9.42_a.jpeg",
-    "image-back": "/assets/images/muller/letters/carte_7.9.42_b.jpeg",
+    "title": "",
+    "image-front": "/assets/images/muller/letters/carte_7.9.42.jpg",
+    "image-back": "/assets/images/muller/letters/carte_7.9.42_back.jpg",
+    "transcription_EN": "Here is an example caption for Muller's first letter.",
+    "transcription_FR": "Chèr Henri et Jean / je m’etonne beaucoup pourquoi vous ne m’avez pas écrit jusqu’a present j’ose penser que vous n’avez pas eu mon adresse, alors voici mon adresse : Mme Veuve Fossiés 6. Place du Guignier Pour tailleur Paris (20me) j’éspère que vous-vous trouvez ent bonne santé et qui ne vous ne manque de rien, maintenant écrit moi ci vous avez besoin d’un colis. avec fruit dedans. acheter toujours ce qu’il te faut ent attendant [?] les 300 franc que je vous ai donner n’oubli pas chèr jean de te soigner ton oreille ci tu n’a pas de medicaments fait demander l’ordonnance par la soeur ent donnant l’adresse de la rue des pyrénées Paris. j’ai reçu des nouvelles de maman elle ce trouve a Beaune-la Rolande écrit a ta maman une lettre pour la consolé car jusqua present elle ne sait ou tu te trouve alors voici l’adresse. Camp de Hébèrgement Baune-la-Rolande Mme Muller (loiret) n’oublier de m’écrire toute  la vérité çi vous etes bien j’éspère que vous-vous ennuyer pas. Et çi il vous ne manque rien je termine ma lettre et ecrit moi de suite. ton Pere qui pense a toi / Muller",
+    "toggle": "yes"
+  },
+  {
+    "title": "",
+    "image-front": "/assets/images/muller/letters/carte_23.8.1942.jpg",
+    "image-back": "/assets/images/muller/letters/carte_23.8.1942_back.jpg",
     "transcription_EN": "Here is an example caption for Muller's first letter.",
     "transcription_FR": "",
     "toggle": "yes"
