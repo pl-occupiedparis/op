@@ -151,7 +151,7 @@ layout: default
     </svg>    
         </span>
       </div>
-        {% for item in site.data.letters %}
+        {% for item in site.data.muller_correspondence %}
         <div class="carousel-letter-item">
           <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
           <div class="carousel-letter-item__info">
@@ -161,7 +161,7 @@ layout: default
               {% if item.title %}
                 <h2 class="carousel-item__subtitle">{{item.title}}</h2>
               {% endif %}
-              <p class="carousel-item__description">{{ item.transcription_FR }}</p>
+              <p class="carousel-item__description">{{ item.text_EN }}</p>
                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
               {% if item.toggle == "yes" %}
                 <button onclick="toggle()">Flip the page over!</button>
