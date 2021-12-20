@@ -188,7 +188,6 @@ layout: default
 
 
 <script>
-  let facingFront;
   $(function(){
   $('.carousel-item').eq(0).addClass('active');
   var total = $('.carousel-item').length;
@@ -263,8 +262,6 @@ $(function(){
     setSlide(prev, current);
   });
   function setSlide(prev, next){
-    facingFront = true;
-    console.log(facingFront);
     var slide= current;
     if(next>total-1){
      slide=0;
@@ -301,7 +298,7 @@ function toggle(){
 
 let imgElement = document.getElementsByClassName("carousel-letter-item active");
 imgElement = imgElement.item(0).childNodes[1];
-// let facingFront = true;
+let facingFront = true;
 let url;
 
 let baseurl = imgElement.style.backgroundImage;
