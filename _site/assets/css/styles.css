@@ -597,9 +597,15 @@
     background-position:0% 80%;
 
   }
+  .banner-author {
+    background-image: url("/assets/images/banner_images/banner_image_1.jpg");
+    background-size: cover;
+    background-position:0% 80%;
+
+  }
 
   .banner-amuller {
-    background-image: url("/assets/images/banner_images/communion_annette.jpg");
+    background-image: url("/assets/images/muller/testimony/petite_fille.png");
     background-size: cover;
     background-position:0% 45%;
   }
@@ -1310,3 +1316,6 @@ transform: translateX(0);
 }
 
 
+.text-page{
+  padding:25px;
+}

@@ -1,60 +1,10 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Interview with Annette Bessmann</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-
-  <body>
-    <ul class="navigation">    
-    <div class="site-header">
-      <div class="site-header__wrapper">
-        <div class="header-title">
-          <a href="/" class="brand"><img src="/assets/images/header_image_2.jpg"  height="40px" alt="brand" /></a>
-        </div>
-        <div class="pages-navigation">
-          <ul class="navbar-nav">
-            <div class="nav-item">
-              <a href="/map">Map</a>
-            </div>
-            <div class="nav-item">
-              <a href="/atlas">Atlas</a>
-            </div>
-            <div class="nav-item has-dropdown">
-              <a href="/about">About</a>
-              <ul class="dropdown">
-                <div class="dropdown-item">
-                  <a href="/about">The Project</a>
-                </div>
-                <div class="dropdown-item">
-                  <a href="/context">Historical Context</a>
-                </div>
-                <div class="dropdown-item">
-                  <a href="/contributors">Contributors</a>
-                </div>
-
-              </ul>
-            </div>
-
-
-
-          </ul>
-
-
-        </div>
-    </div>
-    
-</ul>
-    <div class="banner banner-amuller"></div>
+I"%<div class="banner banner-amuller"></div>
 
 <h1 id="interview-with-annette-bessmann-née-muller">Interview with Annette Bessmann née Muller</h1>
 
 <p>Annette Muller was arrested during the July 16, 1942 round-up. She experienced the horror of the Vel’ d’Hiv’, was torn away from her mother who was forced onto a train bound for Auschwitz, and lived through the hell of Drancy. Post-war France did not want to talk about this horror. Shocked by the silence surrounding what is now called the Vel’ d’Hiv’ roundup and especially the amnesia that covered the fate of Jewish children in France during the Second World War, Annette decided to write the story of her childhood in 1976. She sent her text to numerous publishing houses. In vain. It was not until 1983 that SergeKlarsfeld published fragments of it in his book Vichy-Auschwitz. The Barbie trial and the film Au revoir les enfants by Louis Malle in 1987 opened the eyes of the public. Annette’s testimony finally found an audience. In 1991, the first edition of La petite fille du Vel’ d’Hiv’ was published by Denoël. The book tells the story of her family from 1929 to the autumn of 1942 when she was released from Drancy. In 2009, she published the completed version with a recounting going all the way to 1947 and followedby the testimony of her father Manek. Although they have been essential reference texts for researchers, writers, and filmmakers, none of Annette’s works has ever been translated into English. The following work is a humble contribution to filling this gap. We hope that reading it will inspire a professional translator to do an official translation of La petite fille du Vel’ d’Hiv’.</p>
 
-<p>In 1995, Annette and her three brothers, Henri, Jean and Michel, provided testimonials to the USC Shoah Foundation. The textbelow is a translation of Annette’s testimony, interspersed with excerpts from her brothers’. This four-voice account attempts to reconstruct, as closely as possible, the childhood of these survivors as they depicted it 50 years after the events.  It alsotries to reproduce the indefectible complicity that bonded “this clan” until the end.  Unfortunately, it does not answer all the questions that readers may have. Only La petite fille du Vel’ d’Hiv’provides all the keys.</p>
-
-<p>Copyright: Mélanie Péron acknowledges the USC Shoah Foundation for allowing her to translate into English the following testimonies: Annette Bessman Muller (1995), Henri Muller (1995), Jean Muller (1995), Michel Muller (1995). For more information:http://sfi.usc.edu/</p>
+<p>In 1995, Annette and her three brothers, Henri, Jean and Michel, provided testimonials to the USC Shoah Foundation. The textbelow is a translation of Annette’s testimony, interspersed with excerpts from her brothers’. This four-voice account attempts to reconstruct, as closely as possible, the childhood of these survivors as they depicted it 50 years after the events.  It alsotries to reproduce the indefectible complicity that bonded “this clan” until the end.  Unfortunately, it does not answer all the questions that readers may have. Only La petite fille du Vel’ d’Hiv’provides all the keys.Copyright: Mélanie Péron acknowledges the USC Shoah Foundation for allowing her to translate into English the following testimonies: Annette Bessman Muller (1995), Henri Muller (1995), Jean Muller (1995), Michel Muller (1995). For more information:http://sfi.usc.edu/</p>
 
 <p>Interview conducted in Paris on June 21, 1995 by Maya Poirson.
 Credits : USC Shoah Foundation Institute Visual History Archive
@@ -1194,7 +1144,4 @@ toute la nuit, sa mère hurlant folle
 
 <p>Commentaires des photos. Fin de la transcription 11’38</p>
 
-
-  </body>
-</html>
-
+:ET
