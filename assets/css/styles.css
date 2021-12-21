@@ -1038,6 +1038,8 @@ pn-body {
 -webkit-justify-content: center;
   align-items: center;
 -webkit-align-items: center;
+background-color: #eaeaea;
+
 }
 
 .carousel-body {
