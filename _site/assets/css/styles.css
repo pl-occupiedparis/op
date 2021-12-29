@@ -604,6 +604,13 @@
 
   }
 
+  .banner-muller-blog {
+    background-image: url("/assets/images/muller/blog/bistro_mural.png");
+    background-size: cover;
+    background-position:0% 80%;
+
+  }
+
   .banner-amuller {
     background-image: url("/assets/images/muller/testimony/petite_fille.png");
     background-size: cover;
