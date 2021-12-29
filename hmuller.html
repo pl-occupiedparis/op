@@ -60,40 +60,6 @@ layout: default
     <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/muller-map" width="100%" height="600" frameborder="0"></iframe>
   </div></a>
 
-  <a name= "photos">
-  <div class="carousel-body">
-    <div class="carousel">
-      <div class="carousel__nav">
-       <span id="moveLeft" class="carousel__arrow">
-            <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
-        <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
-    </svg>
-        </span>
-        <span id="moveRight" class="carousel__arrow" >
-          <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
-      <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
-    </svg>    
-        </span>
-      </div>
-        {% for item in site.data.muller_carousel %}
-        <div class="carousel-item">
-          <div class="carousel-item__image" style="background-image:url('{{ item.image }}');background-size:contain"></div>
-          <div class="carousel-item__info">
-            <div class="carousel-item__container">
-              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
-              <h1 class="carousel-item__title">{{item.title}}</h1>-->
-              {% if item.title %}
-                <h1 class="carousel-item__title">{{item.title}}</h1>
-              {% endif %}
-              <p class="carousel-item__description">{{ item.caption_EN }}</p>
-               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
-            </div>
-          </div>
-        </div>
-        {% endfor %}
-    </div>
-  </div>
-  </a>
 
   <br>
   <a name= "interview"><div class="pn-container-section">
@@ -138,7 +104,41 @@ layout: default
   </div></a>
 
 
-     
+  <a name= "photos">
+    <div class="carousel-body">
+      <div class="carousel">
+        <div class="carousel__nav">
+         <span id="moveLeft" class="carousel__arrow">
+              <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
+          <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
+      </svg>
+          </span>
+          <span id="moveRight" class="carousel__arrow" >
+            <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
+        <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
+      </svg>    
+          </span>
+        </div>
+          {% for item in site.data.muller_carousel %}
+          <div class="carousel-item">
+            <div class="carousel-item__image" style="background-image:url('{{ item.image }}');background-size:contain"></div>
+            <div class="carousel-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title">{{item.title}}</h1>-->
+                {% if item.title %}
+                  <h1 class="carousel-item__title">{{item.title}}</h1>
+                {% endif %}
+                <p class="carousel-item__description">{{ item.caption_EN }}</p>
+                 <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+      </div>
+    </div>
+    </a>
+  
       
 
   <a name= "correspondence"><div class="carousel-letter-body">
@@ -230,28 +230,6 @@ layout: default
   }
 });
 
-// let imgElement = document.getElementById("carousel-item__image");
-// let facingFront = true;
-// let url = "carte_23.8.1942_b";
-
-// if(facingFront == true){
-//   let url = "/assets/images/muller/letters/"+'{{ item.frontimg }}';
-// }else if(facingFront == false){
-//   let url = "/assets/images/muller/letters/"+'{{ item.backimg }}';
-// }
-
-// imgElement.style = "background-image:url('"+ url +"')";
-
-
-// function toggle(){
-//   if(facingFront== true){
-//     facingFront = false;
-//   }else if(facingFront ==false){
-//     facingFront = true;
-//   }
-
-// }
-
 $(function(){
   $('.carousel-letter-item').eq(0).addClass('active');
   var total = $('.carousel-letter-item').length;
@@ -292,46 +270,25 @@ $(function(){
   }
 });
 
-// let imgElement = document.getElementById("carousel-letter-item__image");
-// let facingFront = true;
-// let url;
-
-// let baseurl = imgElement.style.backgroundImage;
-
-// imgElement.style = "background-image: "+ baseurl ;
-
-
 function toggle(){
-
+//select the parent element (carousel letter item)
 let imgElement = document.getElementsByClassName("carousel-letter-item active");
+//select the child element (the image div)
 imgElement = imgElement.item(0).childNodes[1];
-// let facingFront = true;
 let url;
-
+//grab the backgroundImage property of the image div and save it in a variable
 let baseurl = imgElement.style.backgroundImage;
 
-console.log(imgElement.style)
-
-// imgElement.style = "background-image: "+ baseurl ;
-
-  if(facingFront== true){
-    facingFront = false;
-  }else if(facingFront ==false){
-    facingFront = true;
-  }
-console.log("button is clicked! hooraahhh")
-
-//let baseurl = imgElement.style.backgroundImage;
-console.log("baseurl: " + baseurl);
-
-if(facingFront == true){
-  url = baseurl;
-  console.log(url)
-}else if(facingFront == false){
+if(baseurl.endsWith('_back.JPG")')==true){
+//if the back of the image is displaying
+  url = baseurl.substring(0,baseurl.length-11) + '.JPG")'
+  //remove the "back" part of the url so that the front displays
+}else{
+//if the front of the image is displaying, flip to back
   url = baseurl.substring(0,baseurl.length-6) + '_back.JPG")';
-  console.log(url);
+  //add the "back" part of the url so that the back displays
 }
-
+//set the image element style to reflect the new background image url
 imgElement.style = "background-image: "+ url ;
 
 }
