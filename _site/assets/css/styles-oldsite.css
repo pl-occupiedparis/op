@@ -1,19 +1,17 @@
 
 /* Our default values set as CSS variables */
-
-
 :root {
-    --color-bg: #e5e5e5ff;
+    --color-bg: #FFFFFF;
     --color-text-main: #000000;
     --color-primary: #5999E4;
     --wrapper-height: 87vh;
     --image-max-width: 300px;
     --image-margin: 3rem;
-    --font-family: "Josefin Sans";
-    --font-family-header: "Josefin Sans Thin 100";
+    --font-family: "HK Grotesk";
+    --font-family-header: "HK Grotesk";
   }
   
-  /* Basic page style resets */s
+  /* Basic page style resets */
   * {
     box-sizing: border-box;
   }
@@ -22,14 +20,21 @@
   }
   
   /* Import fonts */
-  @import url(//fonts.googleapis.com/css?family=Josefin+Sans);
-  @import url(//fonts.googleapis.com/css?family=Josefin+Slab);
-
-
+  @font-face {
+    font-family: HK Grotesk;
+    src: url("https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+      format("opentype");
+  }
+  @font-face {
+    font-family: HK Grotesk;
+    font-weight: bold;
+    src: url("https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+      format("opentype");
+  }
   
   /* Our remix on glitch button */
   .btn--remix {
-    font-family: josefin-sans;
+    font-family: HK Grotesk;
     padding: 0.75rem 1rem;
     font-size: 1.1rem;
     line-height: 1rem;
@@ -73,7 +78,7 @@
   }
   
   .navigation a:hover {
-    background: white;
+    background: #5999E4;
   }
 
   .footer {
@@ -88,7 +93,7 @@
   
   .footer a:not(.btn--remix):link,
   a:not(.btn--remix):visited {
-    font-family: josefin-sans;
+    font-family: HK Grotesk;
     font-style: normal;
     font-weight: normal;
     font-size: 1.1rem;
@@ -110,20 +115,8 @@
   }
 
   body {
-    font-family: josefin-slab, sans-serif;
-    font-style: normal;
-    font-weight: 100;
+    font-family: HK Grotesk;
     background-color: var(--color-bg);
-  }
-
-  p {
-    font-family: josefin-slab, sans-serif;
-    font-size: 14px;
-    font-style: normal; 
-    font-variant: normal; 
-    font-weight: 400; 
-    line-height: 20px;
-
   }
   
   /* Page structure */
@@ -143,7 +136,7 @@
   /* Very light scaling for our illustration */
   .title {
     color: #5999E4;
-    font-family: Josefin Sans;
+    font-family: HK Grotesk;
     font-style: normal;
     font-weight: bold;
     font-size: 50px;
@@ -191,12 +184,9 @@
   /* Subheading */
   h1 {
     color: #5999E4;
-    font-family: "Josefin Sans"; font-size: 34px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 20px;
-
   }
   h2 {
     color: #3b4652;
-    font-family: "Josefin Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
   }
   
   /* Interactive image */
@@ -232,7 +222,7 @@
     /* border-bottom: 20px solid black; */
     padding-top: 4%;
     width: 80%;
-    border-bottom: 20px solid #f3f3f3;  
+    border-bottom: 20px solid rgb(36, 36, 36);  
   }
 
   .bookshelf-container {
@@ -245,9 +235,7 @@
     /* border-bottom: 20px solid black; */
     width: 80%;
     height: 100%;
-    border-bottom: 20px solid #f3f3f3;
-    box-shadow:0px 1px 0px white;
-  
+    border-bottom: 20px solid rgb(36, 36, 36);
   }
 
  /* .bookshelf {
@@ -545,7 +533,6 @@
 
   .navbar-nav {
     list-style-type: none;
-    background: #e5e5e5ff;
     margin: 0;
     padding: 10px;
     display: flex;
@@ -556,8 +543,6 @@
   .nav-item {
     height: auto;
     padding: 10px;
-    background: #e5e5e5ff;
-
     
   }
 
@@ -703,7 +688,7 @@
 
 #go-back {
       color: #000000;
-    font-family: Josefin Sans;
+    font-family: HK Grotesk;
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
@@ -814,7 +799,7 @@ section {
 
 .navbar-pn {
   overflow: hidden;
-  font-family: Josefin Sans;
+  font-family: HK Grotesk;
   background-color: #e6f0fa;
   position: fixed;
   bottom: 0;
@@ -836,7 +821,7 @@ section {
 
 .navbar-atlas {
   overflow: hidden;
-  font-family: Josefin Sans;
+  font-family: HK Grotesk;
   background-color: #e6f0fa;
 
   box-shadow: 5px 5px 5px 5px grey;
@@ -1027,25 +1012,6 @@ pn-body {
 
 }
 
-.pn-container-section-white {
-  border: none;
-  padding: 20px 40px 40px;
-  display: flex;
-  flex-wrap: wrap;
-  padding-bottom: 5%;
-  margin: 20px 20px 20px 20px;
-  flex: 1 1 auto;
-  background-color: white;
-
-}
-
-.pn-container-section-white-blog {
-  border: none;
-  padding: 20px 40px 40px;
-  display: flex;
-  background-color: white;
-}
-
 
 
 .pn-container-section h2 {
@@ -1059,11 +1025,12 @@ pn-body {
 .pn-container-section-embed {
   border: none;
   padding: 20px 40px 40px;
+  display: flex;
+  flex-wrap: wrap;
   padding-bottom: 5%;
   margin: 20px 20px 20px 20px;
   flex: 1 1 auto;
-  /* background-color: white; */
-  /* background-color: #EAEAEA; */
+  background-color: #EAEAEA;
 
 }
 
@@ -1393,9 +1360,7 @@ transform: translateX(0);
 
 
 .text-page{
-  padding:20px;
-  background-color: white;
-  margin: 25px;
+  padding:25px;
 }
 
 .img-blog {
