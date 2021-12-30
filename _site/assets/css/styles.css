@@ -849,7 +849,7 @@ section {
 
 .navbar-pn {
   overflow: hidden;
-  font-family: Josefin Sans;
+  font-family: inherit;
   background-color: #e6f0fa;
   position: fixed;
   bottom: 0;
@@ -1481,3 +1481,63 @@ transform: translateX(0);
   align-items: center;
   justify-content: center;
 }
+
+/* Grid layout for historical context */
+
+  .flex-grid {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px -25px;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    align-items: center;
+
+
+  }
+
+  .flex-grid-box {
+    display: flex;
+    box-sizing: border-box;
+    background-color: white;
+    /* padding: 5px;
+    margin: 0 0 0 0; 
+    text-align: center; */
+    border: 1px solid darkgrey;
+    padding: 10px;
+    width: 40%;
+    height: 300px;
+    margin: 10px 5px;
+    align-items: center;
+    box-shadow: 0 8px 8px 0 rgba(109, 109, 109, 0.1), 0 6px 20px 0 rgba(104, 104, 104, 0.1);
+    text-decoration: none;
+    color: black;
+    flex-wrap: wrap;
+
+  }
+
+
+
+  .flex-grid-box-text {
+    color:black;
+    justify-content: center;
+  }
+
+  .flex-grid-box a:link {
+    color:red;
+    text-decoration: none;
+  }
+
+  .flex-grid-box-photo {
+    display: flex;
+    justify-content: center;
+    height: 60%;
+    width:auto;
+    object-fit: cover;
+    overflow: hidden;
+  }
+
+  /* @media (max-width: 400px) {
+    .flex-grid {
+      display: block;
+    }
+  } */
