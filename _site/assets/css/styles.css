@@ -532,7 +532,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%
+    width: 100%;
+    padding: 0;
   }
 
 
@@ -548,7 +549,7 @@
     display: flex;
     align-items: center;
     flex-flow: row nowrap;
-    width: 95%;
+    width: 100%;
   }
 
   .header-title {
@@ -556,7 +557,6 @@
     align-items: flex-start;
     flex-flow: row nowrap;
     align-items: center;
-
   }
 
  /* .pages-navigation {
@@ -791,9 +791,9 @@ ul {
   color: white;
 }
 
-.navbar-atlas a:active {
-  background-color: #5999E4;
-  color: white;
+.navbar-atlas a:after {
+  background-color: yellow;
+  color: black;
 }
 
 .container .right-col .biography-header h1 {
@@ -923,15 +923,12 @@ section {
   text-align:  left;
 }
 
+
 /* Add a blue background color to navbar links on hover */
 #bar-items .navbar a:hover, .dropdown:hover .dropbtn  {
   background-color: #5999E4;
 }
 
-/* Add a blue background color to navbar links on hover */
-#bar-items .navbar a:hover {
-  background-color: #5999E4;
-}
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
@@ -1474,4 +1471,13 @@ transform: translateX(0);
   justify-content: center;
 
 
+}
+
+
+/* Map page */
+
+.iframe-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
