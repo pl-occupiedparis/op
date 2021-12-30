@@ -121,7 +121,6 @@
     font-size: 14px;
     font-style: normal; 
     font-variant: normal; 
-    font-weight: 400; 
     line-height: 20px;
 
   }
@@ -232,22 +231,25 @@
     /* border-bottom: 20px solid black; */
     padding-top: 4%;
     width: 80%;
-    border-bottom: 20px solid #f3f3f3;  
+    border-bottom: 20px solid rgba(255, 255, 255, 0.877);  
+    box-shadow:0px 2px 0px lightgrey;
+
   }
 
   .bookshelf-container {
     display: flex;
     flex-flow: row wrap;  
     justify-content: space-evenly;
+    align-items:flex-end;
     padding: 0;
     margin: 0;
     padding-top: 30px;
+    padding-bottom: 0;
     /* border-bottom: 20px solid black; */
     width: 80%;
     height: 100%;
-    border-bottom: 20px solid #f3f3f3;
-    box-shadow:0px 1px 0px white;
-  
+    border-bottom: 20px solid white;
+    box-shadow:0px 1px 0px lightgrey;
   }
 
  /* .bookshelf {
@@ -282,7 +284,6 @@
     max-height:180px;
     width: auto;
     height: 100%;
-
     }
 
   .book-link {
@@ -302,17 +303,31 @@
 
   .book-item {
     display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    /* text-transform: uppercase; */
+    box-shadow: 0 0 8px gray;
+    flex-basis: 5%;
+  }
+
+  .book-item-short {
+    display: flex;
     justify-content:center;
     flex-direction: column;
     align-items: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     box-shadow: 0 0 8px gray;
     flex-basis: 5%;
+    height: 240px;
 
-    
   }
 
   .book-item a {
+    text-decoration: none;
+  }
+
+  .book-item-short a {
     text-decoration: none;
   }
 
@@ -338,19 +353,33 @@
   .book-icon {
     width: 180px;
     line-height: 200%;
-    font-weight: bold;
+    /* font-weight: bold; */
     padding-bottom: 1px;
     background-size: contain;
     background-repeat: no-repeat;
     height: 280px;
+    /* text-align: center; */
+    display: flex;
+    align-items:flex-end;
+    /* justify-content: center;
+    text-align: center; */
+    justify-content:flex-start;
+  
+  }
+
+  .book-icon-short {
+    width: 180px;
+    line-height: 200%;
+    font-weight: bold;
+    padding-bottom: 1px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 240px;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-
-
-
   }
 
   .globe {
@@ -448,17 +477,15 @@
 
   .hover-title {
     z-index:10;
-    font-size: 20px;
+    font-size: 15px;
     color: black;
     opacity: 0;
-    text-align: center;
-    margin: auto;
-    text-shadow: 2px 2px #FFFFFF;
-    letter-spacing: 1px;
+    /* letter-spacing: 1px; */
     text-align: center;
     align-items: center;
-    padding: 70px 0;
-    font-size: x-large;
+    /* padding: 70px 0; */
+    padding: 5px 10px;
+    
 
 
 
@@ -469,13 +496,20 @@
 
   .book-item:hover .hover-title {
     opacity:1;
-    text-align: center;
+    text-align: left;
+  }
 
-
+  .book-item-short:hover .hover-title {
+    opacity:1;
+    text-align: left;
   }
 
   .book-item:hover li {
-    background: rgba(205, 224, 246, 0.4);  
+    background: rgba(198, 215, 235, 0.4);  
+  }
+
+  .book-item-short:hover li {
+    background: rgba(198, 215, 235, 0.4);  
   }
 
 
@@ -612,6 +646,7 @@
     align-items: center;
     flex-direction: column;
     height: 250px;
+    width:100%;
 
 
   }
@@ -680,13 +715,13 @@
   
   .img-group-item {
     padding: 10px;
-    width: 30%;
+    max-width: 25%;
   }
 
   .img-single {
     display: flex;
     margin: auto;
-    max-width: 50vw;
+    max-width: 40vw;
     padding: 10px;
   } 
 
@@ -989,6 +1024,15 @@ pn-body {
   margin: 0 0 5% 0;
 }
 
+.pn-text h3 {
+  font: inherit;
+  color: #2d4d72;
+  font-size: 160%;
+  font-weight:inherit;
+  text-transform: uppercase;
+
+}
+
 .pn-text-bio {
   flex: 1 1 auto;
   padding: 10px;
@@ -999,7 +1043,6 @@ pn-body {
 .pn-text-bio header {
   color: #5999E4;
   font-size: 350%;
-  font-weight: bold;
 }
 
 .pn-text-bio h2 {
@@ -1044,11 +1087,16 @@ pn-body {
   padding: 20px 40px 40px;
   display: flex;
   background-color: white;
+  padding: 20px 40px 40px;
+  margin: 20px 20px 20px 20px;
+
+
 }
 
 
 
 .pn-container-section h2 {
+  font: inherit;
   color: #2d4d72;
   font-size: 160%;
   font-weight: bold;
@@ -1071,9 +1119,10 @@ pn-body {
 
 .pn-container-section-embed h2 {
   color: #2d4d72;
+  font: inherit;
   font-size: 160%;
-  font-weight: bold;
   text-transform: uppercase;
+  font-weight:inherit;
 
 }
 
@@ -1097,6 +1146,10 @@ pn-body {
   -webkit-justify-content: center;
     align-items: center;
   -webkit-align-items: center;
+  background-color: inherit;
+
+  /* margin: 20px 20px 20px 20px; */
+
 }
 
 .carousel-letter-body {
@@ -1110,20 +1163,20 @@ pn-body {
 -webkit-justify-content: center;
   align-items: center;
 -webkit-align-items: center;
-background-color: #eaeaea;
+background-color: inherit;
+/* margin: 20px 20px 20px 20px; */
+
 
 }
 
-.carousel-body {
-    background-color: #eaeaea;
-}
+
 
 
 .carousel {
     width: 100%;
     height: 100%;
     display: flex;
-    max-width: 900px;
+    max-width: 1000px;
     max-height: 550px;   
     overflow: hidden;
   position: relative;
@@ -1133,7 +1186,7 @@ background-color: #eaeaea;
   width: 100%;
   height: 100%;
   display: flex;
-  max-width: 900px;
+  max-width: 1000px;
   max-height: 650px;   
   overflow: hidden;
 position: relative;
@@ -1141,6 +1194,7 @@ position: relative;
 
 .carousel-item {
   visibility:visible;
+  font: inherit;
     display: flex;
     width: 100%;
     height: 100%;
@@ -1251,31 +1305,32 @@ position: relative;
 
 
 .carousel-item__subtitle {
-    font-family: 'Open Sans', sans-serif;
+    font-family: inherit;
     letter-spacing: 3px;
-    font-size: 20px;
+    font-size: 19px;
     text-transform: uppercase;
     margin: 0;
     color: #7E7E7E;    
     font-weight: 700;
     transform: translateY(25%);
     opacity: 0;
-    visibility: hidden;
+    /* visibility: hidden; */
     transition: 0.4s all ease-in-out;
 }
 
 .carousel-item__title {
     margin: 15px 0 0 0;
-    font-family: 'Playfair Display', serif;
+    font-family: inherit;
     font-size: 44px;
     line-height: 45px;
     letter-spacing: 3px;
     font-weight: 700;
-    color: #2C2C2C;
+    color: #7E7E7E;
     transform: translateY(25%);
     opacity: 0;
     visibility: hidden;
     transition: 0.6s all ease-in-out;
+  
 }
 
 .carousel-item__description {
@@ -1319,6 +1374,7 @@ position: relative;
 
 .carousel-item__container{
   overflow: scroll;
+  padding-top: 10px;
 }
 
 .carousel-item__btn {
@@ -1396,6 +1452,13 @@ transform: translateX(0);
   padding:20px;
   background-color: white;
   margin: 25px;
+  font:inherit;
+}
+
+.text-page h2 {
+  line-height: 10px;
+  font-size: 20px;
+  color:#2d4d72;
 }
 
 .img-blog {
