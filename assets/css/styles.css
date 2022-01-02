@@ -1527,14 +1527,25 @@ transform: translateX(0);
     text-decoration: none;
   }
 
-  .flex-grid-box-photo {
+  /* .flex-grid-box-photo {
     display: flex;
-    justify-content: center;
+    justify-content:center;
     height: 60%;
     width:auto;
     object-fit: cover;
     overflow: hidden;
+  } */
+
+  .flex-grid-box-photo {
+    display: flex;
+    justify-content:center;
+    height: 60%;
+    width:100%;
+    object-fit: cover;
+    overflow: hidden;
   }
+
+
 
   /* @media (max-width: 400px) {
     .flex-grid {
