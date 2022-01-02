@@ -118,10 +118,10 @@
 
   p {
     font-family: josefin-slab, sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     font-style: normal; 
     font-variant: normal; 
-    line-height: 20px;
+    line-height: 22px;
 
   }
   
@@ -190,7 +190,7 @@
   /* Subheading */
   h1 {
     color: #5999E4;
-    font-family: "Josefin Sans"; font-size: 34px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 20px;
+    font-size: 34px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 20px;
 
   }
   h2 {
@@ -1046,7 +1046,9 @@ pn-body {
 
 .pn-text-bio header {
   color: #5999E4;
-  font-size: 350%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 320%; font-style: normal; font-variant: normal; text-transform: uppercase; font-weight: 100; line-height: 120%;
+
 }
 
 .pn-text-bio h2 {
@@ -1100,9 +1102,11 @@ pn-body {
 
 
 .pn-container-section h2 {
-  font: inherit;
-  color: #2d4d72;
-  font-size: 160%;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #595959;
+  /* color: #2d4d72; */
+  font-size: 170%;
+  line-height: 110%;
   font-weight: bold;
   text-transform: uppercase;
 
@@ -1122,9 +1126,11 @@ pn-body {
 
 
 .pn-container-section-embed h2 {
-  color: #2d4d72;
-  font: inherit;
-  font-size: 160%;
+  /* color: #2d4d72; */
+  color: #595959;
+  line-height: 110%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 170%;
   text-transform: uppercase;
   font-weight:inherit;
 
@@ -1459,10 +1465,24 @@ transform: translateX(0);
   font:inherit;
 }
 
+.text-page-context{
+  padding:20px;
+  background-color: white;
+  margin: 25px;
+  font:inherit;
+  line-height: 130%;
+}
+
 .text-page h2 {
+
+  font-family: josefin-slab, sans-serif;
+  text-transform: uppercase;
   line-height: 10px;
   font-size: 20px;
-  color:#2d4d72;
+  color: #595959;
+  /* color:#2d4d72; */
+  font-weight: inherit;
+  line-height: 110%;
 }
 
 .img-blog {
