@@ -17,7 +17,7 @@ layout: default
   <link rel="stylesheet" href="assets/css/styles.css">
   </head>
 
-  <div class="navbar-atlas" id="bar-items">
+  <div class="navbar-atlas" id="bar-items" style="text-align: center;">
     <a class = "toggleButton" id="muller-map" onclick="switchMap(this.id)"></h1>Muller</a>
     <a class = "toggleButton" id="francine-lorch" onclick="switchMap(this.id)"></h1>Lorch</a>
     <a class = "toggleButton" id="nathan-spiewak" onclick="switchMap(this.id)"></h1>Spiewak</a>
@@ -28,21 +28,19 @@ layout: default
     <a class = "toggleButton" id="mirka-mora-paris-map" onclick="switchMap(this.id)"></h1>Mirka</a>
   </div>
 
-
-<body>
-	<div id="map">
-    <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit" width="100%" height="700vh" frameborder="0"></iframe>
-	</div>
-  <div class="iframe-wrapper">
-    <p>
-      <div id="full" class="button">
-        <a href="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit-1" target="blank">
-          <button>Fullscreen Map</button></a>
-      </div>  
-    </p>  
+  <body>
+    <div id="map" style="text-align: center;">
+      <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit" width="95%" height="700vh" frameborder="0"></iframe>
     </div>
-
-</body>
+    <div class="iframe-wrapper">
+      <p>
+        <div id="full" class="button">
+          <a href="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit-1" target="blank">
+            <button>Fullscreen Map</button></a>
+        </div>  
+      </p>  
+      </div>
+  </body>
 
 <script>
 
@@ -55,7 +53,7 @@ document.getElementsByClassName("toggleButton").onclick = console.log(this.id);
 
 function switchMap(id){
   let map = document.getElementById("map");
-	map.innerHTML = "<iframe src='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' width='100%' height='700vh' frameborder='0'></iframe>"
+	map.innerHTML = "<iframe src='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' width='95%' height='700vh' frameborder='0'></iframe>"
   let full = document.getElementById("full");
 	full.innerHTML = "<a href='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' target='blank'> <button>Fullscreen Map</button></a>"
 }

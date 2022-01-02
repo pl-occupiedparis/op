@@ -871,10 +871,10 @@ section {
 
 .navbar-atlas {
   overflow: hidden;
+  width: 95%;
   font-family: Josefin Sans;
   background-color: #e6f0fa;
-
-  box-shadow: 5px 5px 5px 5px grey;
+  margin: auto;
   padding: 0.5%;
 }
 
@@ -886,6 +886,12 @@ section {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+.atlas-body {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 
@@ -921,6 +927,7 @@ section {
 .navbar-atlas #bar-items {
   padding:  20px;
   text-align:  left;
+  margin: auto;
 }
 
 
