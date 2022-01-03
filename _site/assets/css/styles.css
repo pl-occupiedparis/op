@@ -370,16 +370,15 @@
   .book-icon-short {
     width: 180px;
     line-height: 200%;
-    font-weight: bold;
+    /* font-weight: bold; */
     padding-bottom: 1px;
     background-size: contain;
     background-repeat: no-repeat;
     height: 240px;
-    text-align: center;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+    align-items: flex-end;
+    justify-content: flex-start;
+    /* text-align: center; */
   }
 
   .globe {
@@ -511,6 +510,8 @@
   .book-item-short:hover li {
     background: rgba(198, 215, 235, 0.4);  
   }
+
+  
 
 
 
@@ -1016,7 +1017,8 @@ pn-body {
 
 
 .pn-text header {
-  color: #5999E4;
+  color: #2d4d72;
+  /* color: #5999E4; */
   font-size: 350%;
   font-weight: bold;
 }
@@ -1046,8 +1048,9 @@ pn-body {
 
 .pn-text-bio header {
   color: #5999E4;
+  /* color: #2d4d72; */
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 320%; font-style: normal; font-variant: normal; text-transform: uppercase; font-weight: 100; line-height: 120%;
+  font-size: 280%; font-style: normal; font-variant: normal; text-transform: uppercase; font-weight: 100; line-height: 120%;
 
 }
 
