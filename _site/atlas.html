@@ -97,12 +97,13 @@ document.getElementsByClassName("toggleButton").onclick = console.log(this.id);
 
 
 
-
 function switchMap(id){
   let map = document.getElementById("map");
 	map.innerHTML = "<iframe src='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' width='95%' height='700vh' frameborder='0'></iframe>"
   let full = document.getElementById("full");
 	full.innerHTML = "<a href='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' target='blank'> <button>Fullscreen Map</button></a>"
+  document.getElementById(id).setAttribute('id', 'selected')
+  console.log(id);
 }
 
 // function switchFull(id){
