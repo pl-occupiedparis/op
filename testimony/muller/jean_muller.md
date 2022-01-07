@@ -1,0 +1,858 @@
+---
+layout: about
+title: Interview with Annette Bessmann
+---
+
+
+<div class= "banner banner-amuller"></div>
+
+
+# Interview with Jean Muller
+
+Interview conducted in Paris on August 17, 1995 by Phyllis Yordan-Bonny.
+Credits : USC Shoah Foundation Institute Visual History Archive
+Oral History | VHA Interview Code: 4979
+
+<a href="https://vha-usc-edu.proxy.library.upenn.edu/viewingPage?testimonyID=4979&returnIndex=0
+" target="_blank">Watch the full interview in French</a>
+
+
+*Legal notice: This document is a quasi-verbatim transcription produced by Chloé Reum (UPENN ’19) and Mélanie Péron. It can in no way be considered as a primary source. The accuracy of the transcript has not been officially verified.*
+
+
+## CASSETTE 1
+ 
+**Interviewer** : Bonjour nous sommes aujourd’hui le 17 août 1995 à Paris. Je suis Phyllis Yordan-Bonny et j’interviewe Monsieur Jean Isaac Muller. Voulez-vous bien vous présenter s’il vous plaît ?
+ 
+**Jean**: Bien. Je m’appelle Jean Isaac Muller. Je suis né le 11 novembre 1931 à Saint-Quentin dans l’Aisne.
+ 
+**Interviewer** : Vous êtes…  ensuite vous avez vécu à Paris
+ 
+**Jean**: J’ai vécu à Paris depuis ma plus tendre enfance. Je me souviens plus du tout du département du Nord où je suis né. 
+ 
+**Interviewer** : Et où habitiez-vous à Paris ?
+ 
+**Jean**: Où j’habitais en 19… alors aujourd’hui ou… ?
+ 
+**Interviewer** : Non, quand vous étiez petit. 
+ 
+**Jean**: Alors, on habitait au moment par exemple de…  depuis 1938, on habitait 3, rue de l’Avenir, Paris 20ème. C’est un quartier qui touche le quartier Ménilmontant. 
+ 
+**Interviewer** : Et, vous habitiez donc avec qui ?
+ 
+**Jean**: J’habitais avec mon père, ma mère, et mes trois frères et sœur. C’est-à-dire que dans le petit appartement, on était six. 
+ 
+**Interviewer** : Et il y avait combien de pièces ?
+ 
+**Jean**: Deux pièces et demie. Cuisine et commodités. Et en plus, cet… cet appartement était aussi l’appartement où mon père travaillait à domicile. 
+ 
+**Interviewer** : Qu’est-ce qu’il faisait ?
+ 
+**Jean**: Il était tailleur à domicile. Apiéceur. 
+ 
+**Interviewer** : Donc il travaillait à la maison. 
+ 
+**Jean**: Il travaillait à la maison et on habitait à la maison à Paris. 
+ 
+**Interviewer** : Donc, dans l’ordre vos frères et sœur qui… 
+ 
+**Jean**: Je suis donc le deuxième. Mon frère est aîné s’appelle Henri. Il a juste un an de plus que moi. Vient après moi ma sœur qui s’appelle Annette, qui est née en 1933. Et le dernier, Michel, né en 1935. 
+ 
+**Interviewer** : Et votre famille était d’origine d’où ?
+ 
+**Jean**: D’origine polonaise. Du côté de Tarnow qui est une ville industrielle de Pologne. 
+ 
+**Interviewer** : Vos deux parents donc ?
+ 
+**Jean**: Mes deux parents, oui, ils sont d’origine polonaise. 
+ 
+**Interviewer** : Et ils se sont connus là-bas ou…  ?
+ 
+**Jean**: Ils se sont connus là-bas, et ils se sont enfuis là-bas tous les deux ensemble pour se marier à Paris, parce qu’ils fuyaient et la misère, ils fuyaient l’antisémitisme, ils fuyaient aussi le milieu religieux où… où ils avaient été élevés. Puisque telles n’étaient plus leurs convictions quand ils se sont sauvés. 
+ 
+**Interviewer** : Donc ils sont arrivés en France, ils avaient quel âge ? 
+ 
+**Jean**: Ils avaient donc, mon père est né en 1910 et il est venu en France en 1929, il avait 19 ans. 
+ 
+**Interviewer** : Et votre mère ?
+ 
+**Jean**: Ma mère avait un an et demi de plus c’est-à-dire 21 ans. 
+ 
+**Interviewer** : Ils étaient tout jeunes. 
+ 
+**Jean**: Ils étaient très très jeunes. Ils étaient très très jeunes, ils étaient mariés et ils ont tout de suite eu un enfant, c’est-à-dire mon frère Henri, l’aîné.
+ 
+**Interviewer** : Et donc, ils se sont établis à Paris ?
+ 
+**Jean**: Ils ne se sont pas établis tout de suite à Paris. Ils se sont d’abord établis dans le nord à Saint-Quentin. Parce que… ils ont été… ils ont eu un certificat d’émigration, mais comme je crois savoir comme mineurs. Puisque à l’époque, on recherchait une main-d’oeuvre pour les mines. Mais finalement mon père, parce qu’il était plutôt chétif, il a plutôt travaillé dans la… dans la confection… qui était un métier qu’il ne connaissait pas tellement bien à l’époque, mais qu’il a appris sur le tas parce que… il fallait bien manger. 
+ 
+**Interviewer** : Et rue de l’Avenir, quelle langue parliez-vous ?
+ 
+**Jean**: À la maison ? Le français. Nous — le français. Le français courant, mes parents — le français, le français très, très abîmé par leur… par leur manque de vocabulaire, et leur accent, mais petit à petit, petit à petit, d’année en année, naturellement ils progressaient.
+ 
+**Interviewer** : Vous parliez pas yiddish ? Ils parlaient pas Yiddish ensemble ?
+ 
+**Jean**: Entre eux, ils parlaient yiddish. Mais à nous, c’est un phénomène particulier pour ces milieux, à nous, ils se sont jamais adressés en yiddish. Sauf pour nous gronder. 
+ 
+**Interviewer** : Ils ne voulaient pas que vous compreniez peut-être ? 
+ 
+**Jean**: Non mais quand ils nous grondaient, c’était en yiddish. La langue yiddish, en ce qui concerne mes parents et nous, c’était la langue réservée pour l’engueulade.
+ 
+**Interviewer** : Donnez-moi un exemple.  
+ 
+**Jean**: Des exemples, c’était… quand on était des désordonnés [ ? ]. Enfin bon, les noms…  les noms m’échappent un peu aujourd’hui mais c’était la langue de l’engueulade. 
+ 
+**Interviewer** : Et vous entendiez bien avec vos frères et sœur ? 
+ 
+**Jean**: Formidablement bien. C’était un clan… qui existe encore aujourd’hui. On a chacun nos vies, chacun a notre milieu, nos amis qui sont pas les mêmes pour les uns et pour les autres mais leur clan reste très reconstitué et tout le monde le remarque. C’est un clan indissoluble. 
+ 
+**Interviewer** : Et racontez-moi un peu une journée quotidienne rue de l’Avenir. 
+ 
+**Jean**: Je peux vous raconter une journée de…  par exemple, de 1942 pendant la période scolaire. Donc mes parents étaient levés bien avant nous. Nous, on se levait…on réveillait vers les 7h un quart pour… pour faire la toilette. A tour de rôle. Puisque quand même l’appartement était assez exigu. Et puis, on déjeunait. Très très bien d’ailleurs. Ma mère, malgré les restrictions, était… était très débrouillarde et attachait beaucoup d’importance à la nourriture. 
+ 
+**Interviewer** : Qu'est-ce que vous aviez à manger ?
+ 
+**Jean**: Nous, par exemple, à cette époque le matin on mangeait du chocolat. Du chocolat ou de…c’était pas le chocolat comme il existe aujourd’hui. C’était un ersatz de chocolat. Parce que…il y avait quand même le manque, les restrictions, et cetera. Avec du lait, on avait le droit au lait. On était J… J-1… J-2. Donc on avait droit je crois à un quart de lait par… Donc il nous restait un peu de lait qui était mélangé. Et puis des tartines avec soit de confiture soit de beurre. Et ensuite on allait… on allait à l’école parce qu’il fallait être à l’école pour 8h et demie. Et le midi, on mangeait à la cantine puisque les parents n’avait pas le temps. Et le soir ils venaient ou on terminait à l’école à 16h30 pour rentrer à la maison, faire les devoirs. C’était très important pour les parents qu’on fasse les devoirs. Ils étaient très attachés à notre travail à l’école. Très très…  et très sévères. C’est ainsi que, à la fin de l’année, on était par exemple les garçons dans trois classes différentes dans la même école. On était premiers toute l’année. Et à la distribution des prix, par exemple, la dernière distribution des prix qu’on a eus à cette école, en 1942, le directeur…  donc toute l’école était réunie, la distribution des prix c’était pour toute l’école avec tous les parents et il a eu ce mot historique : “Honneur à la famille Muller. Premier…  Premier…  Premier… “ Et c’est ce qui a créé… mais ça a créé une sorte de connivence  entre mes parents et ce directeur, qui s’est révélée par la suite. Je vous raconterai par la suite comment ce directeur est venu prévenir mes parents. Et puis bon après on avait le droit de jouer dans la rue. 
+ 
+**Interviewer** : Vous jouiez dans la rue ?
+ 
+**Jean**: Beaucoup, beaucoup. La rue c’était…la rue de l’Avenir c’était un cul-de-sac. Donc il y avait, il y avait…très courte.  Qui faisait peut-être euh 60-70 mètres de long. Et qui se termine en cul-de-sac. Donc il y avait pas de circulation de véhicules. On pouvait…  déjà même à l’époque il y avait pas de circulation comme elle existe aujourd’hui. Et on jouait oui. Jusqu’à l’heure du dîner le soir. On dînait très confortablement. Et puis on se couchait très tôt. Ca, mes parents étaient très strictes sur les heures de sommeil, qui me… qui sont encore aujourd’hui les mêmes heures pour moi. C’est une habitude qu’on a prise enfant. De se coucher tôt et de se lever relativement tôt.
+ 
+**Interviewer** : Et en dehors donc de…  de…  de…  de l’année, vous partiez en vacances ?
+ 
+**Jean**: On partait en vacances tous les ans. Une… on avait donc à l’époque deux mois et demi de vacances, du 14 juillet au 1 octobre. Et un mois, on partait en colonie, et un mois on partait avec les parents. Avec les parents, ma mère tout le mois. Mon père seulement une semaine du mois parce qu’il fallait qu’il reste à la maison quand même pour continuer à travailler quand il y avait du travail, parce que c’était pas toujours le cas. Mais sans ça, on avait à peu près deux mois de vacances. Mais les vacances en colonie oui, on pouvait partir loin. On pouvait… il y avait des colonies proches, mais il y avait des colonies…  par exemple, on est allés plusieurs fois à Hendaye en colonie. Ou on était à Berck-Plage avec la colonie scolaire qui… qui est rue Amelot. Ou alors on partait donc avec les parents mais c’était plus proche quand c’était avec les parents. C’était par exemple La Roche-Guyon, Bonnières, qui, à l’époque,  était quand même…pas le but du monde mais c’était déjà un… un périple. 
+
+**Interviewer** : C’était à combien de kilomètres ?
+ 
+**Jean**: La Roche-Guyon il peut y avoir 60-70 kilomètres. Oui oui c’était déjà… vous pensez, il fallait se lever tôt le matin, il fallait prendre le car, fallait…  c’était à l’époque, à l’époque c’était considéré quand même comme une aventure. Très peu de gens allaient en vacances. Très peu. Avec les parents. Bon, il y avait… avec des colonies c’était plus fréquent. Mais avec les parents très peu de gens allaient en vacances. Surtout dans nos quartiers. Dans les quartiers riches, peut-être ça se passait autrement. Mais nous, on vivait dans un quartier très modeste, le quartier de Ménilmontant, très très modeste. Tous les gens qui habitaient là-bas, tous nos copains, qu’ils soient juifs ou…  ou catholiques ou n’importe… étaient de conditions plutôt modestes sans être pauvres, mais plutôt modestes. Voilà. 
+ 
+**Interviewer** : Et vos parents, qu’est-ce qu’ils faisaient pour leurs loisirs ?
+ 
+**Jean**: Bah les loisirs, c’était le samedi, cinéma. Y avait rien d’autre... On avait même pas de T.S.F.… C’était le cinéma, c’était… nous, on y allait le jeudi après-midi, oui, c’était…et le samedi, le soir, les parents allaient au cinéma et nous laissaient à la maison. On en profitait pour faire des foires mémorables. 
+
+**Interviewer** : Qu’est-ce que vous avez fait ?
+
+**Jean**: Oui, oui on adorait… de voir nos parents partir le samedi soir, surtout l’été où les journées étaient très, très longues.
+ 
+**Interviewer**: Qu’est-ce que vous faisiez alors ?
+ 
+**Jean**: Oui, bah on commençait à chahuter,  c’était des…  des…  des batailles de poloch… on avait besoin de faire du bruit quand ils étaient pas là, parce que quand ils étaient là, c’était mesuré, voyez-vous. Et dès que…  c’était comme une explosion… alors qu’on était pas du tout…mes parents étaient, étaient…bon, étaient sévères mais pas… mais pas excessivement. Bon, il fallait quand même, quand on est six dans une petite maison, dans un petit appartement, fallait quand même une discipline, si les gens… si on rangeait pas nos affaires, si on…  on était malpropres, tout ça, c’était…  il fallait… il fallait sévir. Ca, c’est normal, sans ça c’était… c’était la déchéance.  
+ 
+**Interviewer**: Et qui était le meneur parmi tous ces enfants ?
+ 
+**Jean**: Bah, je crois que c’était… c’était l’aîné toujours, c’était Henri, l’aîné, mais on le suivait sans… sans restrictions, non… c’était quand même lui le responsable quand les voisins rapportaient à nos parents qu’on avait chahuté et qu’on avait fait du bruit. Bon, on donc c’était lui le meneur et c’était lui le responsable et finalement c’est lui qui prenait. Voilà.
+ 
+**Interviewer**: Et puis sinon vous aviez des… des copains…
+ 
+**Jean**: Beaucoup.
+ 
+**Interviewer** : Beaucoup ?
+ 
+**Jean**: Beaucoup. On était copains avec tout le monde, quelque soit leur… leur origine. On avait… on avait des copains… des copains juifs, des copains catholiques, on se recevait, on allez les uns chez les autres, y avait absolument aucune… aucune restriction. Y compris ma sœur qui avait bon, son…  son… son milieu à elle, c’était des amis de toutes convic… confessions.
+ 
+**Interviewer** : Et avant, donc, avant la guerre, donc pour en revenir en arrière, donc vous étiez complètement tranquilles… vous aviez une vie normale ?
+ 
+**Jean**: On vivait… on avait une vie normale. On avait une vie et…  cette vie tendait à l’assimilation.
+ 
+**Interviewer** : A la ?
+ 
+**Jean**: A l’assimilation. Voilà, bon mes parents n’était pas religieux donc… mais ils nous citaient la bible. Ils nous… ils nous… ils nous disaient notre origine juive, rien n’était caché. Mais l’éducation religieuse, proprement religieuse, n’existait pas chez nous. De même… de même que dans tous les quartiers, je ne me souviens pas de… de copains juifs qui allaient euh euh à  l’instruction juive ou un patronage juif. On fréquentait même le patronage catholique, c’était le seul qui existait dans le quartier, qui nous acceptait sans conditions et qui se trouvait… à quelques… rue de Ménilmontant, je me souviens encore, il s’appelait la Jeanne-d’Arc de Ménilmontant. Donc on fréquentait ce patronage sans restrictions. Connaissant notre… notre condition.
+ 
+**Interviewer** : Et vous fêtiez les fêtes juives ? les…Noël ? Tout ?
+ 
+**Jean**: Non, on fêtait pas les fêtes juives.
+ 
+**Interviewer** : Non ? Vous fêtiez Noël ?
+ 
+**Jean**: Mes parents euh, encore aujourd’hui, euh à Yom Kippur, enfin mon père puisque ma mère a disparu, euh fait le…la prière pour les morts. Ça, oui. Mais sans ça, les… non, pas du tout. Et les fêtes catholiques, on les fêtait pas spécialement mais bon, c’était les… c’était aux fêtes catholiques qu’étaient les congés, donc fatalement il y avait… c’était la fête. La fête c’était comme aujourd’hui, c’est pareil. Ça existait déjà avant la guerre et au début de la guerre.
+ 
+**Interviewer** : Alors comment ça se passait le travail de votre père, comment il faisait…?
+ 
+**Jean**: Mon père travaillait pour une maison de… de confection, il allait prendre du travail dans cette maison, du travail coupé, et puis il montait, il apiéçait les… les vêtements chez lui à la machine. Ma mère faisait les finitions, à la… à la couture,  à la main, et puis bon, venait de temps à autre, un repasseur pour… repasser les vêtements. Il travaillait surtout pour des vêtements enfant, donc c’était beaucoup plus réduits, comme volume, les pièces. Mais après, au début de la guerre, comme il était…il était…il y avait quand même une pénurie, il y avait quand même une crise, il travaillait plutôt pour les uniformes…puisque… il fallait… dans la même maison, la maison était tenue… c’était je crois…  la maison s’appelait Paris-France. Très grande maison de confection.
+ 
+**Interviewer** : Et vous, vous les voyiez travailler alors?
+ 
+**Jean**: On les voyait travailler, on les aidait par exemple à…  débâtir le vêtement avant d’être… pour être monté,il était bâti au…  pour faire les coutures droites … donc après, il fallait débâtir le vêtement. C’était un peu notre travail. Bon on aidait… ça nous donnait l’impression d’aider les parents. Et on… on avait…  par exemple, je me souviens très bien, qu’on avait comme…  on peut pas parler de jouets mais… les boutons… le reste des boutons c’était nos soldats. Puisqu’il y a toujours un peu  de fournitures supplémentaires… alors les boutons, y en  avait à force… peut-être mille boutons ou plus. Et bien ça nous servait pour jouer aux soldats. Y avait des boutons avec des couleurs différentes donc c’était les armées différentes. Et voilà, comment… comment on s’occupait aussi un peu.
+ 
+**Interviewer** : Et qu’est-ce que vous mangiez ?
+ 
+**Jean**: Bah on mangeait…  avant la guerre, on mangeait… on mangeait normalement. La viande, les… les charcuteries, mais pendant la guerre, c’était beaucoup plus difficile. Il y avait beaucoup plus de légumes que par exemple de viande, et encore beaucoup plus de légumes verts. Il y avait des fruits aussi, beaucoup de fruits à la maison. Mais ma mère se débrouillait toujours pour faire, disait-elle parce qu’il y avait dedans un maximum de vitamines, des gâteaux.
+ 
+**Interviewer** : Des gâteaux ?
+ 
+**Jean**: Des gâteaux. Bon, on trouvait encore de farine ou alors elle se débrouillait pour avoir de la farine. Même si c’était de qualité médiocre, mais bon, pour faire des gâteaux, elle faisait  des gâteaux au chocolat, elle faisait des… avec des fruits… euh ce fameux gâteau que j’aime encore beaucoup aujourd’hui qui s’appelle le Strudel. Voilà. Et aussi elle faisait des… les gâteaux au fromage. Donc avec les rations qu’elle recevait, quand c’était cuisiné de telle façon, mélangé, avec de la pâte, la nourriture était beaucoup plus abondante, plutôt que de manger sa ration de fromage comme ça, sans rien, en faisant… en faisant une pâtisserie avec, donc, il y avait… il y avait plus à manger. Bon, elle se débrouillait comme ça.
+ 
+**Interviewer** : Comment s’appelait votre mère ?
+ 
+**Jean**: Rachel.
+ 
+**Interviewer** : Et son nom de jeune fille ?
+ 
+**Jean**: Weiser.
+ 
+**Interviewer** : V-E-I… ?
+ 
+**Jean**: W E I S E R.
+ 
+**Interviewer** : Et elle est née quand ?
+ 
+**Jean**: Elle est née en 1908 et demi, c’est-à-dire au mois de... en fin mai 1908. Elle a donc un an et demi de plus que mon père. Elle avait puisque… 
+ 
+**Interviewer** : Et le prénom de votre père ?
+ 
+**Jean**: Euh Manek.
+ 
+**Interviewer** : Manek. Et lui, il est né quand ?
+ 
+**Jean**: Il est né en 1910. Le 10 février 1910. Il a aujourd’hui, grâce à Dieu, il a aujourd’hui 85 ans. Passé.
+ 
+**Interviewer** : Magnifique.
+ 
+**Jean**: Et jusqu’à…  je me souviens encore de ce mot en yiddish, [ ?] « Jusqu’à 120 ans » Voilà.
+ 
+**Interviewer** :  Bien ! Et sinon, les premiers signes de danger ?
+ 
+**Jean**: Les premiers signes de danger, bon, il y avait quand même des bruits. Les premiers signes de danger, ils ont apparu tout de suite au début de la guerre, au début de l’Occupation.
+ 
+**Interviewer** : Quels bruits ?
+ 
+**Jean**: Les bruits, par exemple, il fallait le recensement. Il fallait être recensés. Les parents… bon, ils pouvaient pas passer outre. Parce que… ils étaient très connus dans le quartier et puis ils avaient un accent et puis, bon, et puis, ils se sentaient quand même en sécurité. Alors quand il a fallu recenser les Juifs, ils ont été se recenser. Parce que, on leur disait pas… la loi leur disait pas : “Veuillez avoir l’obligeance de venir vous recenser… “ Non, on disait : “Vous devait vous recenser euh vous faire recenser. Tout contrevenant s’expose à…”
+ 
+**Interviewer** : A quoi ?
+ 
+Jean “ Alors c’était peine de… de prison, des peines… donc euh ils se sont dit “Bon de toute façon c’est les Français, c’est pas les Allemands.” Donc ils ont été. C’était quand même euh… ça a créé tout de suite une atmosphère de méfiance malgré tout. Mais quand même, l’optimisme reprenait toujours le dessus. Et après, bon, on a vu par exemple des voisins aller… être réquisitionnés pour aller dans des camps de travail. Ainsi, sur le même palier habitait un monsieur qui s’appelait Bronstein, qui avait deux fils euh déjà assez grands et qui ont été requis pour aller euh travailler dans les bois euh [claque de la langue] donc déjà euh y avait… y avait quelques… y avait quelques indices qui prouvaient que les Juifs n’étaient pas… des persona grata. Et ensuite, bon, euh… c’était pas des bruits directs nous concernant nous. C’était comme ça : le voisin, le voisin du voisin… et on entendait parfois des réflexions sans que nos parents s’adressent directement à nous. Ils faisaient attention de ne pas nous… de pas nous effrayer, de pas nous faire peur. On était psychologiquement très, très protégés. Surtout par ma mère euh donc, on était… on arrivait à savoir des choses mais on était quand même en-dehors de tout ça. 
+ 
+**Interviewer** : Et là vous avez à peu près quel âge ?   
+ 
+**Jean**: Alors moi, moi par exemple j’ai…  en 41, j’ai dix ans. Je suis en 31. 
+ 
+**Interviewer** : Et Henri doit avoir 11 ans
+ 
+**Jean**: Ben 11 ans  
+ 
+**Interviewer** : Et puis Annette…
+ 
+**Jean**: Ma soeur, elle avait euh 8 ans et demi.
+ 
+**Interviewer** : Et Michel…
+ 
+**Jean**:  Et le petit, le tout petit, il avait 6 ans. 35 et 6, 41. Et là, le tournant, ça a été l’étoile. Donc, il y a eu ce décret obligeant tous les Juifs au-dessus de 6 ans, quelque soit leur sexe, de porter l’étoile. Et là, il y a eu même un changement : les gens nous regardaient différemment. Sans… sans qu’il y ait d’hostilité ouverte, y avait pas d’hostilité, mais y avait pas de… Nous, on n’a pas ressenti d’amitié à partir de ce moment-là. 
+ 
+**Interviewer** : Et comment s’est passé le premier jour… de l’étoile ?
+ 
+**Jean**: Alors… voilà, il s’est passé… chez nous, il s’est passé avant le premier jour. Donc, je vais vous raconter. Y a eu… il y a eu ce décret qui obligeait les gens… les Juifs à porter l’étoile. Il fallait aller chercher l’étoile, la payer, c’était pas gratuit.
+ 
+**Interviewer** : Fallait la payer…
+ 
+**Jean**: Et il fallait aussi donner des points textile. A l’époq… vous savez que tout était rationné - la nourriture, le textile, le cuir, les chaussures, tout ça, y avait des… des… des… fallait donner combien de points, je sais pas, combien de sous, je sais pas, mais c’était pas gratuit. Donc mes parents sont allés chercher les étoiles et ma mère, qui était quand même couturière, les étoiles, nous les a cousues sur nos vêtements mais très… avec beaucoup de soin. Avec des petits points. L’étoile, c’était un grand carré rectangulaire avec l’étoile… l’étoile de David en noir, elle avait découpéles branches, comme ça, bien fait les petits ourlets et bien cousu… vraiment, c’était un travail de premier ordre, de couturier, de grand couturier. Et avant, huit jours encore avant l’obl… la date d’obligation de porter l’étoile, elle nous a habillés en habits du dimanche avec l’étoile bien cousue et fait tout le tour du quartier. Pour bien montrer que pour elle c’était pas une offense et que, non, c’est pas qu’elle en était fière mais puisqu’il fallait le faire, il fallait le faire ostensiblement avant la date. Et elle nous obligeait à marcher bien droits, bien fiers ben et ça, ça a duré tout… tout l’après-midi. Tout le quartier, on a [?]
+ 
+**Interviewer** : Et vous vous sentiez comment ?
+ 
+**Jean**: Bah, vous savez, à 10 ans euh Ca nous gênait quand même d’être distingués comme ça. Ca me… j’ai un souvenir… dans mon souvenir, un sentiment de gêne hein. Pourquoi ce… ce… on se pose quand même des questions. Pourquoi ce marquage ? Pourquoi cette distinction ? Pourquoi… Et là on commençait à … on a commencé à s’apercevoir qu’on était… qu’on était persécutés. Ca a été ce… On était persécutés. Ca c’était le premier geste d’hostilité euh premier geste d’hostilité. On était persécutés.
+ 
+**Interviewer** : Et à l’école, qu’est-ce qu’ils ont… ?
+ 
+**Jean**: …  l’école on n’a pas eu le temps de s’apercevoir parce que c’était déjà la fin juin, je me souviens plus la date exacte du port de l’étoile mais il restait que… euh… 15 jours et bon l’école avait fini le 15… elle finissait le… le 13 juillet ou le 12 mais elle était déjà terminée euh le 1er juillet. C’était comme toutes les fins de… je me suis… à l’école non, à l’école nous on était… on était considérés. On était les premiers, on était… non… à l’école, on n’a pas eu de problèmes. D’ailleurs, le directeur de l’école a fait une annonce quand le port de l’étoile a été obligatoire, il a dit - c’était déjà… c’était déjà une preuve de courage - il a dit : “Certains de vos camarades vont porter l’étoile mais pour nous rien n’est changé.” 
+ 
+**Interviewer** : Il s’appelait comment ce directeur ?
+ 
+**Jean**: Lakiche. Monsieur Lakiche.
+ 
+**Interviewer** : Et l’établissement ?
+ 
+**Jean**: L’... l’école, c’est la rue… l’école communale de la rue Olivier-Métra dans le Paris 20ème. 
+ 
+**Interviewer** : Et comment ils réagissaient dans la rue de l’Avenir les autres enfants… avec l’étoile ? 
+ 
+**Jean**:  Les… ben certains n’y prêtaient pas attention. D’autres se sont détournés de nous. Ma soeur avait un petit copain, qui était aussi notre copain, qui s’appelle Pierre, Pierrot je me souviens, et qui lui… bon… il s’est détourné de nous. Et ça, ça nous a choqués. On en parlait -“Tiens, pourquoi Pierre on le voit plus ? Il monte plus à la maison” - euh… donc nous on allait plus chez lui non plus. Mais ça n’a pas duré longtemps, en fait puisque c’était en … déjà au mois de juin 42 et … le… 15 jours 3 semaines après, il y a eu les évènements que… 
+ 
+Interview : Et l’immeuble ?
+ 
+**Jean**: L’immeuble ben c’était pareil. C’était partagé euh la… la concierge, on dit disait la concierge à cette époque, c’était pas la gardienne, qui était une antisémite notoire, comme toutes les concierges de l’époque on dit comme ça, bon ben elle… elle a toujours joué le même rôle mais d’autres gens, non. Puis, il y avait d’autres Juifs dans la maison. Donc il y en avait à notre étage, y avait les Kruger qui étaient au 3ème et les Szule qui étaient au 5ème. Donc on était 4 familles euh juives. Pratiquement une famille par étage. 
+ 
+**Interviewer** :Et vous ne songiez pas, votre famille ne songeait pas à partir ?
+ 
+**Jean**:  Partir où ? Et comment ? Mes parents étaient…  n’étaient pas riches. Partir où ? J’ai posé la question à mon père. “On pouvait pas se sauver avant ?” Il a dit : “Où ? et comment ?” C’était pas… ils étaient… ils étaient pas motorisés. Les… les… les déplacements ét… aujourd’hui on a du mal à se rendre compte. Aujourd’hui, on va… on va… on va en Amérique en… 6 heures. Mais là, pour aller au Mans, il fallait 6 heures, par exemple. Et y avait un train tous les 2 jours, tous les 3 jours. Et chez qui ? Il fallait bien… et fallait bien gagner sa vie, qui nous aurait entretenus ? Mon père… mes parents n’avaient pas de réserve d’argent telle qu’ils pouvaient se permettre de… de rester sans travailler.
+ 
+**Interviewer** : Et vous aviez des nouvelles de la famille qui était restée en Pologne ?
+ 
+**Jean**: On a eu malheureusement des nouvelles en 42 euh… les dernières nouvelles qu’on a eues, c’est pour… mon père les a reçues, c’est pour apprendre par courrier, par une tierce personne que sa mère, c’est-à-dire ma grand-mère paternelle, avec 2 de ses fils et sa fille unique - parce qu’ils étaient 8 enfants mais… 7 garçons, une fille - avaient été fusillés sur laplace publique du village où ils habitaient. Le village s’appelle Biecz. B-I-E-C-Z. Et d’ailleurs, mon père, avant de… comme il dit avant de mourir comme parlent les vieillards, jusqu’à 120 ans [?] est allé… avant voulu faire un pélerinage là-bas dans sa ville… dans son village natal. Il y est allé il y a 3 ans. Mon jeune frère l’a amené là-bas en voiture pour qu’il… Et il a été stupéfait, suffoqué et meurtri de pas trouver de traces de… de… de… de ces assassinats qui ont été commis à Biecz. Y a pas un plaque, par exemple, qui dit “Ici…” Y a pas… y a pas une trace dans un cimetière où ils ont été enterrés. Rien, on sait pas. Par contre, il a rencontré une vieille personne qui se rappelle très bien de la famille hein avec qui il est encore en correspondance aujourd’hui, une personne polonaise et qui lui a raconté comment… comment sa mère et ses… sa soeur et ses 2 frères ont été fusillés. Sur la place. Et ça, ça c’est passé en 1942 mais au début de 1942. Et les autres membres de la famille, non, on ne sait pas. Et du côté de ma mère, nuit et brouillard. Seul vit aujourd’hui un frère qui avait émigré en Amérique avant la guerre. Qui avait… qui vit… dont les enfants…
+ 
+**Interviewer** : Vous avez des contacts avec lui ?
+ 
+**Jean**: Pardon ?
+ 
+**Interviewer** : Vous êtes en contact avec lui ?
+ 
+**Jean**:  En correspondance avec mon cousin germain en fait et sa famille et… bon…
+ 
+**Interviewer** : Ils habitent où ?
+ 
+**Jean**:  Ils habitent à… c’est… Counterline le nom, c’est à… dans la banlieue de New-York. Avant, avant d’émigrer, ils habitaient Brooklyn. 2707 Ocean Avenue. Je me souviens de… de l’adresse parce qu’il nous envoyait après la guerre beaucoup de courrier, beaucoup de colis pour… parce qu’on était démunis de tout. Mais bon après certainement qu’ils ont prospéré pour quitter Brooklyn et habiter… Mon frère est allé les visiter. C’est une banlieue de NY très résidentielle et très bourgeoise. 
+ 
+**Interviewer** : On va en revenir à… un peu en arrière, un peu beaucoup. Donc, avant les évènements, juste avant les évènements, comment ça se passait chez vous ? Donc il y a avait moins de travail peut-être ?    
+ 
+**Jean**: Y avait un peu moins de travail. Y avait… bon c’ét… y avait moins detravail. Y avait plein de soucis. On voyait nos parents soucieux. Alors… on parlait entre nous. les enfants. On disait “Tiens, maman est nerveuse. Méfie-toi ! Ne… papa aussi. Ah oui, parce qu’il y a pas de travail.” On le savait pas exactement. En fait, c’était… c’était un peu le manque de travail mais c’était aussi la situation qui empirait. La situation qui empirait. La situation empirait. Ca c’est… je m’en rends compte maintenant. Je m’en suis rendu compte après mais on sentait bien qu’y avait un souci permanent. Je dis même, une angoisse. A l’... sur le moment, on n’arrivait pas à déterminer les causes, les origines de cette angoisse mais après on l’a su. 
+ 
+**Interviewer** : Et vous vous disiez quoi entre vous ?
+ 
+**Jean**: On disait… ben, on avait du mal à identifier cette angoisse. Soit c’était parce que c’était la période des vacances soit c’est parce que il manquait un peu de travail. On…
+ 
+**Interviewer** : Qu’est-ce que vous alliez faire en principe ? Vous aviez des projets ? Vous alliez partir ?
+ 
+**Jean**: Oui, euh… justement d’habitude on partait en colon… ça, il avait pas prévu de colonie. On devait partir à la Roche-Guyon… à Bonnières. A côté de Bonnières. Et on devait… les parents devaient rester seulement 8 jours avec nous et nous rester là-bas sur place dans ce… cet hôtel où on etait déjà allés en vacances. D’ailleurs le… la patronne de l’hôtel, on l’appelait tatie, comme ça une familiarité, et elle nous aurait gardés euh ben 3 semaines 1 mois. Mais c’était déjà un changement dans les habitudes. Certainement que nos parents avaient quelques scrupules à s’éloigner de la maison. Certainement qu’ils ressentaient les évènements autrement que nous. Nous, on les ressentait à travers eux, à travers ces… changements aux habitudes. Et malheureusement, ça s’est révélé exact.        
+ 
+## CASSETTE 2
+
+**Int**: Parlez-moi de votre mère.
+
+**Jean**: Alors ma mère bon c’était la mère juive par excellence. Euh… très présente, très présente, du matin au soir. Ma mère avait… avait pour nous une attention permanente. C’est elle qui gouvernait dans la maison. C'est elle que régentait toute la famille, mon père, mes frères, les sœurs, tout le monde, c'était la mère juive dans tout sa splendeur et quand on parle aujourd'hui des mères juives, c'est une expression qui se dit aujourd'hui couramment, moi, je pense toujours à ma mère.
+
+**Int**: Elle chantait?
+
+**Jean**: Elle adorait chanter.
+
+**Int**: Qu'est-ce qu'elle chantait?
+
+**Jean**: elle chantait des chants yiddish, des chants français… des chants… des chants de l'époque [il chante]  Une fleur au chapeau avec un accent redoutable. Des fois on la moquait, c'est très difficile à imiter, parce qu'elle avait un fort accent, elle chantait en yiddish, [nom de la chanson en yiddish].Ca c’est… ou alors… [nom de la chanson en yiddish] Je ne me souviens pas de tout, mais elle chantait dès le matin. Il n'y avait pas de radio à la maison, il n'y avait pas de T.S.F. D'ailleurs à partir de 1941, c'était interdit pour les Juifs la T.S.F., alors même si on avait eu l'intention de… d’en avoir une,on…  c'était interdit.
+
+**Int**: Elle avait des copines?
+
+**Jean**: Elle avait pour tout le quartier, beaucoup de gens venaient à la maison, des jeunes filles venaient se faire coiffer chez elle, elle adorait coiffer. Elle aurait… je pense qu'elle aurait dû faire coiffeuse, elle adorait coiffer ma fille… ma soeur par exemple, mais qui elle avait des cheveux toujours très emmêlés parce que à l'époque c'était la mode des anglaises, ces espèces de… je ne sais pas comme on le dirait aujourd'hui mais…
+
+**Int**: Elle dormait avec des papillotes
+
+**Jean**: Voilà, comme des papillotes mais sur toute la… et ma soeur, je l'entends encore se plaindre. “Allez !”, ma mère disait "pour être belle il faut souffrir, pour être belle il faut souffrir" Voilà, c'était ma mère. Elle adorait aussi faire la cuisine, beaucoup de cuisine, beaucoup de gâteaux, maîtresse pâtissière, c'est de là que me vient cette tendance à me…  me goinfrer de pâtisserie, gâteaux… gâteaux strudels, gâteaux au fromage tout ça mais jamais j’ai trouvé un gâteau qui avait le goût de ceux de ma mère. Et ça je le dis  sans parti pris malgré les apparences,et malheureusement… bon, elle a été… elle a disparu dans la tourmente. Je me rappelle souvent, je me rappelle toujours, ma mère c’est une femme qui a été suppliciée, suppliciée. Comment suplliciée ? Parce que au fur et à mesure, on lui a arraché des morceaux de vie. La première fois c'est quand, la veille de la rafle quand il a fallu que mon père s'en aille pour se cacher, ça ç’a été  la première déchirure pour elle. Après, c'est quand nous, on s'est sauvés. Donc elle a perdu d'abord mon père, deux, trois jours après elle a perdu ses deux aînés, puisqu’on s'est sauvés. Après elle a perdu les…  ma soeur et mon petit frère, et dans quelles conditions atroces, à Beaune-la-Rolande ?  Comment on a séparé les mères des… des enfants ?
+
+**Int**: Comment ça s’est passé?
+
+**Jean**: Ca a été abominable, à coup de crosses, à coup de jets d’eau euh…  parce qu'il a fallu séparer les… les… les autorités françaises. On a d’abord fait déporter les… les adultes et les enfants sont restés au camp de Beaune-la-Rolande, donc il y a eu une séparation, cette séparation n’a pas été acceptée par les…   ni par les parents ni par les mères ni par les enfants. Il a fallu les arracher les uns aux autres. Je dis ma mère a été suppliciée comme ça, à trois reprises comme ça petit à petit on lui a arraché des lambeaux de vie, et finalement j'ai cette pensée… toujours autant douloureuse, toujours autant douloureuse que ma mère, elle était déjà morte quand on l'a tuée, elle était trois fois morte quand on l’a tuée. Et ça c'est un pensée qui me… qui me quitte pratiquement pas. Malheureusement, c'est… c’est comme ça.
+
+**Int**: Donc on va revenir juste avant les événements.[?] Il y avait déjà des rafles?
+
+**Jean**: Y’a… oui, on entendait…  Nous, on ne les a pas vues, il n'y en avait pas dans notre quartier, il y eu des gens qui étaient requis qui partaient, mais on entendait ce mot rafle, ce mot n'était pas un mot inconnu pour nous.il y avait eu des rafles dans d’autres quartiers, alors oui, on l'a entendu.
+**Int**: Et quand c’est venu votre tour, qu’est-ce qui s’est passé?
+
+**Jean**: Alors, il s’est passé donc alors il est venu notre tour.  Déjà la veille de cette rafle, le directeur de l'école, ce M. Lakiche, il est venu voir mes parents, mais il a dit -il nous aimait bien, il aimait bien mes parents, pour les raisons que je vous ai déjà exposées-  et il a dit "Il faut vous sauver parce que demain il va y avoir une rafle, j'ai entendu dire."Certainement qu’il y avait des gens… y avait fatalement des gens qui étaient au courant parce que il fallait préparer toute… toute une logistique pour rafler autant de personnes, donc certainement qu’il y a eu des fuites. Et j'entends toujours ma mère dire "Oui merci, M. Lakiche.Mais je pense pas qu'on va arrêter tout le monde, c'est pas possible qu'on arrête une mère et ses quatre enfants en bas âge, c'est impensable. Mon mari, oui.Mon mari, oui.”  Et mes parents ont décidé de se séparer ce soir-là, c'est-à-dire d’aller…  ma mère est allée cacher mon père, ils sont partis le soir, mon père avec sa valise dans une cachette qui était prévue.
+
+**Int**: Et c'était comment cette cachette?
+
+**Jean**: Cette cachette, c'était chez une concierge amie que mes parents connaissaient, qui se trouvait dans le quartier aussi, place du Guignier, dans le 20ème.
+
+**Int**: C'était quoi comme cachette?
+**Jean**: C'était euh cette concièrge naturellement habitait le rez-de-chaussée et c'était une remise parce que… cette maison,  elle était dans une rue où il y avait un marché, un marché comme y a beaucoup de marchés à Paris, deux fois par semaine donc il y avait au fond de la maison dans la cour, une remise qui servait de… de remise pour les marchands forains qui venaient là pour éviter qu'ils soient obligés à chaque fois de … d’emporter leur marchandise. Et mon père a donc avait prévu une cachette. Et ma mère est venue… est venue avec elle… avec lui,  elle l'a accompagné dans cette cachette.
+
+**Int**: Et vous vous souvenez bien de… 
+
+**Jean**: Très bien, très bien parce que nous, moi je suis resté à la maison mais ma mère elle est allée avec… donc emmener  mon père dans cette cachette avec mon frère aîné. Donc elle avait quand même une idée, pourquoi elle a emmené mon frère aîné? Parce qu’elle pensait peut-être qu'on aurait besoin de savoir exactement où elle allait. Vous voyez que…  je m’en suis rendu compte après, après les événements puisque ça nous a bien servi après, comme vous allez certainement me le demander, et je vais vous dire comment ça s’est passé.
+
+**Int**: Et elle a préparé pour le lendemain, vous avez donc…  vous avez décidé dans la famille que vous alliez vous présenter donc aux rafles, non ? C'était pas comme ça?
+
+**Jean**: Non, non. Bon, nous… Comme ma mère a dit, “Non, on va pas nous rafler nous. On rafle les hommes, oui, les hommes, les adultes, mais pas les femmes et surtout pas les enfants.” Donc… et puis nous nous sommes endormis tranquilles. Enfin nous. je ne sais pas dans quel état d'esprit était ma mère mais bon. Et c’est le lendemain matin, très tôt le matin, on a entendu des coups assourdissants dans la porte, d'une violence inouie. Des coups… des coups de poing, des coups de pieds. Puisque… certainement qu'ils avaient commencé…  les agents qui sont venus, par frapper doucement, mais comme ma mère n'avait pas répondu, au fur et à mesure l'intensité des bruits augmentait. Et puis finalement, elle a ouvert. Ils sont apparus. Deux agents. Un en uniforme et un en civil, un inspecteur, et qui a dit a ma mère - moi je m’étais levé aussi, mon frère aîné aussi, les petits pleuraient là, parce qu'ils étaient… ils commençaient à paniquer, surtout ma soeur - et ils nous ont dit… ils ont dit à ma mère "Bon dépêchez-vous de vous habiller, prenez quelques affaires, et on vous emmène". Ma mère a dit “Mais comment…  c'est pas possible !" Elle a commencé à parler, à parlementer,elle a…  ça a duré je ne sais pas combien de temps, mais assez… c'était pénible à écouter parce que d'un côté ma mère était suppliante, elle s'est même agenouillée devant ce… ce…  cet individu qui l'a repoussée du pied en disant "Madame, je vous en prie ne nous compliquez pas la tâche !" Ne nous compliquez pas la tâche, c’est quand même extravagant qu'un… qu’un bourreau demande l’aide de sa victime. Ne nous compliquez pas la tâche,! Ça, ça  m’est resté gravé dans l’oreille, vous voyez, Ca il n'y a rien à faire, c'est indélébile. Et finalement, bon, il a fallu partir. 
+ 
+**Interviewer** : Et qu’est-ce que vous avez…?
+ 
+**Jean**: Alors on a… elle a réuni quelques… mais c’était l’affolement. Elle trouvait pas les affaires. Elle trouvait pas son peigne. Ma… ma… elle voulait peigner ma soeur pour que… c’était une habitude. On pouvait pas sortir sales. C’était… ça s’est jamais produit. C’était… il fallait se laver, il fallait se peigner et il fallait s’habiller correctement. Et on n’a pas eu le temps de faire tout ça.   
+ 
+**Interviewer** : [?]
+ 
+**Jean**: Alors donc on a… elle a pris une valise hein et puis deux draps. Et dans chaque drap, elle a jeté pêle-mêle euh…
+ 
+**Interviewer** : Qu’est-ce qu’elle a mis ?
+ 
+**Jean**: Des… des… tout et n’importe quoi. On a trouvé, nous, après des affaires qui étaient pour ma soeur, mon petit frère pfff… ça a été l’affolement. La panique. Le désordre. Euh… et ça s’est… et pourtant, ça s’est pas passé… ça a duré bien une heure, deux heures, deux bonnes heures. 
+ 
+**Interviewer** : Et qu’est-ce qu’elle vous a dit ?
+ 
+**Jean**: “Dépêchez-vous ! Dépêchez-vous ! Dépêchez-vous !Ne traînez pas !” Mais violemment. Et je parle pas de l’agent en uniforme mais de l’inspecteur. C’était lui qui était le… le chef. Mais ça… c’est une chose atroce. Comment ce… cet individu euh avec telle brutalité, comment il a parlé à ma mère et comment ma mère s’est… s’est prosternée. Ca c’est la pire chose qui soit. Aujourd’hui, je… j’ai la honte encore. Et je crois ma soeur pareil. Ca l’a… ça l’a perturbée à vie. Ma mère… qui était la montagne et qui se trouve comme ça dans une posture lamentable… suppliante… ça, ç’a été un choc, un choc terrible. On l’a tous ressenti plus ou moins mais on l’a tous ressenti. Tous les quatre. Et après donc, on a quitté la maison. Alors il fallait bien fermer la porte, soigneusement. Et comme elle avait deux clefs, elle en a donné une à mon frère aîné. Tout est… malgré tout, elle avait encore le sens du pratique. Et puis, on est partis. Mais même avant de partir, ma soeur cherchait sa poupée… elle cherchait sa poupée et l’inspecteur lui a interdit : “T’as pas besoin de poupée ! T’as pas besoin de poupée !” Comme ça. Ben oui, c’est… c’était un monstre. Il est… il est… certainement qu’après la guerre il était toujours inspecteur et que maintenant il est à la retraite et qu’il a… qu’il est peut-être commissaire principal ou… y’en a eu des quantités comme ça.  
+ 
+**Interviewer** : Et votre mère, elle avait retrouvé son peigne alors ?
+ 
+**Jean**: Elle a… elle a… non, alors vous voyez, elle a… voilà encore une astuce que ma soeur a compris après les évènements. Elle a dit à… à ma soeur “Cours chez la mercière acheter un peigne !” Et ma soeur est sortie acheter… la mercière… quand elle est arrivée chez la mercière, la mercière lui a dit “Mais sauve-toi ! Sauve-toi !” Ma soeur, elle avait pas compris avant.
+ 
+**Interviewer** : Elle avait quel âge ?
+ 
+**Jean**: 9 ans. Elle a pas compris. Et bon, elle est revenue à la maison puis on est partis tous les 5.
+ 
+**Interviewer** : Vous êtes partis dans quoi ?
+ 
+**Jean**: Comment ? A pied. Y avait un premier centre de regroupement dans le haut de la rue de Menilmontant. La rue du Retrait… euh rue Boyer, pardon. 
+ 
+**Interviewer** : Vous êtes remontés à pied ? Vous avez vu d’autres personnes aussi ?
+ 
+**Jean**: Non, nous, on était sur le haut de Ménilmontant…
+**Interviewer** : Non, quand vous êtes sortis de chez vous…
+ 
+**Jean**: Quand on est sortis de chez nous, on a vu d’autres personnes qui étaient poussées par les… d’autres Juifs du quartier… tous ont été arrêtés. Et qui se… qui ont été regroupés dans ce centre rue Boyer, qui existe encore d’ailleurs. La maison existe, c’est un… grand immeuble de bureaux…
+ 
+**Interviewer** : Vous étiez donc poussés dans l’immeuble ?
+ 
+**Jean**: … oui, on nous a fait rentrer… toujours, fallait marcher vite euh… il y avait même des gens dans la rue, quand ils ont vu passer tous ces gens, ils ont applaudi. Je sais pas pourquoi.
+ 
+**Interviewer** : Ils ont applaudi ?
+ 
+**Jean**: Ah! Certains. Pas les gens. Certaines gens ont applaudi. Oui. Ca s’est… c’était comme ça. Et donc on est arrivés…
+ 
+**Interviewer** : Qu’est-ce que vous avez ressenti ? Et vous là, que ressentiez-vous petit garçon ?
+ 
+**Jean**: … on était paniqués. Comment nous… on savez pas… on n’avait pas à faire aux forces publiques, aux agents. On n’était pas… on n’était pas des délinquants, on n’était pas… à l’école, on n’était pas punis. On était… Nos parents, on n’avait pas de problème. Dès l’instant qu’on se disputait, par exemple avec un camarade et qu’on arrivait à la maison en pleurant, tout de suite les parents : “Qu’est-ce qui se passe ?” On était, psychologiquement, très très très protégés. Trop protégés pour des évènements comme ils se sont produits par la suite. On n’était pas préparés à des évènements… Donc on a marché. On a marché jusqu’à ce… mais… on ét… on paniquait. Comment ? Ces agents ? Mais on savait pas ce que c’était. On les voyait dans la rue… euh… régler la circulation mais jamais ils se sont adressés à nous, jamais ils nous ont fait une réprimande, jamais… [inaudible]
+ 
+**Interviewer** : Et votre mère ?
+ 
+**Jean**: Et ma mère, ma mère, elle était là. Il fallait qu’elle se montre quand même digne dans la rue. Enfin c’était son… c’était son orgueil et ça bon… Très droite mais on voyait bien elle était… elle avait pas son teint habituel. Elle était pas maquillée, elle avait pas son teint habituel. Ca, c’est sûr. Puisque moi, je l’ai regardée quand même avant de partir une dernière fois… javais plus qu’une heure à vivre avec elle hein quand on est partis, une heure une heure et demie. Je la voyais… je la voyais bien. Elle était… elle avait changé de couleur. Elle avait vieilli… c’était plus la même. Et donc on est arrivés dans ce centre, dans un désordre effroyable, effroyable. Les… les gens avec leurs baluchons comme ça pêle-mêle, des gens qui se trouvaient mal, des gens qui gé… des enfants qui vomissaient… c’était affreux, AFFREUX.D’un seul coup, on était… on était basculés dans… dans une ambiance qu’on soupçonnait pas même, qu’on soupçonnait pas même. 
+ 
+**Interviewer** : Et vous êtiez dans une pièce… ?
+ 
+**Jean**: Non, c’était une grande salle… et puis, il y avait les abords. Il y avait seulement un WC toujours. Fallait, vous savez,  quand on commençait à rendre… on avait mangé vite fait. Moi-même, je me souviens avoir vomi… mais par terre… là où j’étais. C’était… c’était abominable. Et puis bon, les gens…
+ 
+**Interviewer** : Combien de temps ? Combien de temps vous êtes restés là ? 
+ 
+**Jean**: … moi personnellement 2 heures avec… parce que, bon, il s’est produit un événement qui a changé le cours des choses en ce qui nous concerne mon frère aîné et moi. Ma mère connaissait une femme dont le mari était prisonnier de guerre… 
+ 
+**Interviewer** : Qui était là rue Boyer…
+ 
+**Jean**: Qui était là mais qui était arrêtée, bon, elle avait ses papiers prisonnier… son mari prisonnier de guerre, son livret de famille, oui elle avait sur ce livret de famille 3 enfants. Mais elle était pas avec ses enfants. Certainement qu’elle… et donc euh cette femme, elle a accepté la proposition de ma mère de nous faire sortir avec elle. Comme elle avait sur son livret de famille 3 enfants qui correspondaient à peu près à l’âge d’Henri, de moi et d’un plus âgé, donc on a pris un autre copain, un autre camarade à nous qui s’appelait Joseph Bronweil       
+Et puis on est sortis avec elle, tous les 3. Cette femme habitait rue des Amandiers, 39 rue des Amandiers. Son nom, je m’en rappelle plus. Je me souviens de l’adresse parce que je lui ai dit “Ecoutez madame, après la guerre, on viendra vous voir.” Mais je me souviens plus de son nom. De toute façon, après la guerre, elle existait plus. Elle… on la connaissait plus. Elle était pas rentrée… parce qu’elle a été arrêtée après. Et on est sortis avec elle. L’agent qui a vérifié les papiers, il a fermé les yeux. C’était des agents de police. On était gardés par la Police et la Gendarmerie… pas par les Allemands hein… on n’a jamais… on n’a pas vu d’Allemands hein c’était [?] de la Police française et de la Gendarmerie française essentiellement. Pas un Allemand. Donc il nous a permis de euh… il nous a laissés sortir, nous…
+ 
+**Interviewer** : Mais votre mère, elle est restée… avec Annette et… 
+ 
+**Jean**:   Oui, avec les 2 plus jeunes c’est-à-dire Michel et Annette. Et nous, on savait naturellement où rejoindre… le père. C’est là qu’on a compris. Alors, donc, elle nous a donné un baluchon, c’est-à-dire un drap qu’elle avait…
+ 
+**Interviewer** : La dame ?
+ 
+**Jean**: Non, non, ma mère, avec nos affaires, quelques affaires. Et puis, elle nous a dit - vous voyez à quel point elle gardait…  elle pensait aux détails - elle disait “Si on vous demande où vous allez” - à côté de la place Guignier, il y a une rue qui s’appelle rue de l’Ermitage où il y avait un lavoir. Lavoir où les femmes allaient laver leur linge - elle disait “Vous direz que vous allez au lavoir porter du linge à laver.” Et on a été donc rejoindre mon père. Et on a dit à ce camarade Joseph, qui lui devait aussi rejoindre son père, on lui a dit “Si tu trouves pas ton père, voilà où on est.” 6, place Guignier. La dame s’appelait Madame Fossié. Et bon, on a su après la guerre qu’il avait été déporté. Moi, j’ai toujours eu le doute que n’ayant pas trouvé son père, puisqu’il était déjà parti peut-être ou caché ailleurs, il est allé place Guignier et la concierge lui a dit “Non, on connaît pas ces gens-là.” Je ne peux pas me retirer le doute de ma réflexion, vous voyez. Maintenant, c’est très difficile d’accuser mais c’est quand même pas normal que ce garçon à qui on a donné une adresse bien précise, bien précise et qui n’a pas trouvé son père, n’a pas pu… il a été arrêté dans la journée après. On l’a su après la guerre.
+ 
+**Interviewer** : Il a été arrêté… 
+ 
+**Jean**: Il a été déporté. Il est pas revenu. Après la guerre on s’est inquiét… pourquoi… après la guerre, où est Joseph ? On a été voir son père qui habitait… il a perdu toute sa famille. Il est resté seul au monde. Le père. Sa femme, ses 2 enfants, plus sa famille… comme nous.
+ 
+**Interviewer** : Donc, vous avez retrouvé votre père
+ 
+**Jean**: On a retrouvé notre père. Donc on a été… on est restés cachés là-bas
+ 
+**Interviewer** : Mais qu’est-ce qu’il a… comment il a réagi quand il … 
+ 
+**Jean**: … il était… il a été suffoqué mais il avait déjà… il voyait des gens… la gardienne, la concierge lui disait “Vous savez, on arrête les femmes et les enfants.” Alors il était très heureux. Il a dit : “Et… et ta mère ? Et tes frère et soeur ?” “On sait pas.” On était incapables de lui dire où ils étaient. Incapables. Alors c’est là qu’il a décidé de… de trouver pour nous… un lieu de résidence. On pouvait pas rester dans une remise sans commodités, sans eau, sans toilettes. Fallait manger
+ 
+**Interviewer** : Elle était comment cette remise ? vous vous souvenez ou pas ?
+ 
+**Jean**: Elle était comme une remise. Au fond de la cour euh avec beaucoup, beaucoup de marchandise. C’était des… des… de la bonneterie et… et dans l’autre côté euh y avait… y avait des étoffes. Mais enfin, c’était très exigu quand même mais fallait… de toute façon, la gardienne a quand même dit à mon père “ Euh vous pouvez pas rester là hein. Vous pouvez pas rester là. Faut trouver une solution. ” Alors mon père nous a pris, nous a… pour nous emmener d’abord à la Roche-Guyon où …
+ 
+**Interviewer** : 
+ 
+**Jean**: A la Roche-Guyon. A la Roche-Guyon, y avait là-bas une… une colonie de… des Assurances Sociales, la Sécurité Sociale aujourd’hui, où on avait été en colonie avant… l’année auparavant, c’est-à-dire en 41. On a dit bon ben en attendant, ne serait-ce que pour quelques jours, le temps de voir et…
+ 
+**Interviewer** : Vous aviez enlevé vos étoiles…
+ 
+**Jean**: Alors… oui on a retiré l’étoile, ça c’est sûr. Et là, la directrice de cette colonie a dit : “Hors de question !”
+ 
+**Interviewer** : Pourquoi ?
+ 
+**Jean**: “Il n’y aura pas de Juifs dans mon établissement.” Bon. Et quand mon père a commencé à insister, elle a fait mine de décrocher son téléphone. “Non, Monsieur n’insistez pas !” Donc on est partis tout de suite dans une ville à côté, Bonnières, là où on avait cet hôtel-restaurant où on allait aussi en vacances. Et là bon, on est restés euh on a mangé, on a dormi et puis on est resté un jour, deux jours je crois, je me souviens plus exactement. La notion du temps avait disparu… parce qu’on n’avait plus les mêmes horaires, on mangeait plus à heure fixe, on dormait plus à heure fixe, on dormait pas… c’était un temps très désordonné pour nous qui étions habitués à une vie très, très, très bien réglée.
+ 
+**Interviewer** : Et il vous parlait votre père ? Qu’est-ce qu’il vous disait ?
+ 
+**Jean**: Et bien il nous disait… il était… il cherchait, il cherchait une solution. Lui, il pouvait… y avait pas de solution. 
+ 
+**Interviewer** : Il avait quel âge ?
+ 
+**Jean**: Mon père ? A l’époque… en 42, il avait 30 ans. Non, 32 ans puisque… il est né en 1910. Il était tout jeune. Il était… et puis, il parlait très mal le français aussi.
+ 
+**Interviewer** : Et il vous parlait ?
+ 
+**Jean**: On se parlait, oui. Bien sûr. On était ensemble. Et puis après, il nous a laissés dans ce… cet hôtel et il est allé à Paris chercher une solution. Et puis, il est revenu euh y avait pas de solution. Et la… la… la patronne de cet hôtel, cette femme qu’on appelait tatie, avait dit… a dit aussi à mon père “Ecoutez, on peut pas les garder.” Parce qu’en plus, Bonnières, c’était à côté de la Roche-Guyon, tout de suite, ça jouxte la Roche-Guyon… c’est un grand centre militaire allemand donc fatalement, il y avait beaucoup de Gestapo, beaucoup de police. Elle a dit “Vous pouvez pas rester ici.” Alors mon père nous a repris dans le train. On a fait trois fois l’aller-retour peut-être quatre, mais enfin disons trois fois l’aller et retour Paris-Bonnières 
+ 
+**Interviewer** : Vous n’aviez pas peur des contrôles dans le train ?
+ 
+**Jean**: On n’avait plus peur. On n’avait plus peur. On en était… on était au bout. On était fatigués, on était sales, on était… on avait des fois faim, on mangeait trop, des fois - parce qu’il  fallait manger qu’une fois par jour - … on était… à la dérive. Aussi bien mon frère, que moi, mon père… Et on était dans le train donc et mon père avait donc une… il nous disait “Tiens…” Il y avait une religieuse qui dans le temps faisait des piqûres à ma mère. Il dit “Je vais peut-être aller la voir”... il savait même pas exactement où elle… où elle était… où était le centre de… où elle, où elle logeait. Mais il a dit : “On va chercher.” Et dans ce train qui nous ramenait à Paris, y a une religieuse, encore, qui s’est approchée de mon père, qui s’est approchée de mon père. C’était une religieuse de l’ordre des Petites-Soeurs-des-Pauvres - je l’ai appris après- et qui s’est approchée de mon père et qui lui a dit : “Ecoutez, vous avez des problèmes, vous avez des ennuis, vous.” Tout de suite, mon père a dit non. Ca… c’était… tout le monde avait peur. Elle lui dit : “Ecoutez Monsieur, moi je vais vous donner une adresse. Vous êtes pas obligés de m’écouter mais allez à cette adresse. Vous trouverez certainement de l’aide.” Et l’adresse, c’était l’adresse des Soeurs de Saint-Vincent-de-Paul. Les Filles de la Charité 140 rue du Bac à Paris. Il était déjà tard. Peut-être 7h peut-être 8h le soir. On est arrivés à gare Saint-Lazare. On a été… puis on a été euh… il a dit “Bon! Alors on y va.”  Alors on est arrivés 140 rue du Bac et puis mon père a frappé à la porte. C’est un grand portail comme ça, comme dans les… un couvent. Et puis là, il y a une petite fenêtre grillagée qui s’est ouverte dans la porte - il y avait une petite… - et y a une religieuse qui est apparue. “Mais qu’est-ce que vous voulez ?” Mon père a dit : “Voilà, on voudrait rencontrer…” “Ah non, non, c’est tard !Non, non, revenez demain.” Il a dit : “Ecoutez, je vous en supplie. Ne serait-ce que pour que mes enfants fassent leurs besoins” -parce que… - “et qu’ils se reposent un peu.” Finalement, elle a ouvert la porte. Et elle nous a emmenés au parloir. Elle dit “Mais vous pouvez pas rester, vous savez. Juste pour une heure. Après vous vous… il est tard, il faut que vous partiez.” Et, on était assis sur la chaise. On somnolait en fait. Je le sais parce que la religieuse qui nous a surpris me l’a raconté après. Et c’est une religieuse, qui s’appelle… je savais pas comment elle s’appelait mais je le dis tout de suite pour l’identifier, Soeur Régereau, Soeur Clotilde, qui est passée et qui a demandé “Mais êtes-vous ? Qu’est-ce que vous faites là ?” Alors mon père a dit “Mais je vais… je peux vous dire si vous me demander. Je peux vous dire… “ Et la religieuse a dit : “Vous pouvez me parler mais dites-moi la vérité.” Alors mon père a dit : “Voilà, on est juifs. On sait pas où aller.” Et donc, cette religieuse a dit : “Ben écoutez, pour vous, moi je peux vous donner une adresse où vous pourrez passer la nuit. Les enfants, à partir de maintenant, c’est à moi.” Et ça s’est passé comme ça. 
+ 
+**Interviewer** : Et vous, qu’est-ce que vous pensiez de… d’elle ?
+ 
+**Jean**: Alors nous, on était, vous savez, dans un état déplorable. On était fatigués, on était sales, on était affamés, on n’était plus… on n’était plus ce qu’on avait toujours été. Et on a vu cette… une femme très grande, immense. Pour nous, pour nos petits yeux. Mais… belle. Des traits… c’est une apparition. Et qui… et qui d’un… comme ça, spontanément, d’un seul coup dit “C’est mes enfants.” Partout on a été chassés. Partout on a été rejetés. Partout, même parmi les meilleurs, ils nous ont dit “Oui d’accord, restez un jour mais… il faut déguerpir.” Et elle, elle nous a dit, “Non, non, je les prends.”  C’est fabuleux. Alors ça, ça a été le coup de foudre, aussi bien pour mon frère, qui dure aujourd’hui encore. Qui dure aujourd’hui. On a même encore aujourd’hui des relations avec la famille de cette religieuse. Et on lui a fait obtenir d’ailleurs dernièrement le titre de Juste parmi les Nations… qui a été remis par Monsieur l’Ambassadeur d’Israël au Sénat, la cérémonie s’est passée. On est en relation permanente… elle est malheureusement décédée parce que maintenant elle aurait… elle était déjà… elle aurait aujourd’hui, si elle vivait, elle aurait 95 ans donc… Et on est en relation permanente avec euh avec sa famille qui n’est pas religieuse : ses nièces, ses… ses petits-neveux. Pour nous, elle est… un peu de la famille. Et nous, on est de sa famille. Elle l’a toujours dit. “Vous voyez, ce sont mes enfants.” Alors donc, partant de là, mon père a été déjà rassuré pour nous. Le soir même, elle nous a pris l’un…  par la main. La rue du Bac, on est passés à côté de l’hôtel Lutetia qui était un nid de… de… un nid allemand - une résidence ô combien allemande- parce que le premier pensionnat où elle nous a mis, puisqu’on ne pouvait pas rester à l’intérieur du couvent rue du Bac, c’était rue de Sèvres.
+ 
+**Interviewer** : A côté…
+ 
+**Jean**: On est restés là-bas à peu près une semaine, avant qu’elle nous évacue sur le… un endroit beaucoup plus… beaucoup plus caché à l’Haÿ-les-Roses. 
+ 
+**Interviewer** : Et vous vous souvenez de la première nuit…?
+ 
+**Jean**: Alors on est arrivés dans ce… dans ce… dans cet orphelinat rue de Sèvres. Tout de suite, on nous a donné à manger et puis on nous a fait dormir. On était étonnés parce que, d’habitude, nous, on était habitués à se laver avant… non, mais là on s’est couchés tout de suite. 
+ 
+**Interviewer** : Et c’était… ?
+ 
+**Jean**: On a dormi… j’sais pas… on a peut-être dormi 24 heures d’affilée. Tellement on était fatigués, mon frère Henri et moi. Et pendant ce temps-là donc, ma mère est restée avec mes frère et soeur, mon jeune frère et ma jeune soeur, on les a emmenés au Vel’ d’Hiv’. Le fameux… le fameux Vel’ d’Hiv’. Ma soeur le raconte dans son livre, puisqu’elle a écrit un livre sur son histoire…
+ 
+**Interviewer** : Qui s’appelle ?
+ 
+**Jean**: Qui s’appelle La petite fille du Vel’ d’Hiv’. Et, c’est une chose abominable. Abominable. Elle est restée 5 jours au Vel’ d’Hiv’. Toujours gardée par la Police française. La Gendarmerie d’un côt… qui faisait les extérieur et l’intérieur, c’était la Police. 
+ 
+**Interviewer** : Et du côté de votre père, il avait des nouvelles de… 
+ 
+**Jean**: Au début, il avait pas de nouvelles. Aucune nouvelle. Il avait des nouvelles de nous parce qu’après il était en relation. La Soeur Clotilde le tenait euh régulièrement au courant… tant qu’il était en zone occupée. Et bon, il commençait à s’activer pour savoir où étaient sa femme et ses deux derniers enfants… parce qu’il y avait quand même les bureaux de l’U.G.I.F. Et mon père connaissait à l’U.G.I.F. le fameux Israelowicz de… de mauvaise mémoire malheureusement. Mais il le connaissait parce que ma mère avait été employée dans… dans sa famille. Donc il y avait une espèce de relation. Et bon, au début il savait pas où… où ils étaient. Et il m’a dit “Dès que j’ai des nouvelles, je te tiendrai au courant.” Alors donc mes parents… ma mère, Annette et Michel sont restés au Vel’d’Hiv’ et après ils ont été évacués sur euh Beaune-la-Rolande. Sur Beaune-la-Rolande.
+ 
+**Interviewer** : Et là votre père a eu des nouvelles ?
+ 
+**Jean**: Pas encore.
+ 
+**Interviewer** : Pas encore.
+ 
+**Jean**: Il y avait pas… il avait quand même des nouvelles vous savez… bon, c’était quand même très administratif, tout était noté mais le temps qu’elles arrivent d’un bureau à l’autre, je sais pas. Y avait pas de nouvelles…
+ 
+**Interviewer** : Et de toute façon…
+ 
+**Jean**: Il savait pas. Parce que Beaune-la-Rolande c’était quand même 5 jours après la rafle. Donc, c’était le 20 juillet. 
+ 
+**Interviewer** : Et puis, il allait pas retourner chez lui…
+ 
+**Jean**: … non, c’était fini ! De toute façon, y avait les scellés, on l’a su après, y avait des scellés sur la porte. Y avait… tout de suite on a mis les scellés. Et ils sont donc restés à Beaune-la-Rolande à peu près… à peu près… 
+ 
+**Interviewer** : Bon on reprendra sur l’autre…
+ 
+**Jean**: On change là ? 
+                
+## CASSETTE 3
+
+**Interviewer** : Donc nous en étions à ce que vous n’avez pas de nouvelles de votre mère ni de votre petit frère ni soeur ?
+ 
+**Jean**: Aucune nouvelle. Non seulement on n’a pas de nouvelles mais même les informations n’ont pas relaté l’évènement du…  On a arrêté ces 13.000 personnes dans Paris ; les journaux n’en on n’a pas parlé, il y avait donc une censure. 13.000 plus de 13.000 dont plus de 4.000 enfants et rien du tout. Alors donc on n’avait pas de nouvelles officielles mais…  donc des nouvelles particulières, comment on aurait pu en avoir ? Il fallait avoir des gens dans la… dans la place mais ça, ça pouvait pas se faire au bout de 4-5 jours. Donc le 5ème jour, je crois qu’ils sont restés quelques 4 ou 5 jours au Vel d’Hiv et après emmenés à…  à Beaune-la-Rolande. Alors là, c’était aussi une époque tragique parce qu’il y avait énormément de monde. Il y avait un désordre, il y avait pas de nourriture, il y avait pas de… de sanitaires… c’était des trous creusés à même le sol. Ma sœur me raconte qu’elle voyait des adultes s’accroupir comme ça devant tout le monde. C’était abominable. 
+ 
+**Interviewer** : Ils sont restés combien de temps là-bas ?
+ 
+**Jean**:  Alors donc ma mère est restée un mois. Quand il y a eu… parce qu’il y a eu la séparation des adultes et des enfants. Comme je vous ai dit tout à l’heure, ça s’est passé dans des conditions effroyables… effroyables… effroyables. Quand une mère… Les gendarmes ont fait déshabiller les mères pour éviter que les… que les enfants s’accrochent à leurs… à leurs habits. Ça a été effroyable. La sauvagerie à l’état pur. Il ne peut pas avoir une chose beaucoup plus sauvage que d’arracher un enfant à sa mère, qu’est-ce qu’il peut avoir de plus… de plus atroce ? Et ça, ça s’est produit à…  beaucoup de gens, en même temps. Il y avait des hurlements dans ce camp qui étaient…  Et alors…  les gendarmes n’arrivaient pas à maîtriser cette situation. Et c’est là qu’ils ont fait appel aux Allemands qui sont arrivés avec une auto-mitrailleuse et ils ont pointé donc le canon de l’arme vers les détenus…
+ 
+**Interviewer** : Les femmes et les enfants ?
+ 
+**Jean**: Les femmes et les enfants. Et c’est là qu’il y a eu le silence absolu. Donc on a séparé… il y avait les enfants d’un côté, plus quelques femmes qui les gardaient. Au milieu, les gendarmes, très droits, très militaires, très males et de l’autre côté les femmes qui se regardaient comme ça et ma sœur raconte qu’ils se fixaient des yeux comme ça, jusqu’au moment du départ et même quand… quand les femmes sont parties, elle voit encore ma mère qui la regarde en tournant la tête pour ne pas perdre une seconde de… de relation et c’était fini. Et ma mère n’est pas re… n’est pas passée par Drancy. Elle a été déportée directement. De Beaune-la-Rolande, le convoi je crois que c’était le convoi du 22 août ou quelque chose comme ça. C’est-à-dire un mois après euh cinq semaines après, elle a été déportée à Auschwitz. 
+ 
+**Interviewer** : Et votre petit frère… vos petits frère et soeur ? Ils sont restés combien de temps ?
+ 
+**Jean**: Ils sont restés à Beaune-la-Rolande. Ils sont restés en tout et pour tout 4 mois à Beaune-la-Rolande. Et à l’abandon pratiquement parce qu’il restait beaucoup d’enfants mais très peu d’adultes. Ca… on les avait marqués avec de la peinture, jaune, des étoiles avec de la peinture jaune sur les vêtements.
+ 
+**Interviewer** : Pourquoi ?
+ 
+**Jean**: Pour… parce que c’était des prisonniers. Il faut bien marquer les prisonniers. Ils allaient pas s’amuser à coudre des… pour pas qu’ils s’échappent ou…  ils les ont tondus. Par exemple, mon frère raconte qu’il y a un gendarme qui lui a mis la tête entre les deux jambes et puis qui lui a fait un boulevard avec la tondeuse au milieu, pour… pour s’amuser. Et qui avait dit « Tiens regarde, cela-là je lui ai fait la tête d’un…” comment on appelle ça ? en Amérique, c’est…  
+ 
+**Interviewer** : Les Mohicans ?
+ 
+**Jean**: Un Mohican
+ 
+**Interviewer** : A l’envers.
+ 
+**Jean**: A l’envers. Comme ça. Et finalement, il avait tellement honte mon petit frère qu’il a… qu’il a volé quelque part un béret pour se couvrir parce qu’il avait la honte… de ses cheveux qui dépassaient comme ça. Il avait les cheveux bouclés. Des scènes vraiment dégradantes, dégradantes. Il a appris à voler dans la cuisine, dans les cuis… du lait.  Il a appris même,  il essayait de faire en agitant le lait dans la… dans la petite bouteille pour faire du beurre. Il a jamais réussi à faire du beurre. Ils avaient faim, beaucoup faim. Des jours ils mangeaient bien, des jours…  ils pouvaient rester deux- trois jours sans manger… comme au Vel d’Hiv. Au Vel d’Hiv…  bon, les gens avaient apporté quelques vivres donc ils pouvaient subsister encore un peu mais l’organisation,  enfin l’organisation…  La Croix Rouge est intervenue, très, très peu. Il y avait quoi ? Trois, quatre femmes de la Croix Rouge et ils ont fait une distribution : une sardine et une madeleine en quatre jours de Vel d’Hiv. Alors toujours pareil, pas de sanitaires, pas de … c’était la dégradation absolue. 
+ 
+**Interviewer** : Et vous, où vous étiez ?
+ 
+**Jean**: Nous, on était donc arrivés à l’Haÿ-les-Roses, dans l’orphelinat. On a été adoptés tout de suite. 
+ 
+**Interviewer** : On vous a convertis au Catholicisme ?
+ 
+**Jean**: Après, oui bien sûr, ça…  on voulait. Vous savez, tout le monde était catholique et nous, qu’est-ce qu’on est ? D’autant  plus qu’on n’avait pas de religion pratiquée. On était de confession israélite mais on pratiquait pas la religion. Mes parents, c’était pas leur… leur idée. Donc c’était un terrain tout neuf. 
+ 
+**Interviewer** : Et les enfants qui étaient là-bas, ils savaient euh ?
+ 
+**Jean**: Ils savaient pas.
+ 
+**Interviewer** : Ils savaient pas… 
+
+**Jean**: Non, on était… moi je m’appelais Henri, Jean.  Muller c’était pas un nom suspect.
+ 
+**Interviewer** : Qu’est-ce que vous avez raconté ?
+ 
+**Jean**: On n’a rien raconté.
+ 
+**Interviewer** : Rien raconté. On croyait que vous étiez orphelins.
+ 
+**Jean**: La religieuse nous avait dit, Soeur Clotilde nous avez dit : “Surtout ne vous compromettez pas, ne parlez pas de…  que vous êtes juifs parce que… “ C’était une époque de dénonciation aussi. Un enfant pouvait raconter ça à son père qui venait lui rendre visite et puis bon et cetera. Non, il fallait être prudent ça… 
+ 
+**Interviewer** : Quelle était votre histoire alors ? Qu’est-ce que vous avez raconté ?
+ 
+**Jean**: Rien. On a dit, bon,nos…  ma mère est à l’hôpital. Comme… tous les orphelins, qu’il y avait, avaient tous une histoire. Tous les orphelins de l’orphelinat. Vous savez dans un orphelinat, c’est… on se raconte pas nos histoires parce qu’on n’en finirait plus. C’est comme après la guerre, personne ne racontait ce qui s’est… s’était passé. Tout le monde avait une histoire, sans ça on aurait vécu que de… que de mauvais souvenirs. Donc non, on n’a pas eu… je ne me souviens pas avoir eu de problèmes… “Qu’est-ce que… ? D’où vous venez ? Qu’est-ce que vous faites ? ». Voilà nos parents pour le moment ils ne peuvent pas nous garder, on est là.
+ 
+**Interviewer** : Et c’était comment l’orphelinat ?
+ 
+**Jean**: C’était… c’était bien. Pour l’époque c’était bien. Naturellement, on était dépaysés hein au début. Nous qui vivions je vous dis avec des parents attentifs, là bon on était quand même dans cet orphelinat une trentaine donc il y avait une discipline, il y avait pas seulement une discipline euh c’était un peu austère aussi. 
+ 
+**Interviewer** : Et pour suivre les rites ?
+ 
+**Jean**: Pour suivre les rites, on suivait les rites.
+ 
+**Interviewer** : Oui, oui ?
+ 
+**Jean**: Oui, on s’est adaptés très rapid… c’est très rapide. C’est vrai que dans un pensionnat au sein d’un couvent catholique il y a la prière le matin, le midi, l’après-midi, le soir, avant de se coucher. C’est toujours. Mais bon, non on s’est pliés à cette discipline. En tous les cas, moi. Peut-être j’avais à cette époque ma petite… ma petite crise de mysticisme et que ça m’arrangeait bien et puis bon … j’étais, j’étais très à l’aise. 
+ 
+**Interviewer** : Vous n’aviez plus peur alors ?
+ 
+**Jean**: Là, non. On avait peur des bombardements, ah non cette… cette panique qu’on a connue, que j’ai connue pendant quelques jours avait disparu. J’étais protégé… protégé, vous voyez. On a vécu… protégés, bon y avait une nouvelle protection là et bon, je m’en accommodais très bien. On était inquiets. Par exemple, je me souviens avoir écrit à mon père, quand on savait où il était,”as-tu des nouvelles de maman ?  as-tu des nouvelles d’Annette et de… et de Michel ?”  Lui, il nous écrivait dans le même sens. Au début, on n’avait aucune…  on ne savait pas. Bon, ça c’était un point noir parce que cette famille était disloquée, qu’on vivait toujours dans un espace très réduit, donc ça augmente les liens de … les liens ça les augmente puis d’un seul coup on se retrouve à deux, il manquait quand même quatre personnes. Et c’est beaucoup. Mais bon, vous savez les enfants, ils ont une facilité d’adaptation que beaucoup d’adultes, que les adultes n’ont pas. Nous, on s’est adaptés.
+ 
+**Interviewer** : Et qu’est-ce qu’il vous disait votre grand-frère ?
+ 
+**Jean**: On parlait, entre nous on se parlait. On parlait de maman, on parlait de papa, on se cachait rien. Puis même, on se demandait : “Est-ce que toi tu crois vraiment à tout ça ?” en de la religion. “Est-ce que tu crois ? Est-ce que quand même la Saint Vièrge ? Les Saints ? Le Jésus ?»  Alors on était juifs. On restait entre nous, tout au  moins au début, on restait juifs. On se posait les questions qu’il fallait, je pense, qu’il fallait se poser. Mais c’était… c’était vraiment entre nous. 
+ 
+**Interviewer** : Et qu’est-ce que vous pensiez donc de la Vierge ?
+ 
+**Jean**: Au début, ben… on pensait que bon c’était une belle histoire oui elle était belle dans sa robe longue, avec ses yeux tournés vers le ciel. Personnellement, moi ça… j’étais plutôt crédule. J’étais plutôt crédule. J’étais même bien crédule. Mon frère était beaucoup plus sceptique, l’aîné Henri. Voilà
+ 
+**Interviewer** : Et puis donc à… vous êtes restés combien de temps dans l’orphelinat ?
+ 
+**Jean**: A l’Haÿ-les-Roses ? On est restés un an…  une grosse année. Et après on est allé à Neuilly, Neuilly-sur-Seine. Pourquoi ? Parce que… bon…  donc il faut que je revienne sur mon frère, mon jeune frère et ma sœur. Ils sont donc restés à… quatre mois à Beaune-la-Rolande et après on les a transférés à Drancy. Et c’est là que mon père a retrouvé leur… la trace. 
+ 
+**Interviewer** : On sait comment il a retrouvé la trace ?
+ 
+**Jean**: Oui, par l’intermédiaire de l’UGIF, Israelowicz, qui avait l’oreille de la… de la Gestapo. Et il a retrouvé aussi la trace de ma mère mais il est arrivé un jour trop tard. Elle était déjà partie de Beaune-la-Rolande. Un jour trop tard. C’est abominable, mais c’était un jour trop tard. Et donc mon frère Michel et Annette se trouvaient à Drancy et de là… dans des conditions bon donc…  il faudrait parler de Drancy alors là,  c’est encore tout un...beaucoup beaucoup beaucoup à dire.
+
+**Interviewer** : Ils vous ont tout raconté alors quand ils sont sortis ?
+ 
+**Jean**: Oui, ils nous ont raconté après. Et de Drancy, par l’intermédiaire de l’UGIF et de ce Israelowicz, on les a transférés à l’asile de la Rue Lamarck qui était un orphelinat de l’UGIF. Et c’est dans cet asile que la religieuse, Soeur Régereau  est partie les prendre. 
+ 
+**Interviewer** : Mais comment elle a fait ?
+ 
+**Jean**: Elle a fait…  donc elle avait plus ou moins l’autorisation, pas elle, mais la directrice de l’UGIF avait plus ou moins le feu vert d’Israelowicz. Oui et non, on sait pas exactement. Finalement, ça… parce que ça a duré plusieurs jours le… les discussion et finalement elle est allée les chercher. Peut-être qu’elle a un peu forcé la porte, je ne sais pas. C’était pas gardé comme Drancy ou comme Beaune- la-Rolande. C’était quand même un orphelinat qu’était sous la responsabilité de l’UGIF donc qui devait rendre des comptes à la Gestapo, bon, mais ce n’était pas… Il n'y avait pas… y avait pas d’agent à la porte ni à l’intérieur. Elle les a… elle est allée les chercher et elle les a emmenés à l’orphelinat de Neuilly. Pourquoi Neuilly ? Parce que c’est un orphelinat mixte. Alors que l’Haÿ-les-Roses était uniquement de garçons. Et quand Annette et Michel se sont trouvés à Neuilly, la sœur Régereau a fait en sorte qu’on les rejoigne à Neuilly, qu’on soit ensemble. Et quand on a été ensemble… c’est-à-dire, avant d’être ensemble, quand elle les a pris de la rue Lamarck, elle a organisé une rencontre d’abord au 140 rue du Bac où on s’est retrouvés tous les quatre. Ah ça a été… ah ça a été un moment d’émotion qui…  très très très intense. On se retrouvait. Et de là elle a … elle a fait en sorte… elle nous a réunis donc, et puis elle a fait une… pour faire une photo de nous quatre - qui… que je vous ai amenée là, que vous allez voir - et pour envoyer à mon père. Pour dire “Voilà vos enfants sont ensemble.” Et… je fais le geste pour mes lunettes mais je ne les ai pas. Et il y a une petite anecdote, quand elle a récupéré Michel et Annette, ils avaient le crâne rasé. Donc pour faire la photo, elle a dit “Mais Annette, une petite fille, elle va avoir honte d’être sur une photo avec le crâne rasé.” Alors elle a… elle était auparavant… regardez,  cette religieuse, la bonté qu’elle pouvait avoir en elle -  elle a été chez une mercière acheter un ruban. Un grand ruban très large pour le nouer autour de la tête avec une grosse boucle pour cacher son crâne tondu. Pour envoyer au père une photo…  Et là, le père nous a envoyé “Je suis tellement heureux que vous soyez réunis. Malheureusement maman… mais on va la retrouver.”  Alors on s’est retrouvés donc à Neuilly, mais cet orphelinat aussi de Neuilly, à cause des bombardements, a été évacué. 
+ 
+**Interviewer** : Et comment vous avez trouvé votre petite sœur ?
+ 
+**Jean**: On l’a trouvée … ça a été un moment de folie. On s’est jetés les uns dans les autres, on n’arrivait plus à se… à se désenlacer. On a… Même la sœur Clotilde se rappelle, quand elle vivait, elle s’em rappelait encore. Elle a dit “Jamais je n’oublierai quand … quand vous vous êtes retrouvés.” C’était un moment, un grand moment de bonheur. 
+ 
+**Interviewer** : Et ils  vous ont… vous avez tout raconté, donc vos histoires… Vous vous êtes mis au courant quoi ? 
+ 
+**Jean**: Ah oui ils  nous ont raconté. Et puis alors là on commencé à refaire les recommandations. Entre nous, on peut parler de tout mais il ne faut jamais parler à l’extérieur des Juifs. Même avec le meilleur copain ou la meilleure copine. C’est la Sœur qui nous en avait donné… qui nous l’avait pas recommandé mais qui nous en avait donné l’ordre parce qu’elle craignait aussi euh elle craignait aussi pour notre sécurité. 
+ 
+**Interviewer** : Donc là tous les quatre vous êtes…  ?
+ 
+**Jean**: Alors donc… mais pas longtemps parce que l’orphelinat a été évacué. Les filles en Auvergne à Saint-Rémy-sur-Durolle, et les garçons dans la Marne à côté de Châlons-sur-Marne. A cause des bombardements, ça devenait très dangereux et ça a été évacué…  d’abord c’est Michel qui est parti et puis après, nous. Et on s’est rejoints, les trois garçons ensemble,à…  dans la Marne, Drouilly-sur Marne. C’est un petit village à côté de Vitry-le-François. 
+ 
+ 
+**Interviewer** : Et vous étiez où ? Dans quel genre d’établissement là ?
+ 
+**Jean**: Alors, un orphelinat toujours. 
+ 
+**Interviewer** : A l’orphelinat toujours. 
+ 
+**Jean**: L’orphelinat, on avait réservé une villa entière et on vivait très bien. 
+ 
+**Interviewer** : Vous étiez dans la même chambre que vos … 
+ 
+**Jean**: Oh, c’était des grands dortoirs. C’était des … il n’y avait pas de chambres. Tout le temps qu’on est resté chez les… au couvent là chez…  dans les orphelinats, c’était uniquement des dortoirs. C’était pas les chambres… 
+ 
+**Interviewer** : Vous étiez combien alors ?
+ 
+**Jean**: Ben, à Neuilly… à l’Haÿ-les-Roses, on était… c’était un dortoir de 30. On était 30 enfants. Et à Neuilly euh mais il y avait plusieurs dortoirs parce que c’est un orphelinat plus grand. Naturellement. les filles d'un côté, les garçons de l'autre. On se retrouvait euh à l’office parce que les[filles étaient d'un côté, les garcons de l’autre. C’était plus grand oui, y avait… y avait une cinquantaine d’enfants. 
+ 
+**Interviewer** : Et vous aviez à manger ?
+ 
+**Jean**: Euh à l’Haÿ-les-Roses beauc… oui beaucoup. Mais après à Neuilly moins. C’était… par contre à la campagne on mangeait très bien. Comme on était … on allait aider les paysans du coin, on mangeait chez eux, on n’avait pas vraiment… pour l’époque. Naturellement, il nous manquait les pâtisseries que ma mère nous faisait, les friandises,les… les…  mais le manger pour se nourrir bien comme il faut, on a eu aucun problème. Non non on a été…  d’ailleurs on n’était pas maigres, on était... moi je me souviens d’avoir été bien nourri. 
+ 
+**Interviewer** : Et où il était votre père ? 
+**Jean**: Alors mon père, donc un fois qu’il a fait sortir… qu’il a réussi… mais c’était moyennant finances hein, j’ai oublié de vous dire. A l’UGIF et a Israelowicz, il a donné tout ce qu’il avait. Pas beaucoup, mais il a donné tout ce qu’il avait. Et après, il a été, il a tout fait pour passer en zone libre. Parce qu’on avait beaucoup d'amis qui étaient en zone libre, à Périgueux. Il y avait des cousins, des relations du même village qui étaient à Périgueux. Il y avait le frère de mon père qui était arrivé déjà aussi en zone libre. Et il est arrivé finalement en zone libre et il nous écrivait de zone libre. Là, il avait changé son nom. Il s’appelait plus Müller Manek. Il  s’appelait Jean Gallaud. G-A-2 L- A-U-D. Et on lui écrivait, il nous écrivait et on lui écrivait sous ce nom. Alors donc il était caché là-bas à Périgueux, puis à Toulouse, et puis... enfin dans la région. Et puis quand ça chauffait il allait se refugier dans la campagne, chez des paysans, des paysans polonais. Avec qui d’ailleurs il est resté en relation avec certains après la guerre. Mais y en a qu’ il a fuis parce que… pareil, il me raconte l’histoire d’un paysan polonais chaque fois qu’il était saoûl, il voulait tuer le Juif. “Ou il est le Juif ? Je veux le tuer le Juif. Où il est le Juif ?”  Alors il s’est sauvé, il a eu peur, puis il a été dans l’autre famille de pays… famille polonaise. Il y avait beaucoup de paysans catholiques polonais établis dans la région de Périgueux. Beaucoup, enfin relativement beaucoup. Et donc il est resté jusqu’à… là-bas jusqu’a la fin de la guerre dans la région. Caché dans divers…  différents endroits avec les dangers que ça comportait.  
+**Interviewer** : Et votre petite sœur, elle elle était donc en Auvergne ?
+**Jean**: En Auvergne, qui était en zone libre, d’ailleurs mon père est allé la voir. Puisqu’en zone libre… il avait du mal à passer la ligne. Il aurait pas risqué de passer la ligne de démarcation. Et ma sœur était en Auvergne donc dans la partie d’Auvergne qui était en zone libre, et mon père est allé la voir. Et il se rappelle que c’était un premier, un 1er fév… un 1er novembre il a été la voir. Et puis où elle était dans la maison, il la trouvait pas, et puis on lui a dit mais non, comme c’est la journée des morts, le 2 novembre, il a trouvé tout le pensionnat priant sur la tombe des… 
+ 
+**Interviewer** : Au cimetière 
+ 
+**Jean**: Alors je me rappelle, c’est une anecdote comme ça. Puisque ma sœur aussi était assez religieuse…  comme moi d’ailleurs. 
+ 
+**Interviewer**:Et vous souviez une scolarité donc à l’orphelinat ? 
+
+**Jean**:  Ah oui, ah oui. 
+
+**Interviewer**: Votre sœur aussi?
+
+**Jean**: … à l’Haÿ-les-Roses et à Neuilly, c’était une scolarité dans des écoles, dans des écoles libres. C’est des écoles catholiques. Mais à Drouilly, c’était une école communale, du village avec une classe unique de la première classe jusqu’au Certificat d’Etudes.
+
+**Interviewer**: Et vous travailliez bien ?
+
+**Jean**: Très bien. Toujours très bien. (l'**Interviewer** répète ce qu'il dit). J’ai retrouvé dernièrement au 140 puisque je fréquente régulièrement le 140. Rue du Bac. J’y vais chaque fois que l’envie m'en prend, chaque fois que je passe devant. Une Soeur qui est très âgée maintenant, qui s’appelle Soeur Modène et qui était la Soeur assistante de l’Haÿ-les-Roses, c'est-à-dire la Soeur qui vient toute suite après la Soeur Supérieure, et qui se souvient, on a parlé ensemble, elle se rappelle des enfants Muller. On était les premiers au catéchisme.
+
+**Interviewer**: C’est extraordinaire
+
+**Jean**: J’en parle pas. Donc, on était la fierté puisque, du point du couvent, parce qu’on était premiers à l’école. Oui, c’est les enfants du couvent de Saint-Vincent-de-Paul. Ça, c’était la fierté. Mais ont été les premiers au catéchisme. Alors, ça c’est quand même assez extraordinaire... 
+ 
+**Interviewer** : C’est complètement extraordinaire.
+ 
+**Jean**: Henri était le premier, moi deuxième, les deux premiers c’était nous. Et cette soeur se rappelle encore de cette anecdote. 
+
+**Interviewer**: Donc arrive la fin de la guerre, vous êtes …
+
+**Jean**: Fin de la guerre 
+
+**Interviewer**: Et la libération, comme est-ce que vous avez vécu ça ?
+
+**Jean**: Alors la libération s’est passé ce tout à fait normalement… c’est-à-dire normalement mon père a été libéré et on…  partout, c’était libéré en même temps. Paris était… Paris était libéré, que nous on était encore occupés dans la Marne. Et puis bon l’armée est arrivée, l’armée américaine… l’armée américaine est arrivée dans la Marne et a libéré le… Châlons et tous les… Et quand nous on a été libérés, la Soeur Clotilde Régereau a donné l’ordre à la Soeur qui s’occupait de nous de nous faire revenir à Neuilly. Tout de suite, instantanément, parce que mon père est allé la voir après la guerre et lui a demandé de récupérer ses enfants. Elle a dit oui, tout de suite, instantanément. On est arrivés à Neuilly, bon ça n’a pas duré une heure, non mais bon peut-être deux jours, cinq jours, huit jours, je me souviens plus. Et, une fois qu’on était à Neuilly, elle est venue nous chercher à Neuilly, elle nous a emmenés 140 rue du Bac. Là où mon père nous a laissés et nous a retrouvés, les trois garçons. La fille n’était pas encore rentrée de Saint-Rémy-sur-Durolle. 
+
+**Interviewer**: Et où est-ce que vous êtes allés alors ? 
+
+**Jean**: Et là, mon père nous a emmenés dans une… dans un orphelinat de la… un orphelinat de la… comment s’appelle ? 36 rue Amelot euh… la colonie scolaire. C’était une colonie, c’était une maison juive à Versailles. Et il nous a emmenés là-bas parce qu’il pouvait pas, y avait… il était tout seul. Il avait pas d'appartement. L’appartement avait été occupé par un… par un agent de police. Il avait du mal à le récupérer.
+**Interviewer**: Il l’a récupéré? 
+
+**Jean**: Après, longtemps après. Mais au début, il vivait à l’hôtel. Il vivait à l’hôtel. Il avait pas le droit de rentrer chez lui. Et c’est… et même, quand il est rentré chez lui, peut-être encore un an après, je crois… je crois pas avant 46, il ne restait rien dans la maison. Rien. Pas même une lampe pour s’éclairer. Tout avait été pillé, littéralement pillé. Donc, il nous a… il pouvait pas nous prendre tout de suite, il nous a mis dans cette colonie à Versa… cette maison d’enfants, à Versailles. Il y avait… on était aussi une vingtaine d’enfants, 20-25 enfants, tous qui avaient une histoire de parents déportés,d’arrestation, d’enfants cachés…
+
+**Interviewer**: Et là vous parliez. vous…?
+
+**Jean**: Oui, c'était des Juifs. Oui, c’était fini, la guerre était terminée. 
+
+**Interviewer**: Et votre mère. Vous vous demandiez où était votre mère? 
+**Jean**: On demandait tous les jours. On lisait le… on lisait le journal, les… c’était un journal en yiddish, je me souviens plus de son titre, qui donnait la liste des… des gens qui étaient…
+
+**Interviewer**: qui revenaient? 
+
+**Jean**: Qui revenaient. Qui revenaient et bon on attendait. Madame Muller ? Il y avait pas Madame Muller.  Et ça, petit à petit, petit à petit, ça s’est terminé. 
+
+**Interviewer**: Et vous avez su pour votre mère quand? 
+
+**Jean**: On l’a su… un an après. Bon, c’est fini, y a plus de retours donc... Les derniers qui arrivaient, on avait encore de l'espoir. Les derniers qui arrivaient c’était des… des gens très malades qu’on avait gardés plus longtemps. On disait “Ah bon, elle sera très malade mais elle va revenir.” Et puis bon, elle est pas revenue. A un moment, il fallait dire… mon père nous a dit "C’est plus la peine de parler… elle reviendra plus. Votre mère ne reviendra plus.” Donc… on n’avait pas de déclaration décès rien. C’était pas… “elle reviendra plus.”
+ 
+**Interviewer**: Et vous avez… Annette est revenue donc ? 
+
+**Jean**: Après Annette est revenue, donc mais…  oui elle est revenue, mais elle est... à Versailles c’était pas mixte, c’était seulement garçons. Alors mon père a cherché une colonie - pension-  d’enfants juifs, il est allé à l’O.S.E. et on nous a envoyés au Mans. 
+
+**Interviewer**: Au Mans.
+
+**Jean**: Là, il y avait cent personnes. Cent personnes qui tous avaient une histoire, il y avait même des gens qui avaient été déportés qui sont venus. Mais qui ont été déportés sur le tard. J’ai… avec qui d’ailleurs je suis encore en relation aujourd’hui. Réjène, les Réjènes, ils ont été déportés très tard parce que le père était prisonnier de guerre. Donc, ils étaient protégés pendant un certain… un certain moment. Là encore une histoire absolument extraordinaire. Le père était prisonnier de guerre. La mère a été déportée à un endroit. Les deux fils Régène, Maurice et Daniel, ont été déportés à un autre endroit. Et la sœur, Suzanne, était cachée euh… on avait…  les parents avaient… la mère avait réussi à la cacher dans la Sarthe. Chez des paysans dans la Sarthe. Et ils se sont tous retrouvés. Pas un n’a disparu. 
+ 
+**Interviewer** : Incroyable !
+ 
+**Jean**: Alors c’est une histoire qu’il faut quand même raconter. Par contre, on a rencontré au Mans, un… l’histoire d’un Joseph Weissman qui lui avait été aussi arrêté par…  dans la rafle 16 juillet avec sa famille. Bon, petit à petit ses parents ont été déportés, ses frère et sœur ont été déportés, puis il s’est retrouvé tout seul à… comment s’appelle dans le Loiret là où mon frère a été interné ? Le nom m’échappe là d’un seul coup… Beaune-la-Rolande! Il s’est retrouvé tout seul et il a réussi à s’échapper de Beaune-la-Rolande. Il a réussi à s’échapper. Il était dégourdi, c’est un garçon dégourdi, il a volé dans les latrines quelques bijoux qui étaient…  que les internées avaient jetés. Et puis il a réussi à s’échapper, et puis il s’est retrouvé un soir très tard dans une ferme qui… dont la patronne de la ferme lui a donné à manger et qui, en même temps qu’il a mangé, elle a informé les gendarmes. Et les gendarmes sont venus le chercher, ce Joseph Weissman, ils sont venus le chercher, et puis ils l’ont emmené dans leur voiture et puis ils ont commencé à rouler, ils ont roulé et à un moment, ils ont ouvert la porte et lui ont dit : “Allez, sauve-toi maintenant et fais en sorte qu’on ne te retrouve pas parce que c’est ta dernière chance.” Et bien voilà, encore une histoire d’un petit garçon qui se trouvait avec nous au Mans et des histoires comme ça, on était 100, il y avait 100 histoires. 
+
+**Interviewer**: Et qu’est-ce que vous vous disiez les uns avec les autres pour l’avenir? 
+
+**Jean**: … Je connais cette histoire mais je l’ai connue après.Là-bas, on  parlait pas. On ne parlait plus de tout ça. Très rarement, très rarement, très rarement. Parce que sans ça, on n’aurait parlé que de ça. Cent histoires comme ça des uns les autres à se raconter mutuellement. De tous les âges. Là-bas, il y avait des gosses de…  ça commençait à quatre ans jusqu’à dix-sept ans. Alors il y en avait qui avaient des parents, il y en avait qui avaient comme nous seulement un parent, et il y en avait qui n'avaient pas du tout du tout du tout de parent, qui se retrouvaient sans parents. 
+
+**Interviewer**: Et là vous avez quel âge?
+
+**Jean**: Là donc en 45, moi je commence à avoir…  j'ai quatorze ans. Alors, y a aussi un problème, mon frère quinze ans, quatorze ans euh pendant mes années de couvent, chez les Catholiques, je suis devenu catholique. Très pratiquant. Très croyant, avec l’idée d’être prêtre. J’ai commencé un séminaire et c’était pour mon père un gros problème, lui qui était depuis tout le temps athée, il était inquiet de me voir continuer à pratiquer la religion. J'allais à la messe. C'est une des raisons d’ailleurs pour lesquelles il nous a sortis de Versailles pour aller au Mans. C’est pas seulement une affaire de trouver une colonie mixte, une maison mixte, c’est aussi pour me déraciner de, de me retirer de la proximité de Neuilly, de l’Haÿ-les-Roses où j’avais gardé des attaches, et ça a duré longtemps. Longtemps. C’était une des conséquences de la guerre. Ça a duré longtemps. 
+
+**Interviewer**: Il ne l’a pas accepté.
+
+**Jean**: Il s’est pas heurté à moi mais il était très inquiet. Il était très inquiet parce que c’était déjà très très très engagé. Naturellement à quatorze ans, on peut pas… et de toute façon je ne voulais rien faire d'autre que d’étudier la… Alors le lycée, ça allait et j’apprenais le latin parce que le latin à l’époque c’était la langue de l’église. Et le jour où je n’ai plus eu cette croyance ou moins forte ou vraiment bon…  j’ai plus rien… j’ai rien voulu faire. Ni travailler, ni aller à l’école, ni… rien, c’était fini. Y a eu la rupture avec …  C’était où… dans mon esprit. C’était assez diffus, assez confu dans mon esprit malgré tout. Mais du jour où je pouvais plus être prêtre, je ne pouvais plus rien être d’autre.
+ 
+## CASSETTE 4
+
+**Interviewer** : Donc c’était de pouvoir pratiquer la religion catholique pour rien.
+ 
+**Jean**: Pour rien. Voilà c’est… ça a été euh pour moi ça a été une déchirure. Ca a été une déchirure. Et… moi, je… je mets ça sur les séquelles de la guerre. Ca m’a perturbé toute mon adolescence parce que ça m’a… ça m’a gâché l’adolescence. Arrive un moment où j’ai dit à mon père :
+ -Euh non, je veux plus aller à l’école.
+ -Bon, ben tu vas travailler.
+ -Non, je veux pas travailler.
+Je n’avais plus de but. On m’avait retiré le but. Et… ça a duré, un an, deux ans. Ca a été la déchirure. 
+ 
+**Interviewer** : Vous qui étiez tellement intéressé par les études…
+ 
+**Jean**: Par les études. Quand j’ai quitté l’école - finalement bon j’ai quitté l’école du Mans d’abord. J’ai été renvoyé de l’école du Mans. Alors il m’a mis dans un collège à Paris avenue Gambetta, un cours complémentaire… j’avais promis… de bien me comporter et puis bon, ça na pas duré. Et je me souviens, le Directeur est allé voir mon père, le Directeur de ce cours complémentaire est allé voir mon père pour lui dire “Faites quelque chose, c’est dommage, c’est malheureux, c’est dommage… ” Y avait rien à faire. J’ai eu… et c’est là que mon père a dit :
+-Mais enfin, finalement, t’as aucun… t’as aucun diplôme ! Aucun diplôme ! T’as passé la classe du Certificat d’Etudes (dans ce temps, c’était le Certificat d’Etudes, c’était une fin d’études)
+Et… alors j’ai dit :
+-Si tu veux, je vais passer le Certificat d’Etudes. 
+Alors je suis retourné à l’école communale de la rue Olivier-Métra. Je suis allé voir ce Monsieur Lakische et je lui ai dit :
+-Voilà, je voudrais passer le Certificat d’Etudes.
+Il m’a regardé avec des yeux ébahis :
+-Mais t’allais pas au lycée ?
+J’ai dit :
+-Non , j’y vais plus mais je veux passer mon… mon père veut que je passe un Certificat d’Etudes.
+Alors, il m’a inscrit pour le Certificat d’Etudes. Et j’ai passé le Certificat d’Etudes, primaire, avec la mention Très Bien. 
+ 
+**Interviewer** : Quand même !
+ 
+**Jean**: Quand même. Ce qui m’a servi à rien d’ailleurs. Ca m’a servi à rien. 
+ 
+**Interviewer** : Et qu’est-ce que vous avez fait après ?
+ 
+**Jean**: Après, j’ai… je me… j’ai commencé à être apprenti. Mon père était chef de fabrication dans une… dans une fabrique. Il m’a pris donc. A contre-coeur. Il voulait pas… il voulait pas que…
+ 
+**Interviewer** : Vous étiez rue de l’Avenir là ?
+ 
+**Jean**:  On était rue de l’Avenir. Il m’a pris avec lui comme apprenti. On avait réintégré la rue de l’Avenir. Euh… mais j’étais le seul enfant avec lui. Annette et Henri euh étaient restés au Mans. Eux, ils continuaient le lycée. Et Michel était à Fontenay-aux-Roses à côté de Paris. Et moi, j’étais le… cas. Le cas qui avait mal… mal vécu la transition entre le… le retour à la vie familiale… de même que j’avais mal vécu, au départ, la transition entre la vie de famille et le pensionnat, mais ça a été beaucoup moins. J’étais plus petit. De même, j’ai mal vécu la transition entre le… entre le… la vie dans le pensionnat catholique et la vie dans la famille. Très mal vécu. Donc, je suis, en quelque sorte, une victime de la guerre à… pas au même niveau que les gens internés ou déportés mais quand même, ça m’a perturbé, profondément perturbé. Donc, alors je voulais pas… j’ai commencé à être apprenti et puis j’ai arrêté. Je voulais pas… j’avais le goût à rien. Bon, j’ai commencé quelques études et puis, à la fin…
+ 
+**Interviewer** : De quoi ? Quel genre d’études ?
+ 
+**Jean**: Le… au cours complémentaire là, j’ai repris une année mais ça n’a pas marché. C’était fini… c’était cassé 
+ 
+**Interviewer** : … la vocation
+ 
+Jean ; C’était fini. Et puis l’âge commençait à venir aussi hein et puis je voyais, tous mes copains travaillaient. Très peu étaient… continuaient les études. Très, très peu. Tous étaient… d’ailleurs, de ma génération y’en a très peu qui ont continué les études. Et puis bon, j’ai commencé à travailler. Et mon père s’est remarié avec une femme que j’adorais, que j’aimais beaucoup, qui est venue… qui a apporté dans le ménage une fille qui est devenue ma soeur, je dis ma soeur, qui s’appelle Léa et avec qui j’ai aujourd’hui d’excellentes relations. 
+ 
+**Interviewer** : Donc vous avez vécu rue de l’Avenir jusqu’à quand ?
+ 
+**Jean**: Jusqu’à à peu près 1948-49. Pas longtemps. Et comme mon père s’est remarié, il a repris tous ses enfants. On s’est retrouvés pas à 6 mais à 7 et il a pris un autre appartement du côté des Buttes-Chaumont. 
+ 
+**Interviewer** : Et vous avez vécu jusqu’à quand avec votre père ?
+ 
+**Jean**: Là moi j’ai vécu dans cet appartment jusqu’à 17 ans. Et là, je me suis… je suis parti de la maison. J’avais besoin de… de rester seul. 
+ 
+**Interviewer** : Vous êtes allé où ?
+ 
+**Jean**: Je suis allé… non, j’avais une chambre à Paris. J’étais pas loin - on s’éloigne pas beaucoup chez nous vous savez. On reste… - et je suis sorti de la maison. Et là j’ai commencé… il fallait bien que je vive, il fallait bien que je gagne ma vie et je me suis fait apprenti, modéliste, coupeur-modéliste-patronnier… métier que j’ai toujours gardé jusqu’à… sauf un petit intermède où je travaillais dans un journal. Mais ce… très peu de temps. 
+ 
+**Interviewer** : Quel journal ?
+ 
+**Jean**: L’Humanité. Mais à titre bénévole. Mais ça me prenait aussi beaucoup de temps. 
+ 
+**Interviewer** : Et ça parlait de quoi… 
+ 
+**Jean**: J’étais affecté aux sports. Sans être sportif, j’aimais beaucoup parler… et m’intéressais aux sports. C’était une évasion pour moi.
+ 
+**Interviewer** : Et quand est-ce que vous avez rencontré votre femme ?
+ 
+**Jean**: Euh ma dernière femme, il y a maintenant 20 ans.
+ 
+**Interviewer** : Vous étiez marié avant ?
+ 
+**Jean**: Non, mais je vivais… j’ai toujours vécu maritalement. Je vis encore maritalement. J’ai rencontré ma femme qui avait une fille qui est devenue ma fille. On fait pas de… qui m’aime beaucoup, qui m’apporte une affection très intense et réciproquement. Alors donc on est… on est bien. On est bien. Y’a des… pas tous les jours mais bon, c’est jamais de ma faute, que je dis, mais… C’est… dans l’ensemble, ça va.
+ 
+**Interviewer** : Mais pourquoi vous vous êtes pas marié ?
+ 
+**Jean**: Justement pourquoi ? J’ai toujours eu euh j’ai toujours eu cette instabilité. Ce provisoire. Tout chez moi, depuis l’enfance, depuis 42, a été provisoire. J’ai été provisoirement juif puiqu’on… j’ai été provisoirement catholique. Je suis redevenu provisoirement juif puis athée puis… et puis j’ai été sioniste, puis j’ai été communiste, puis j’ai été socialiste… j’ai toujours été instable. J’ai toujours… j’ai toujours vécu au même endroit mais dans la pensée, il y a toujours eu une instabilité. Je n’ai jamais été sûr. Il m’a toujours manqué quelque chose. Il m’a toujours manqué quelque chose. Et moi, je pense que c’est les conséquences de ce… de cette séparation… de 1942.
+ 
+**Interviewer** : Et vos frères et soeur, ils se sont mariés, eux ?
+ 
+**Jean**: Oui. Henri s’est marié mais il a pas d’enfant. Il s’est marié très bien, depuis toujours, il s’est marié une fois, il est… euh Annette aussi s’est mariée et elle a deux enfants. Et Michel s’est marié bon il est divorcé mais il a deux enfants. Il s’est marié. Et…
+ 
+**Interviewer** : Et votre père ?
+ 
+**Jean**: Et mon père ben il s’est remarié avec ma mère… ma deuxième mère qui est malheureusement décédée aussi.
+ 
+**Interviewer** : Et vous êtes restés très proches ? Vous vous voyez souvent avec votre père ?
+ 
+**Jean**: Moi, par exemple, mon père c’est trois fois par semaine minimum. Mes frères et soeur, c’est au moins une fois par semaine au téléphone. Mais on a chacun notre vie euh et nos relations qui sont pas les mêmes pour les uns et pour les autres. Mais on reste très compacts. Très, très, très groupés et très solidaires surtout. Très solidaires et ça, c’est depuis… bon, c’est comme ça. J’ai même une anecdote là, j’ai… on a un ami bon un ami commun - c’est rare qu’on ait des amis communs entre… chez mes frères. Chacun… avons notre… - et puis cet ami commun a eu une discussion avec mon frère Michel. Il a eu une discussion, une controverse, où ils étaient pas d’accord. Et moi, j’étais pas d’accord avec mon frère. Je pensais comme… parce que je m’étais déjà exprimé sur ce point précis avec ce… cet ami. Mais quand la discussion a commencé à éclater en propos plus violents, instinctivement j’étais d’accord avec mon frère. Sans réfléchir. Et j’ai dit :
+-Mais non, c’est lui qu’a raison.
+Alors que… vous voyez, y a une espèce de…
+ 
+**Interviewer** : Esprit de corps
+ 
+**Jean**: De… de… c’est un clan.Et c’est… tout le monde le remarque quand on est ensemble. On est inattaquables en clan, quand on est en clan comme ça. Quelque soit l’adversaire… ou le copain, c’est pareil. 
+ 
+**Interviewer** : D’ailleurs dans le film que vous avez fait ensemble, il y a quelque chose que j’ai remarquée, c’est le regard que vous portez les uns aux autres. Il y a un regard…
+ 
+**Jean**: Oui 
+ 
+**Interviewer** : un regard avec un tel amour, avec une telle admiration. Les uns les autres, vous vous regardez, j’ai jamais vu une chose pareille. La façon que vous vous regardez les uns les autres quoi. Un parle et l’autre regarde. L’autre parle… c’est incroyable ! 
+ 
+**Jean**: C’est exact ! Pourtant, on a chacun nos vies… et nos croyances et politiquement en désaccord les uns avec les autres. C’est… mais comme ça… et le metteur en scène qui a tourné ce film, Friedland, il a été frappé aussi, il a dit… il avait peur de nous au départ. Il dit : “J’avais peur parce qu’un tel clan, ils vont me bouffer !” Et bon, on s’est concerté pour dire… l’aider au maximum qu’on pouvait mais au départ, il avait quelques craintes. Il le dit d’ailleurs dans une interview qu’il a eue quand il raconte comment il a fait ce film. Il dit : “Au départ… je pensais pas avoir l’autorité.” Il faut quand même qu’il y ait une autorité du responsable. Et ça, bon, c’est comme ça.
+ 
+**Interviewer** : Ah les quatre 
+ 
+**Jean**: Tous les quatre. Et on est jamais… on est toujours au courant de nos faits importants. Qu’est-ce que j’appelle un fait important ? Mon frère part en vacances alors je pars en vacances à tel endroit, je reviens tel jour. 
+ 
+**Interviewer** : Les numéros de téléphone, tout quoi
+ 
+**Jean**: Ah oui, je suis là… encore dernièrement, il est allé à Dax alors voilà le téléphone. Mon père, j’en parle pas, on est obligés de savoir où il est. Et Michel, c’est pareil. On est… on est très liés. Malgré une vie différente et des conceptions de vie complètement différentes et des… des croyances différentes et même politiquement tout à fait différentes. Même opposées.
+ 
+**Interviewer** : Qu’est-ce qu’ils ont fait comme profession vos frères et soeur ?
+ 
+**Jean**: Alors mon… je vais commencer par Henri, lui il est instructeur c’est-à-dire il enseigne… c’est un enseignant professionnel. Il a passé donc - maintenant il est à la retraite - il a toujours enseigné professionnellement le… un… comment on appelle ça ? Attendez que je trouve le mot… un… l’enseignement professionnel bon pour le textile. Moi, bon, je suis coupeur-modéliste-gradeur. Annette est secrétaire de mairie. Secrétaire territoriale de mairie. Et Michel est comédien. Il a toujours vécu de… de sa profession. 
+ 
+**Interviewer** : C’est bien.
+ 
+**Jean**: Plus ou moins bien d’ailleurs. Comme tous les comédiens.
+ 
+**Interviewer** : Ben ça…
+
+**Jean**: Voilà.
+
+**Interviewer** : Bon, est-ce que vous auriez quelque chose à rajouter ?
+
+**Jean**: Ben je voudrais rajouter… bon, je l’ai déjà dit, un mot pour ma mère parce que quand même tout ça, cette mémoire que vous me demandez d’avoir, c’est surtout pour ma mère. Surtout pour ma mère. Et je… je le dis encore une fois, moi je suis troublé par le… par son… par la fin de son existence. C’était une femme heureuse, inoffensive. Inoffensive. Dans le quartier, elle était connue, réputée que ce soit chez les commerçants, que ce soit chez les voisins, c’était une femme… inoffensive… qui savait pas agresser, qui ne savait pas agresser. Et à qui on a fait… le plus grand mal, à plusieurs reprises comme ça. A petit feu. On l’a tuée à petit feu. On l’a tuée à petit feu. On l’a tuée quand on l’a séparée de son mari par l’annonce de la rafle, on l’a tuée encore - par morceaux comme ça, on lui a retiré la vie par morceaux. Cette femme qui… qui régnait sur la maison… c’était la… mère juive comme quantité de femmes juives mais moi j’en parle parce que c’était ma mère. Et… on lui a retiré un morceau de vie encore quand nous on est partis de… de ce centre de regroupement de la rue Boyer le jour de la rafle. Et on lui a retiré encore un morceau de vie quand on lui a arraché de ses jupes Michel et Annette, dans des conditions d’une sauvagerie rare. Et après, bon, elle s’est retrouvée toute seule, elle qui régn… qui gouvernait six, cinq personnes plus elle, elle s’est retrouvée toute seule. Je dis, moi, elle était morte quand on l’a tuée. Elle était… elle était psychologiquement morte quand on l’a tuée. Et ça, voilà, c’est pour ça que je suis toujours très coopératif pour la mémoire : c’est surtout pour ma mère, surtout pour ma mère. Et ça bon, ça va pas la faire reven… à 32 ans, elle avait… faut pas oublier l’âge, elle avait 32 ans. Et je voudrais aussi avoir une pensée émue pour cette religieuse, Soeur Régereau,  Clotilde Régereau qui, c’est vrai que… j’ai eu des discussions avec des gens, de très bonne foi - on peut discuter dès l’instant que les gens sont de bonne foi, on peut discuter avec eux - et qui m’ont dit “Oui mais elle vous a baptisés.” Oui, elle m’a baptisé mais il faut… il faut aussi euh il faut aussi comprendre la démarche de chacun. Elle, elle a donné sa vie pour sa foi. Elle a donné sa vie. Elle pouvait faire autre chose cette femme intelligente, instruite, qui parlait l’anglais, l’allemand… plusieurs langues… qui… très belle. Elle pouvait avoir une vie autre que celle d’une religieuse cloîtrée. Elle a donné sa vie pour la religion, c’est donc son… son souci majeur. C’était sa vie. Alors moi, je la comprends autrement. Elle m’a donné d’abord sa protection, et après son affection, et après elle m’a donné ce qu’elle avait de plus cher au monde : sa religion. Dans le même état d’esprit, dans le même… moi, je l’ai connue…  pendant 50 ans, j’ai eu le privilège de suivre, moi, son cheminement. On s’est… on s’est constamment vus. Je peux vous dire que, de sa vie elle n’a jamais eu une pensée… une pensée euh d’inter… intéressée. Jamais. Donc, je pense que ces gens, de bonne foi, c’est… sont injustes quand ils disent qu’elle nous a volés à telle… non, c’est dans le même état d’esprit qu’elle nous a donné ce qu’elle avait de plus cher au monde : sa foi. Et pour ça, je… j’aime bien parler d’elle parce que c’est un cas unique, surtout à cette époque. Surtout à cette époque. Des gens aussi… aussi dévoués et qui risquaient leur vie quand même, c’ét… fallait quand même reconnaître que… elle a accompli une bonne action. Et je voulais en parler. 
+
+**Interviewer** : Merci
+
+**Jean**: C’est moi qui vous remercie. C’est moi qui vous remercie. 
+
+Fin de la transcription à 17’53     
+ 

@@ -179,6 +179,19 @@
     
   }
 
+  .button-small {
+    font-family: inherit;
+    color: black;
+    font-size: 90%;
+    font-weight:400;
+    background: white;
+    border: 1px solid #595959;
+    box-sizing: border-box;
+    border-radius: 2px;
+    padding: 0.5rem 1rem;
+    transition: 500ms;
+    color: black;  }
+
 
   button:hover {
     box-shadow: 0 8px 8px 0 rgba(109, 109, 109, 0.1), 0 6px 20px 0 rgba(104, 104, 104, 0.1);
@@ -280,9 +293,8 @@
 
   .book-images {
     display: block;
-    max-width:300px;
+    max-width:350px;
     max-height:180px;
-    width: auto;
     height: 100%;
     }
 
@@ -336,8 +348,8 @@
 
   .top-icon {
     padding: 1px;
-    width: 160px;
-    height: 190px;
+    width: 200px;
+    height: 200px;
     margin-top: 40px;
     line-height: 150px;
     font-weight: bold;
@@ -351,7 +363,7 @@
   }
 
   .book-icon {
-    width: 180px;
+    width: 190px;
     line-height: 200%;
     /* font-weight: bold; */
     padding-bottom: 1px;
@@ -364,44 +376,115 @@
     /* justify-content: center;
     text-align: center; */
     justify-content:flex-start;
-  
   }
 
-  .book-icon-short {
-    width: 180px;
+  .book-icon-wider {
+    width: 210px;
+    line-height: 200%;
+    /* font-weight: bold; */
+    padding-bottom: 1px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 280px;
+    /* text-align: center; */
+    display: flex;
+    align-items:flex-end;
+    /* justify-content: center;
+    text-align: center; */
+    justify-content:flex-start;
+  }
+
+  .book-icon-square {
+    width: 230px;
+    line-height: 200%;
+    /* font-weight: bold; */
+    padding-bottom: 1px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 250px;
+    /* text-align: center; */
+    display: flex;
+    align-items:flex-end;
+    /* justify-content: center;
+    text-align: center; */
+    justify-content:flex-start;
+  }
+
+  .book-icon-square-short {
+    width: 240px;
     line-height: 200%;
     /* font-weight: bold; */
     padding-bottom: 1px;
     background-size: contain;
     background-repeat: no-repeat;
     height: 240px;
+    /* text-align: center; */
     display: flex;
-    align-items: flex-end;
+    align-items:flex-end;
+    /* justify-content: center;
+    text-align: center; */
+    justify-content:flex-start;
+  }
+
+  .book-icon-horizontal {
+    width: 310px;
+    line-height: 200%;
+    /* font-weight: bold; */
+    padding-bottom: 1px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 220px;
+    /* text-align: center; */
+    display: flex;
+    align-items:flex-end;
+    /* justify-content: center;
+    text-align: center; */
+    justify-content:flex-start;
+  }
+
+  .book-icon-short {
+    width: 200px;
+    line-height: 200%;
+    /* font-weight: bold; */
+    padding-bottom: 1px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 270px;
+    display: flex;
+    align-items: center;
     justify-content: flex-start;
     /* text-align: center; */
   }
 
   .globe {
-    background-image: url("/assets/images/globe_icon_2.png");
+    background-image: url("/assets/images/book_images/atlas-icon.png");
     
   }
 
   .book {
-    background-image: url(/assets/images/closed_book_icon.png);
+    background-image: url(/assets/images/book_images/project-icon.png);
   }
 
   .map {
-    background-image: url(/assets/images/map_icon.png)
+    background-image: url(/assets/images/book_images/map-icon.png)
   }
 
   .muller {
-    background-image: url("/assets/images/book_images/muller.jpg");
+    background-image: url("/assets/images/book_images/annette-muller-cover.jpg");
     background-size: cover;
 
   }
 
-  .jerdinak {
-    background-image: url("/assets/images/book_images/jedinak.jpg");
+  .christophe {
+    background-image: url("/assets/images/book_images/francine-christophe-cover.jpg");
+    background-size: cover;
+
+  }
+
+
+
+  .reiman {
+    background-image: url("/assets/images/book_images/arlette-reiman-cover.jpg");
     background-size: cover;
   }
 
@@ -444,6 +527,40 @@
     background-image: url("/assets/images/book_images/testyler.jpg");
     background-size: cover;
   }
+
+
+
+  .bernheim {
+    background-image: url("/assets/images/book_images/francoise-bernheim-cover.jpg");
+    background-size: cover;
+  }
+
+  .berr {
+    background-image: url("/assets/images/book_images/helene-berr-cover.jpg");
+    background-size: cover;
+  }
+
+  .jacobson {
+    background-image: url("/assets/images/book_images/louise-jacobson-cover.jpg");
+    background-size: cover;
+  }
+
+  .cohen {
+    background-image: url("/assets/images/book_images/marcel-cohen-cover.jpg");
+    background-size: cover;
+  }
+
+  .psankiewicz {
+    background-image: url("/assets/images/book_images/rachel-psankiewicz-cover.jpg");
+    background-size: cover;
+  }
+
+  .lichtsztejn {
+    background-image: url("/assets/images/book_images/sarah-lichtsztejn-cover.jpg");
+    background-size: cover;
+  }
+
+
 
   ul {
     display: flex;
@@ -680,6 +797,12 @@
     background-position:0% 45%;
   }
 
+  .banner-jedinak {
+    background-image: url("/assets/images/jedinak/rachel1944.jpeg");
+    background-size: cover;
+    background-position:0% 30%;
+  }
+
   .banner-michel {
     background-image: url("/assets/images/banner_images/banner-michel.jpg");
     background-size: cover;
@@ -723,6 +846,13 @@
     display: flex;
     margin: auto;
     max-width: 40vw;
+    padding: 10px;
+  } 
+
+  .img-single-email {
+    display: flex;
+    margin: auto;
+    max-width: 55vw;
     padding: 10px;
   } 
 
@@ -931,7 +1061,7 @@ section {
   margin: auto;
 }
 
-#selected {
+.selected {
   color: white;
   background-color: #5999E4;
 }
@@ -1005,19 +1135,26 @@ pn-body {
 .pn-image-blog {
   display: flex;  
   align-items: center;
-  justify-content: center;
   width: 40%;
-  object-fit: contain;
-  border: 1px solid #ddd;
+  object-fit: fill;
+  overflow: hidden;
   border-radius: 4px;
   padding: 5px;
+}
 
-
+.pn-image-blog-background {
+  width: 100%;
 }
 
 .pn-text {
   margin: 5px 5px 0 0;
   flex: 1 1 auto;
+}
+
+.pn-text-blog {
+  margin: 5px 5px 0 0;
+  flex: 1 1 auto;
+  width: 60%;
 }
 
 
@@ -1103,7 +1240,7 @@ pn-body {
   background-color: white;
   padding: 20px 40px 40px;
   margin: 20px 20px 20px 20px;
-
+  max-height: 700px;
 
 }
 
@@ -1296,7 +1433,7 @@ position: relative;
   
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
    position:relative;
   transform: translateX(100%);
   transition: 0.6s all ease-in-out;
@@ -1580,7 +1717,15 @@ transform: translateX(0);
     overflow: hidden;
   }
 
+#the-canvas {
+  border: 25px red;
+  
+}
 
+canvas {
+  border: 25px red;
+
+}
 
   /* @media (max-width: 400px) {
     .flex-grid {

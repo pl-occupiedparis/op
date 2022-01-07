@@ -1,0 +1,139 @@
+---
+layout: testimony
+title: Annette Muller
+---
+
+<style type="text/css">
+    <!--
+     .tab { margin-left: 40px; }
+    -->
+</style>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.min.js" integrity="sha512-qa1o08MA0596eSNsnkRv5vuGloSKUhY09O31MY2OJpODjUVlaL0GOJJcyt7J7Z61FiEgHMgBkH04ZJ+vcuLs/w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+
+
+<div class= "banner banner-amuller"></div>
+
+<div class="text-page">
+    <h1>Testimony from Annette Bessmann née Muller</h1>
+    <p>Annette Muller was arrested during the July 16, 1942 round-up. She experienced the horror of the Vel' d'Hiv', was torn away from her mother who was forced onto a train bound for Auschwitz, and lived through the hell of Drancy. Post-war France did not want to talk about this horror. Shocked by the silence surrounding what is now called the Vel' d'Hiv' roundup and especially the amnesia that covered the fate of Jewish children in France during the Second World War, Annette decided to write the story of her childhood in 1976. She sent her text to numerous publishing houses. In vain. It was not until 1983 that SergeKlarsfeld published fragments of it in his book Vichy-Auschwitz. The Barbie trial and the film Au revoir les enfants by Louis Malle in 1987 opened the eyes of the public. Annette's testimony finally found an audience. In 1991, the first edition of La petite fille du Vel' d'Hiv' was published by Denoël. The book tells the story of her family from 1929 to the autumn of 1942 when she was released from Drancy. In 2009, she published the completed version with a recounting going all the way to 1947 and followedby the testimony of her father Manek. Although they have been essential reference texts for researchers, writers, and filmmakers, none of Annette's works has ever been translated into English. The following work is a humble contribution to filling this gap. We hope that reading it will inspire a professional translator to do an official translation of La petite fille du Vel' d'Hiv'.</p>
+    <p>In 1995, Annette and her three brothers, Henri, Jean and Michel, provided testimonials to the USC Shoah Foundation. The textbelow is a translation of Annette's testimony, interspersed with excerpts from her brothers'. This four-voice account attempts to reconstruct, as closely as possible, the childhood of these survivors as they depicted it 50 years after the events.  It alsotries to reproduce the indefectible complicity that bonded "this clan" until the end.  Unfortunately, it does not answer all the questions that readers may have. Only La petite fille du Vel' d'Hiv'provides all the keys.</p>
+    <p>Copyright: Mélanie Péron acknowledges the USC Shoah Foundation for allowing her to translate into English the following testimonies: Annette Bessman Muller (1995), Henri Muller (1995), Jean Muller (1995), Michel Muller (1995). For more information:http://sfi.usc.edu/</p>
+    <p>Interview conducted in Paris on June 21, 1995 by Maya Poirson.</p>
+    <p>Credits : USC Shoah Foundation Institute Visual History Archive</p>
+    <p><a href="https://vha-usc-edu.proxy.library.upenn.edu/viewingPage?testimonyID=3494&returnIndex=0" target="_blank">Watch the full interview in French</a> | VHA Interview Code: 3374</p>
+</div>
+
+<div>
+  <button id="prev">Previous</button>
+  <button id="next">Next</button>
+  &nbsp; &nbsp;
+  <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+</div>
+<canvas id="the-canvas"></canvas>
+
+
+<script>
+    // If absolute URL from the remote server is provided, configure the CORS
+// header on that server.
+var url = '/assets/pdf/Muller_narrative_composite.pdf';
+
+// Loaded via <script> tag, create shortcut to access PDF.js exports.
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+// The workerSrc property shall be specified.
+pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.worker.min.js';
+
+var pdfDoc = null,
+    pageNum = 1,
+    pageRendering = false,
+    pageNumPending = null,
+    scale = 1.5,
+    canvas = document.getElementById('the-canvas'),
+    ctx = canvas.getContext('2d');
+
+/**
+ * Get page info from document, resize canvas accordingly, and render page.
+ * @param num Page number.
+ */
+function renderPage(num) {
+  pageRendering = true;
+  // Using promise to fetch the page
+  pdfDoc.getPage(num).then(function(page) {
+    var viewport = page.getViewport({scale: scale});
+    canvas.height = viewport.height;
+    canvas.width = viewport.width;
+
+    // Render PDF page into canvas context
+    var renderContext = {
+      canvasContext: ctx,
+      viewport: viewport
+    };
+    var renderTask = page.render(renderContext);
+
+    // Wait for rendering to finish
+    renderTask.promise.then(function() {
+      pageRendering = false;
+      if (pageNumPending !== null) {
+        // New page rendering is pending
+        renderPage(pageNumPending);
+        pageNumPending = null;
+      }
+    });
+  });
+
+  // Update page counters
+  document.getElementById('page_num').textContent = num;
+}
+
+/**
+ * If another page rendering in progress, waits until the rendering is
+ * finised. Otherwise, executes rendering immediately.
+ */
+function queueRenderPage(num) {
+  if (pageRendering) {
+    pageNumPending = num;
+  } else {
+    renderPage(num);
+  }
+}
+
+/**
+ * Displays previous page.
+ */
+function onPrevPage() {
+  if (pageNum <= 1) {
+    return;
+  }
+  pageNum--;
+  queueRenderPage(pageNum);
+}
+document.getElementById('prev').addEventListener('click', onPrevPage);
+
+/**
+ * Displays next page.
+ */
+function onNextPage() {
+  if (pageNum >= pdfDoc.numPages) {
+    return;
+  }
+  pageNum++;
+  queueRenderPage(pageNum);
+}
+document.getElementById('next').addEventListener('click', onNextPage);
+
+/**
+ * Asynchronously downloads PDF.
+ */
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+  pdfDoc = pdfDoc_;
+  document.getElementById('page_count').textContent = pdfDoc.numPages;
+
+  // Initial/first page rendering
+  renderPage(pageNum);
+});
+
+</script>

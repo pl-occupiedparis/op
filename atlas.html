@@ -18,14 +18,15 @@ layout: default
   </head>
 
   <div class="navbar-atlas" id="bar-items" style="text-align: center;">
-    <a class = "toggleButton" id="muller-map" onclick="switchMap(this.id)"></h1>Henri Muller</a>
-    <a class = "toggleButton" id="francine-lorch" onclick="switchMap(this.id)"></h1>Lorch</a>
-    <a class = "toggleButton" id="nathan-spiewak" onclick="switchMap(this.id)"></h1>Spiewak</a>
-    <a class = "toggleButton" id="kofman" onclick="switchMap(this.id)"></h1>Kofman</a>
-    <a class = "toggleButton" id="perec" onclick="switchMap(this.id)"></h1>Perec</a>
-    <a class = "toggleButton" id="heleneberr" onclick="switchMap(this.id)"></h1>Berr</a>
-    <a class = "toggleButton" id="rachel-jedinak" onclick="switchMap(this.id)"></h1>Jedinak</a>
-    <a class = "toggleButton" id="mirka-mora-paris-map" onclick="switchMap(this.id)"></h1>Mirka</a>
+    <a class = "toggleButton" id="muller-map" onclick="switchMap(this.id)"></h1>Annette Muller</a>
+    <a class = "toggleButton" id="rachel-jedinak" onclick="switchMap(this.id)"></h1>Rachel Psankiewicz</a>
+    <a class = "toggleButton" id="test-exhibit-1-copy-1-1-1" onclick="switchMap(this.id)"></h1>Arlette Reiman</a>
+    <a class = "toggleButton" id="francine-lorch" onclick="switchMap(this.id)"></h1>Francine Christophe</a>
+    <!-- <a class = "toggleButton" id="/" onclick="switchMap(this.id)"></h1>Françoise Bernheim</a> -->
+    <a class = "toggleButton" id="heleneberr" onclick="switchMap(this.id)"></h1>Hélène Berr</a>
+    <!-- <a class = "toggleButton" id="/" onclick="switchMap(this.id)"></h1>Louise Jacobson</a> -->
+    <a class = "toggleButton" id="marcelcohen" onclick="switchMap(this.id)"></h1>Marcel Cohen</a>
+    <a class = "toggleButton" id="kofman" onclick="switchMap(this.id)"></h1>Sarah Lichtsztejn</a>
   </div>
 
   <body>
@@ -51,11 +52,18 @@ document.getElementsByClassName("toggleButton").onclick = console.log(this.id);
 
 
 function switchMap(id){
+  let buttons = document.getElementsByClassName("toggleButton");
+  console.log(buttons);
+  for(let i=0;i<buttons.length;i++){
+    buttons[i].setAttribute('class', 'toggleButton');
+    console.log(buttons[i])
+  }
   let map = document.getElementById("map");
 	map.innerHTML = "<iframe src='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' width='95%' height='700vh' frameborder='0'></iframe>"
   let full = document.getElementById("full");
 	full.innerHTML = "<a href='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' target='blank'> <button>Fullscreen Map</button></a>"
-  document.getElementById(id).setAttribute('id', 'selected')
+  document.getElementById(id).setAttribute('class', 'toggleButton selected')
+
   console.log(id);
 }
 
