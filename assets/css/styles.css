@@ -1630,6 +1630,7 @@ transform: translateX(0);
   line-height: 110%;
 }
 
+
 .img-blog {
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -1724,7 +1725,27 @@ transform: translateX(0);
 
 canvas {
   border: 25px red;
+  padding: 20px;
+}
 
+.pdf-page {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 25px;
+  background-color: darkgrey;
+
+  
+}
+
+.pdf-box {
+  background-color: darkgrey;
+  margin: 25px;
+}
+
+.pdf-buttons {
+  display: flex;
+  justify-content: flex-end
 }
 
   /* @media (max-width: 400px) {
