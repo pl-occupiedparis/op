@@ -466,7 +466,7 @@
   }
 
   .map {
-    background-image: url(/assets/images/book_images/map-icon.png)
+    background-image: url(/assets/images/book_images/map-icon-min.png)
   }
 
   .muller {
@@ -1155,6 +1155,7 @@ pn-body {
   margin: 5px 5px 0 0;
   flex: 1 1 auto;
   width: 60%;
+  padding: 3vh 3vh 3vh 3vh;
 }
 
 
@@ -1173,6 +1174,15 @@ pn-body {
 }
 
 .pn-text h3 {
+  font: inherit;
+  color: #2d4d72;
+  font-size: 160%;
+  font-weight:inherit;
+  text-transform: uppercase;
+
+}
+
+.pn-text-blog h3 {
   font: inherit;
   color: #2d4d72;
   font-size: 160%;
@@ -1212,12 +1222,13 @@ pn-body {
 
 .pn-container-section {
   border: none;
-  padding: 20px 40px 40px;
+  /* padding: 20px 40px 40px; */
   display: flex;
   flex-wrap: wrap;
   padding-bottom: 5%;
-  margin: 20px 80px 0 0;
   flex: 1 1 auto;
+  margin: 0 8vh 7vh 8vh;
+
 
 }
 
@@ -1227,7 +1238,7 @@ pn-body {
   display: flex;
   flex-wrap: wrap;
   padding-bottom: 5%;
-  margin: 20px 20px 20px 20px;
+  margin: 0 8vh 10vh 8vh;
   flex: 1 1 auto;
   background-color: white;
 
@@ -1239,8 +1250,9 @@ pn-body {
   display: flex;
   background-color: white;
   padding: 20px 40px 40px;
-  margin: 20px 20px 20px 20px;
+  margin: 0 8vh 7vh 8vh;
   max-height: 700px;
+  
 
 }
 
@@ -1259,13 +1271,23 @@ pn-body {
 
 .pn-container-section-embed {
   border: none;
-  padding: 20px 40px 40px;
-  padding-bottom: 5%;
-  margin: 20px 20px 20px 20px;
+  margin: 0 8vh 7vh 8vh;
   flex: 1 1 auto;
   /* background-color: white; */
   /* background-color: #EAEAEA; */
 
+}
+
+.embed_map {
+  display: flex;
+  justify-content: center;
+    width: 100%;
+
+}
+
+.embed_map_button {
+  display: flex;
+  justify-content: center;
 }
 
 
@@ -1291,9 +1313,9 @@ pn-body {
 }
 
 .carousel-body {
-    margin: 0;
+  margin: 0 8vh 7vh 8vh;
     padding: 0;
-    width: 100%;
+    /* width: 100%; */
     height: 600px;
     display: flex;
     display: -webkit-flex;
@@ -1308,14 +1330,14 @@ pn-body {
 }
 
 .carousel-letter-body {
-  margin: 0;
+  margin: 0 8vh 7vh 8vh;
   padding: 0;
-  width: 100%;
+  /* width: 100%; */
   height: 700px;
   display: flex;
   display: -webkit-flex;
-  justify-content: center;
--webkit-justify-content: center;
+  /* justify-content: center; */
+/* -webkit-justify-content: center; */
   align-items: center;
 -webkit-align-items: center;
 background-color: inherit;
@@ -1341,7 +1363,7 @@ background-color: inherit;
   width: 100%;
   height: 100%;
   display: flex;
-  max-width: 1000px;
+  /* max-width: 1000px; */
   max-height: 650px;   
   overflow: hidden;
 position: relative;
