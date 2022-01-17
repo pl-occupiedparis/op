@@ -203,7 +203,8 @@
   /* Subheading */
   h1 {
     color: #5999E4;
-    font-size: 34px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 20px;
+    font-size: 34px; font-style: normal; font-variant: normal; font-weight: 100; 
+    line-height: 110%;
 
   }
   h2 {
