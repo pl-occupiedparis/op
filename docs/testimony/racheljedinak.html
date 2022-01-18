@@ -55,137 +55,34 @@
     -->
 </style>
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.min.js" integrity="sha512-qa1o08MA0596eSNsnkRv5vuGloSKUhY09O31MY2OJpODjUVlaL0GOJJcyt7J7Z61FiEgHMgBkH04ZJ+vcuLs/w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-
+<!DOCTYPE html>
+<html>
 
 
-<div class= "banner banner-jedinak"></div>
-
-<div class="text-page">
-    <h1>Testimony from Rachel Jedinak</h1>
-    <p><i>"From that moment on, we were able to tell. Our suffering was recognized. Then, the floodgates that we had kept closed opened one by one. And my past came back to me in successive waves."</i> (p.92)</p>
-      <p>This is what Rachel writes in her 2018 book entitled We Were Only Children in reference to the historical statement President Jacques Chirac made on Sunday, July 16, 1995. </p>
-      <p>In the interview Rachel gave for the Shoah Foundation in August 1995, we witness the nascent resurgence of the memories she had buried so deeply over the years. Now that her voice was finally being listened to, she confided both fragments that were well anchored in her memories - her leitmotiv "And I remember" recalling Perec's anaphoric text – as well as the blanks that still obscured her memory at that time. This was only the first wave.</p>
-      <p>During the twenty years or so that separated the two testimonies, the cathartic backwash of her liberated memory conjured back up places and faces, shed light on moments that had been blurry until then and polished up the details.</p>
-      <br>     
-      <p>Interview conducted in Paris on August 2nd, 1995 by Daniel Bessmann.</p>
-      <p>Credits : USC Shoah Foundation Institute Visual History Archive</p>
-      <p>Oral History | VHA Interview Code: 4442</p>
-    <p>Copyright: Mélanie Péron acknowledgesthe USC Shoah Foundation for allowing her to transcribe the testimony of Rachel Jedinak (née Psankiewicz).  For more information: <a href="http://sfi.usc.edu/" target="blank">http://sfi.usc.edu/</a></p>
-</div>
-
-<div>
-  <button id="prev">Previous</button>
-  <button id="next">Next</button>
-  &nbsp; &nbsp;
-  <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
-</div>
-<canvas id="the-canvas"></canvas>
 
 
-<script>
-    // If absolute URL from the remote server is provided, configure the CORS
-// header on that server.
-var url = '/assets/pdf/Muller_narrative_composite.pdf';
+    <div class= "banner banner-jedinak"></div>
 
-// Loaded via <script> tag, create shortcut to access PDF.js exports.
-var pdfjsLib = window['pdfjs-dist/build/pdf'];
+    <div class="text-page">
+        <h1>Testimony from Rachel Jedinak née Psankiewicz</h1>
+        <p>Interview conducted in Paris on August 2nd, 1995 by Daniel Bessmann.</p>
+        <p>Credits : USC Shoah Foundation Institute Visual History Archive</p>
+        <p><a href="https://vhaonline.usc.edu/viewingPage?testimonyID=4623&returnIndex=0" target="_blank">Watch the full interview in French</a> | VHA Interview Code: 4632</p>
+        <br>
+        <p>Copyright: Mélanie Péron acknowledges the USC Shoah Foundation for allowing her to translate into English the following testimonies: Annette Bessman Muller (1995), Henri Muller (1995), Jean Muller (1995), Michel Muller (1995). For more information:http://sfi.usc.edu/</p>
+    </div>
 
-// The workerSrc property shall be specified.
-pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.worker.min.js';
 
-var pdfDoc = null,
-    pageNum = 1,
-    pageRendering = false,
-    pageNumPending = null,
-    scale = 1.5,
-    canvas = document.getElementById('the-canvas'),
-    ctx = canvas.getContext('2d');
 
-/**
- * Get page info from document, resize canvas accordingly, and render page.
- * @param num Page number.
- */
-function renderPage(num) {
-  pageRendering = true;
-  // Using promise to fetch the page
-  pdfDoc.getPage(num).then(function(page) {
-    var viewport = page.getViewport({scale: scale});
-    canvas.height = viewport.height;
-    canvas.width = viewport.width;
 
-    // Render PDF page into canvas context
-    var renderContext = {
-      canvasContext: ctx,
-      viewport: viewport
-    };
-    var renderTask = page.render(renderContext);
 
-    // Wait for rendering to finish
-    renderTask.promise.then(function() {
-      pageRendering = false;
-      if (pageNumPending !== null) {
-        // New page rendering is pending
-        renderPage(pageNumPending);
-        pageNumPending = null;
-      }
-    });
-  });
+    <div class="pdf-frame">
+        <iframe id="pdf-js-viewer" src="/pdfjs/web/viewer.html?file=%2Fassets/pdf/testimony_jedinak.pdf" title="webviewer" frameborder="0" width="100%" height="900"></iframe>
+    </div>
 
-  // Update page counters
-  document.getElementById('page_num').textContent = num;
-}
 
-/**
- * If another page rendering in progress, waits until the rendering is
- * finised. Otherwise, executes rendering immediately.
- */
-function queueRenderPage(num) {
-  if (pageRendering) {
-    pageNumPending = num;
-  } else {
-    renderPage(num);
-  }
-}
 
-/**
- * Displays previous page.
- */
-function onPrevPage() {
-  if (pageNum <= 1) {
-    return;
-  }
-  pageNum--;
-  queueRenderPage(pageNum);
-}
-document.getElementById('prev').addEventListener('click', onPrevPage);
-
-/**
- * Displays next page.
- */
-function onNextPage() {
-  if (pageNum >= pdfDoc.numPages) {
-    return;
-  }
-  pageNum++;
-  queueRenderPage(pageNum);
-}
-document.getElementById('next').addEventListener('click', onNextPage);
-
-/**
- * Asynchronously downloads PDF.
- */
-pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
-  pdfDoc = pdfDoc_;
-  document.getElementById('page_count').textContent = pdfDoc.numPages;
-
-  // Initial/first page rendering
-  renderPage(pageNum);
-});
-
-</script>
+</html>
   </body>
 </html>
 
