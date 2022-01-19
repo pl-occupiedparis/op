@@ -275,13 +275,13 @@ let url;
 //grab the backgroundImage property of the image div and save it in a variable
 let baseurl = imgElement.style.backgroundImage;
 
-if(baseurl.endsWith('_back.JPG")')==true){
+if(baseurl.endsWith('_back.jpg")')==true){
 //if the back of the image is displaying
-  url = baseurl.substring(0,baseurl.length-11) + '.JPG")'
+  url = baseurl.substring(0,baseurl.length-11) + '.jpg")'
   //remove the "back" part of the url so that the front displays
 }else{
 //if the front of the image is displaying, flip to back
-  url = baseurl.substring(0,baseurl.length-6) + '_back.JPG")';
+  url = baseurl.substring(0,baseurl.length-6) + '_back.jpg")';
   //add the "back" part of the url so that the back displays
 }
 //set the image element style to reflect the new background image url
