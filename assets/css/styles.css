@@ -202,7 +202,7 @@
 
   /* Subheading */
   h1 {
-    color: #5999E4;
+    color:  #266BAC;
     font-size: 34px; font-style: normal; font-variant: normal; font-weight: 100; 
     line-height: 110%;
 
@@ -1210,7 +1210,7 @@ pn-body {
 
 
 .pn-text-bio header {
-  color: #5999E4;
+  color: #266BAC;
   /* color: #2d4d72; */
   font-family: 'Josefin Sans', sans-serif;
   font-size: 280%; font-style: normal; font-variant: normal; text-transform: uppercase; font-weight: 100; line-height: 120%;
