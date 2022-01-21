@@ -313,6 +313,11 @@
     flex-direction: column;
   }
 
+  .nav-button-image {
+    display: flex;
+    justify-content: center;
+  }
+
 
   .book-item {
     display: flex;
@@ -347,14 +352,33 @@
   
 
 
-  .top-icon {
+  .top-icon-v {
     padding: 1px;
-    width: 200px;
-    height: 200px;
+    width: 160px;
+    height: 220px;
     margin-top: 40px;
     line-height: 150px;
     font-weight: bold;
     text-align: center;
+    display: flex;
+    background-size: contain;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center
+
+  }
+
+  .top-icon-h {
+    padding: 1px;
+    width: 220px;
+    height: 160px;
+    margin-top: 40px;
+
+    line-height: 150px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
     background-size: contain;
     background-repeat: no-repeat;
     flex-direction: column;
@@ -458,16 +482,20 @@
   }
 
   .globe {
-    background-image: url("/assets/images/book_images/atlas_square.jpg");
-    
+    background-image: url("/assets/images/book_images/atlas_r.jpg"); 
+    background-size: cover;   
   }
 
   .book {
-    background-image: url(/assets/images/book_images/project_square.jpg);
+    background-image: url(/assets/images/book_images/project_r.jpg);
+    background-size: cover;   
+
   }
 
   .map {
-    background-image: url(/assets/images/book_images/map_square.jpg)
+    background-image: url(/assets/images/book_images/map_r.jpg);
+    background-size: cover;   
+
   }
 
   .muller {
@@ -576,7 +604,11 @@
 
   }
 
-  .top-icon:hover{
+  .top-icon-v:hover{
+    transform: scale(1.1);
+  }
+
+  .top-icon-h:hover{
     transform: scale(1.1);
   }
 
