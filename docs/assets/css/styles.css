@@ -60,7 +60,7 @@
   .navigation a {
     text-decoration: none;
     display: block;
-    padding: 1em;
+    padding: 1.5em 1em 1em 1em;
     color: #000000;
     text-transform: uppercase;
   }
@@ -552,7 +552,7 @@
   }
 
   .psankiewicz {
-    background-image: url("/assets/images/book_images/rachel-psankiewicz-cover.jpg");
+    background-image: url("/assets/images/book_images/rachel-jedinak-cover.jpg");
     background-size: cover;
   }
 
@@ -692,8 +692,11 @@
   .pages-navigation {
     height: 70px;
     width: 100%;
-    background: white;
+    background: #e5e5e5ff;
     color:rgb(250, 254, 255);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
   }
 
   .navbar-nav {
@@ -800,6 +803,12 @@
     background-size: cover;
     background-position:0% 80%;
 
+  }
+
+  .banner-amonod {
+    background-image: url("/assets/images/banner_images/baraque.jpeg");
+    background-size: cover;
+    background-position:0% 45%;
   }
 
   .banner-amuller {
@@ -1430,8 +1439,8 @@ position: relative;
   order: 1;
   left: 0;
   margin: auto;
-  padding: 0 40px;
-  width: 40%;
+  padding: 0 30px;
+  width: 45%;
 
 }
 
@@ -1504,14 +1513,15 @@ position: relative;
     opacity: 0;
     /* visibility: hidden; */
     transition: 0.4s all ease-in-out;
+    line-height: 110%;
 }
 
 .carousel-item__title {
-    margin: 15px 0 0 0;
+    margin: 2px 0 0 0;
     font-family: inherit;
-    font-size: 44px;
+    font-size: 37px;
     line-height: 45px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     font-weight: 700;
     color: #7E7E7E;
     transform: translateY(25%);
