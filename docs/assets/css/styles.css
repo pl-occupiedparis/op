@@ -458,16 +458,16 @@
   }
 
   .globe {
-    background-image: url("/assets/images/book_images/atlas-icon.png");
+    background-image: url("/assets/images/book_images/atlas_square.jpg");
     
   }
 
   .book {
-    background-image: url(/assets/images/book_images/project-icon.png);
+    background-image: url(/assets/images/book_images/project_square.jpg);
   }
 
   .map {
-    background-image: url(/assets/images/book_images/map-icon-min.png)
+    background-image: url(/assets/images/book_images/map_square.jpg)
   }
 
   .muller {
