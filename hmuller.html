@@ -142,6 +142,17 @@ layout: default
               {% if item.title %}
                 <h2 class="carousel-item__subtitle">{{item.title}}</h2>
               {% endif %}
+              {% if item.date_EN %}
+              <p class="carousel-item__date">{{item.date_EN}}</p>
+              {% endif %}
+              <div class="addresses">
+                {% if item.address_sender %}
+                  <p class="carousel-item__address">{{item.address_sender}}</p>
+                {% endif %}
+                {% if item.address_recipient %}
+                  <p class="carousel-item__address">{{item.address_recipient}}</p>
+                {% endif %}  
+              </div>
               <p class="carousel-item__description">{{ item.text_EN }}</p>
                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
               {% if item.toggle == "yes" %}
@@ -217,10 +228,10 @@ layout: default
   <a name= "resources"><div class="pn-container-section">
     <div class="pn-text">
       <h3>Supplementary Sources</h3>
-      <p>Annette Monod, a Red Cross social worker, describes the conditions in the camps of Pithiviers, Beaune-la-Rolande and Drancy: <a href="/testimony/anettemonod.html" target="blank">read here</a>.</p>
-      <p>Read the full testimony from Henri Muller <a href="/interviews/muller/henri_muller" target="blank">here</a>.</p>
-      <p>Read the full testimony from Jean Muller <a href="/interviews/muller/jean_muller" target="blank">here</a>.</p>
-      <p>Read the full testimony from Michel Muller <a href="/interviews/muller/michel_muller" target="blank">here</a>.</p> 
+      <p>Annette Monod, a Red Cross social worker, describes the conditions in the camps of Pithiviers, Beaune-la-Rolande and Drancy: <a href="/testimony/annettemonod.html" target="blank">read here</a>.</p>
+      <p>Read the full testimony from Henri Muller <a href="/testimony/hmuller.html" target="blank">here</a>.</p>
+      <p>Read the full testimony from Jean Muller <a href="/testimony/jmuller.html" target="blank">here</a>.</p>
+      <p>Read the full testimony from Michel Muller <a href="/testimony/mmuller.html" target="blank">here</a>.</p> 
       <br>
 
       <h4>Additional Reading</h4>
