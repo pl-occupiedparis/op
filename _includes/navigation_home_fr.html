@@ -1,21 +1,11 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <script src="https://kit.fontawesome.com/5409614f24.js" crossorigin="anonymous"></script>
-  </head>
-
-  <body>
-    <ul class="navigation">    
+    
     <div class="site-header">
       <div class="site-header__wrapper">
         <div class="header-title">
           <a href="/" class="brand"><img src="/assets/images/headers/header_2.png"  height="80px" alt="brand" /></a>
         </div>
         <div class="pages-navigation">
-          <ul class="navbar-nav">
+          <ul class="navbar-nav-home">
             <div class="nav-item">
               <a href="/fr/map.html">Carte</a>
             </div>
@@ -41,7 +31,7 @@
               </ul>
             </div>
             <div class="nav-item">
-              <a href="/en/map.html"><i class="fa fa-solid fa-globe"></i></a>
+              <a href="/en/{{ page.url | remove: '/fr/' }}"><i class="fa fa-solid fa-globe"></i></a>
 
             </div>
 
@@ -53,39 +43,3 @@
         </div>
     </div>
     
-</ul>
-    <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Map</title>
-  <link rel="stylesheet" href="assets/css/styles.css">
-</head>
-
-<br>
-<body>
-  <div class="iframe-wrapper">
-    <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit" width="90%" height="700vh" frameborder="0"></iframe>
-  </div>
-  <div class="iframe-wrapper">
-    <p>
-      <a href="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit" target="blank">
-        <button>Fullscreen Map</button></a>  
-    </p>  
-  </div>
-</body>
-
-
-
-
-
-
-
-  </body>
-</html>
-
-
-

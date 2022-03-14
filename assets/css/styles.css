@@ -741,6 +741,20 @@
     justify-content: flex-end;
   }
 
+
+  .navbar-nav-home {
+    list-style-type: none;
+    background: #e5e5e5ff;
+    margin: 0;
+    padding: 10px;
+    padding-right: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+
+
   .nav-item {
     height: auto;
     padding: 10px;
