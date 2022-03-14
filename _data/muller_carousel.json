@@ -1,126 +1,147 @@
 [
   {
-    "title": "Family photo album",
+    "title": "Album Photo",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/1930RachelManek.jpeg",
     "caption_EN": "Rachel and Manek circa 1930",
     "caption_FR": "Rachel et Manek vers 1930"
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/1934_enfants_Manek.jpg",
     "caption_EN": "Paris, 1934 - Manek, Henri, Jean, Annette and a childhood friend in the Square des Envierges. Picture taken by Rachel.",
     "caption_FR": "Paris, 1934 - Manek, Henri, Jean, Annette et un ami d'enfance dans le Square des Envierges. Photo prise par Rachel."
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/1934_enfants_Rachel.jpg",
     "caption_EN": "Paris, 1934 - Rachel, Henri, Jean, Annette and a childhood friend in the Square des Envierges. Picture taken by Manek.",
     "caption_FR": "Paris, 1934 - Rachel, Henri, Jean, Annette et un ami d'enfance au Square des Envierges. Photo prise par Manek."  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Pierre.jpg",
     "caption_EN": "Manek's brother, Pierre Schneps. He lived in Paris and survived the war.",
     "caption_FR": "Pierre Schneps, le frère de Manek, qui a vécu à Paris avec les Muller."  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Chana_Schneps.jpeg",
     "caption_EN": "Manek's sister, Chana Schneps. She was murdered in Poland in 1942.",
     "caption_FR": "Chana Schneps, la soeur de Manek, assassinée dans leur village en 1942.  "  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Elek_Schneps.jpeg",
     "caption_EN": "Manek's youngest brother, Elek Schneps. He was murdered in Poland in 1942.",
     "caption_FR": "Elek Schneps, jeune frère de Manek, assassiné  dans leur village en 1942."  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/1940_Biez.jpg",
     "caption_EN": "Biez-en-Belin, Fall 1940 - Rachel and her children in the village where they took refuge in 1940. Picture taken by a German soldier.",
     "caption_FR": "Biez-en-Belin, automne 1940 - Rachel et ses children dans le village où ils se sont réfugiés. Photo prise par un soldat allemand."  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Soeur_Clotilde.jpg",
     "caption_EN": "Sister Clotilde who saved the Muller children.",
     "caption_FR": "Soeur Clotilde"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Lamarck_Annette_Michel.jpg",
     "caption_EN": "Front row, very middle: Annette and Michel at the Lamarck Asylum after getting out the Drancy camp in September 1942",
     "caption_FR": "Premier rang, milieu : Annette et Michel à l'Asile Lamarck  après avoir été libérés de Drancy en septembre 1942."  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/1942_Annette_Ruban.png",
     "caption_EN": "Paris, November 1942 - The four siblings are finally reunited. Annette wears the bow Sister Clotilde made to hide her shaved head.",
     "caption_FR": "Paris, Novembre 1942 - Les quatre enfants réunis.  Annette porte le noeud que Soeur Clotilde lui a confectionné pour cacher sa tête rasée."
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Henri_Jean_Hay.jpg",
     "caption_EN": "L'Haÿ-les-Roses, May 1943 - Communion of Jean and Henri ",
     "caption_FR": "L'Haÿ-les-Roses, Mai 1943 - Communion de Jean et Henri "  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Henri_Drouilly.png",
     "caption_EN": "Drouilly, 1944 -  Henri (front row, first on the left), Jean (back row)",
     "caption_FR": "Drouilly, 1944 -  Henri (premier rang, premier en partant dela gauche), Jean (arrière-plan)"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Annette_St_Remy.jpg",
     "caption_EN": "St-Rémy, 1944 - Annette (front row, second from right)",
     "caption_FR": "St-Rémy, 1944 - Annette (premier rang, deuxième en partant de la droite )"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Manek_zone_libre_2.jpg",
     "caption_EN": "Toulouse, 1944 - Manek after escaping from the work camp.",
     "caption_FR": "Toulouse, 1944 - Manek après s'être échappé du camp de travail"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/1945_enfants.jpg",
     "caption_EN": "Le Mans, 1945 - Château de Méhoncourt run by the Jewish charity organization O.S.E. (Oeuvre de secours aux enfants)",
     "caption_FR": "Le Mans, 1945 - Château de Méhoncourt dirigé par l'O.S.E. (Oeuvre de secours aux enfants)"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/1945_enfants_Manek.jpg",
     "caption_EN": "Le Mans, 1945 -  first postwar picture of Manek with his four children ",
     "caption_FR": "Le Mans, 1945 - première photo d'après-guerre montrant Manek avec ses quatre enfants"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Annette_Henri_1945.jpg",
     "caption_EN": "Le Mans, 1945 - Annette and Henri",
     "caption_FR": "Le Mans, 1945 - Annette et Henri"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Manek_rue_de_lavenir_2.jpg",
     "caption_EN": "Paris, 1945 - Manek back at 3 rue de l'Avenir",
     "caption_FR": "Paris, 1945 - Manek de retour dans leur appartement du 3 rue de l'Avenir"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Annette_Communion.png",
     "caption_EN": "St-Rémy, April 1945 - Communion of Annette",
     "caption_FR": "St-Rémy, avril 1945 - Communion d'Annette"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/1947_Annette.jpg",
     "caption_EN": "Paris, 1947 - Annette at 3 rue de l'Avenir",
     "caption_FR": "Paris, 1947 - Annette devant la porte d'entrée de l'immeuble du 3 rue de l'Avenir"  
   },
   {
     "title": "",
+    "title_FR": "",
     "image": "/assets/images/muller/carousel/Pauline_Kleinman.jpg",
     "caption_EN": "Pauline Kleinman whom Manek married in 1948",
     "caption_FR": "Pauline Kleinman que Manek a épousée en 1948"  
