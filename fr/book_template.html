@@ -95,13 +95,13 @@ layout: default_fr
 
 <!--Photos-->
 <!--1. Create a spreadsheet for each photo carousel. Find a blank version in folder named "data", which is outside the EN and FR subfolders. The easiest way to do this is create a Google Sheets with five columns: "title_EN", "title_FR", "image", "caption_EN", and "caption_FR". You will only fill out either "title_EN" and "title_FR" for the *first* photo. This will be the title of the entire photo album. For "title_EN", "Photo Album." For "title_FR", "Album Photo." Ignore the "title" columns for the rest of the photos. For each photo, add a new row. Under the "image" column: after you add all the photos into a new folder in the "assets/images/" folder, then add the url of the image to the column, including any .jpg, .jpeg, or .png tag. For example, the url might look like this: "/assets/images/muller/carousel/1930RachelManek.jpeg". Then, add the english and the french captions to the "caption_EN" and "caption_FR" (respectively).--> 
-<!--2. Then, change only one item in the section below: {% for item in site.data.muller_carousel %}: change "muller_carousel" to the name of the CSV you created > this is pointing to the spreadsheet file in that "data" folder. If you have kept the name of the columns consistent/as suggested above, this should work. The code below is pointing to those columns by refering to "item.image and item.title_FR and item.title_FR".  -->
+<!--2. Then, change only one item in the section below:  'for item in site.data.muller_carousel': change "muller_carousel" to the name of the CSV you created > this is pointing to the spreadsheet file in that "data" folder. If you have kept the name of the columns consistent/as suggested above, this should work. The code below is pointing to those columns by refering to "item.image and item.title_FR and item.title_FR".  -->
 
   <a name="photos">
     <div class="carousel-body">
       <div class="carousel">
         <div class="carousel__nav">
-         <span id="moveLeft" class="carousel__arrow">
+        <span id="moveLeft" class="carousel__arrow">
               <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
           <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
       </svg>
@@ -112,26 +112,26 @@ layout: default_fr
       </svg>    
           </span>
         </div>
-          {% for item in site.data.muller_carousel %}
-          <div class="carousel-item">
-            <div class="carousel-item__image" style="background-image:url('{{ item.image }}');background-size:contain"></div>
-            <div class="carousel-item__info">
-              <div class="carousel-item__container">
-                {% if item.title %}
-                  <h2 class="carousel-item__subtitle">{{item.title_FR}}</h2>
-                {% endif %}
-                <p class="carousel-item__description">{{ item.caption_FR }}</p>
+          {% for item in site.data.carousel_template %}
+            <div class="carousel-item">
+              <div class="carousel-item__image" style="background-image:url('{{item.image}}');background-size:contain"></div>
+              <div class="carousel-item__info">
+                <div class="carousel-item__container">
+                  {% if x.title %}
+                    <h2 class="carousel-item__subtitle">{{item.title}}</h2>
+                  {% endif %}
+                  <p class="carousel-item__description">{{ item.caption_FR }}</p>
+                </div>
               </div>
             </div>
-          </div>
           {% endfor %}
       </div>
     </div>
-</a>
+  </a>
 
 <!--Correspondence / Carousel of Letters -->
-<!--1. The process is very similar to the "photo album" section above. Create a google sheet with the following columns: image-front,image-back,toggle,title,heading_FR,date_FR,text_FR,heading_EN,date_EN,text_EN,address_sender,address_recipient. You can also see this under the file "correspondence_template" in the "data" folder. For the "image-front" and "image-back" columns, include the url of where the image is stored, for example, "/assets/images/muller/letters/28_juillet_1942.jpg" (remember to include .jpg or .jpeg tags). If there is no back image, leave the "image-back" column blank. If there *is* a back image, then write "yes" in the "toggle" column. Just like in the photo album, only include "title" for the very first image. The title should be "Family Correspondence". You will also only include a "heading_FR" or "heading_EN" for the fist image. This is text explaining the corresponence, and will be included in the spreadsheet if it needs to be added to this column. [Note: if there isn't a heading, we don't want to delete this column- rather, just leave it blank. This will make it easier if we decide to go back and add a heading later.] Then, in the spreadsheet, add the transcript of the letter under "text_EN" and "text_FR" for english and french versions. Fill out the date and address columns when this information is available [Note: we are including both an English and a French date, but are not translating the addresses into English.]  -->
-<!-- 2.Then, change only one item in the section below: {% for item in site.data.muller_correspondence %}: change "muller_correspondence" to the name of the CSV you created > this is pointing to the spreadsheet file in that "data" folder. If you have kept the name of the columns consistent/as suggested above, this should work. If you have changed the column names in the CSV file (spreadsheet), you will need to change the {% item.x %} variables in the below code, as in the photo album.-->
+<!-- 1. The process is very similar to the "photo album" section above. Create a google sheet with the following columns: image-front,image-back,toggle,title,heading_FR,date_FR,text_FR,heading_EN,date_EN,text_EN,address_sender,address_recipient. You can also see this under the file "correspondence_template" in the "data" folder. For the "image-front" and "image-back" columns, include the url of where the image is stored, for example, "/assets/images/muller/letters/28_juillet_1942.jpg" (remember to include .jpg or .jpeg tags). If there is no back image, leave the "image-back" column blank. If there *is* a back image, then write "yes" in the "toggle" column. Just like in the photo album, only include "title" for the very first image. The title should be "Family Correspondence". You will also only include a "heading_FR" or "heading_EN" for the fist image. This is text explaining the corresponence, and will be included in the spreadsheet if it needs to be added to this column. [Note: if there isn't a heading, we don't want to delete this column- rather, just leave it blank. This will make it easier if we decide to go back and add a heading later.] Then, in the spreadsheet, add the transcript of the letter under "text_EN" and "text_FR" for english and french versions. Fill out the date and address columns when this information is available [Note: we are including both an English and a French date, but are not translating the addresses into English.]-->
+<!-- 2.Then, change only one item in the section below: 'for item in site.data.muller_correspondence': change "muller_correspondence" to the name of the CSV you created > this is pointing to the spreadsheet file in that "data" folder. If you have kept the name of the columns consistent/as suggested above, this should work. If you have changed the column names in the CSV file (spreadsheet), you will need to change the  item.x  variables in the below code, as in the photo album.-->
 
   <a name= "correspondence"><div class="carousel-letter-body">
     <div class="carousel-letter">
@@ -148,31 +148,34 @@ layout: default_fr
         </span>
       </div>
         {% for item in site.data.muller_correspondence %}
-        <div class="carousel-letter-item">
-          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
-          <div class="carousel-letter-item__info">
-            <div class="carousel-item__container">
-              {% if item.title %}
-                <h2 class="carousel-item__subtitle">{{item.title}}</h2>
-              {% endif %}
-              {% if item.date_FR %}
-              <p class="carousel-item__date">{{item.date_FR}}</p>
-              {% endif %}
-              <div class="addresses">
-                {% if item.address_sender %}
-                  <p class="carousel-item__address">{{item.address_sender}}</p>
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title">{{item.title}}</h1>-->
+                {% if item.title %}
+                  <h2 class="carousel-item__subtitle">{{item.title}}</h2>
                 {% endif %}
-                {% if item.address_recipient %}
-                  <p class="carousel-item__address">{{item.address_recipient}}</p>
-                {% endif %}  
+                {% if item.date_FR %}
+                <p class="carousel-item__date">{{item.date_FR}}</p>
+                {% endif %}
+                <div class="addresses">
+                  {% if item.address_sender %}
+                    <p class="carousel-item__address">{{item.address_sender}}</p>
+                  {% endif %}
+                  {% if item.address_recipient %}
+                    <p class="carousel-item__address">{{item.address_recipient}}</p>
+                  {% endif %}  
+                </div>
+                <p class="carousel-item__description">{{ item.text_FR }}</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                {% if item.toggle == "yes" %}
+                  <button onclick="toggle()">Flip the letter over!</button>
+                {% endif %}
               </div>
-              <p class="carousel-item__description">{{ item.text_FR }}</p>
-              {% if item.toggle == "yes" %}
-                <button onclick="toggle()">Flip the letter over!</button>
-              {% endif %}
             </div>
           </div>
-        </div>
         {% endfor %}
     </div>
   </div></a>
