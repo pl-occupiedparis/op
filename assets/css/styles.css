@@ -1198,6 +1198,13 @@ pn-body {
     align-self: flex-start;
 }
 
+.pn-image-reiman {
+  margin: 20px 8% 0 0;
+    width: 40%;
+    object-fit: contain;
+    align-self: flex-start;
+}
+
 .pn-image-blog {
   display: flex;  
   align-items: center;
@@ -1262,6 +1269,7 @@ pn-body {
   padding: 10px;
   align-items: center;
 }
+
 
 
 .pn-text-bio header {
