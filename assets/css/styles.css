@@ -869,6 +869,12 @@
     background-position: 0% 55%;
   }
 
+  .banner-fchristophe {
+    background-image: url("/assets/images/christophe/christophe_banner.png");
+    background-size: cover;
+    background-position: 0% 40%;
+  }
+
   .banner-jedinak {
     background-image: url("/assets/images/jedinak/rachel1944.jpeg");
     background-size: cover;
@@ -1207,6 +1213,13 @@ pn-body {
 .pn-image-reiman {
   margin: 20px 8% 0 0;
     width: 35%;
+    object-fit: contain;
+    align-self: flex-start;
+}
+
+.pn-image-christophe {
+  margin: 20px 8% 0 0;
+    width: 42%;
     object-fit: contain;
     align-self: flex-start;
 }
