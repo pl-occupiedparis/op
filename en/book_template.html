@@ -27,10 +27,7 @@ layout: default
     <img class="pn-image-christophe" src="/assets/images/christophe/1938francine_cropped.png">
     <div class="pn-text-bio">
       <header>[Name] Family</header>
-      <p>The Christophe family lives at 106 rue Cardinet in the 17th arrondissement. Robert and Marcelle come from the so-called Israelite, secular and republican bourgeoisie. With their only daughter, Francine, they form a close-knit family. </p>
-      <p>In the summer of 1940, Robert was captured and sent to a prison camp in Austria. In Paris, mother and daughter had to face the rampant anti-Semitic measures. At the end of July 1942, they tried to flee to the free zone. Arrested by the Germans in La Rochefoucauld, they were tossed from one French camp to another. Their status as spouse and daughter of a prisoner of war made them hostages, protecting them from deportation... until May 2, 1944 when they were taken to the Bergen-Belsen camp. There, Francine experienced the unspeakable. The family was finally reunited in June 1945. They returned to a Paris that had been liberated a year earlier, where things had returned to normal and there was no mention of the Shoah. "After the camps, life goes on" but how can one live like others when one has experienced the unimaginable? How to keep one's own memories and those of others who cannot share them when no one wants to hear them?</p>
-      <p>For a while, Francine scribbled down what haunted her and what came back to her on scraps of paper that she carefully put away. In 1967, she begins her stichwork: she reassembles her story by connecting all these scattered texts. This was to become the framework of her book From a World Apart. A Little Girl in the Concentration Camps published in 1996. </p>
-      <p>In 1995, Francine participated in the Shoah Foundation's initiative and told her story. Since then, she has continued to write and testify. Through her story, we discover not only a facet of history, but above all, we discover people, full of life, whose existence was erased. Or at least this is what some wanted but Francine is working to prevent it to happen. </p>
+      <p>[text]</p>
     </div>
   </div></a>
 
@@ -54,9 +51,8 @@ layout: default
 
   <a name= "testimony"><div class="pn-container-section-white">
     <div class="pn-text">
-      <h3>Testimony from Francine Christophe</h3>
-      <p>In 1995, Francine gave her testimony to the Shoah Foundation. The text below is a translation of her testimony, interspersed with excerpts from her parents' memoirs Une famille dans la guerre (1940-1945). This three-voice narrative attempts to reconstruct the historical and personal events experienced by the family. It also attempts to capture the inexhaustible love that bound together this trio, whose motto was, despite everything, "Life is beautiful".</p>    
-      <p>This document is only a fragment of the memorial tapestry that Francine has been weaving ever since. When tied to the books she would later publish, it becomes the canvas on which the "privileged little girl" was able to bring the unimaginable to life so that it could not be erased and conveniently forgotten.</p>  
+      <h3>Testimony from [name]</h3>
+      <p>[Text]</p>    
       <a href="/en/testimony/fchristophe.html" target="blank">
         <button>Read the testimony</button>
       </a>
@@ -68,7 +64,7 @@ layout: default
 
 
   <a name= "timeline"><div class="pn-container-section-embed">
-    <h2>The Christophe Family's Timeline</h2>
+    <h2>The [name] Family's Timeline</h2>
 
     <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16nxKGfdnaep9ydD3yQDg0jNvMMlTaXqRmU_vQOPRmDM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>  
   <br>
@@ -77,15 +73,15 @@ layout: default
   <!--Switch the name in both the header section and introductory section paragraph. Then, include the neatline *fullscreen* link to both the iframe section below and button section below. To find this correct link, find the neatline map online (link provided by Melanie/spreadsheet), then click "view fullscreen." Copy and paste the url from that fulscreen display. -->
 
   <a name= "map"><div class="pn-container-section-embed"></a>
-    <h2>Christophe Family Map</h2>
-    <p>Click on the points on the map to follow the Christophe family's story within the Parisian landscape.</p>
+    <h2>[Name] Family Map</h2>
+    <p>Click on the points on the map to follow the [name] family's story within the Parisian landscape.</p>
     <br>
     <div class="embed_map">
       <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/francine-christophe" width="100%" height="700" frameborder="0"></iframe>
     </div>
     <br>
     <div class="embed_map_button">
-      <a href="https://pennds.org/melanieperon/neatline/fullscreen/francine-christophe" target="blank">
+      <a href="https://pennds.org/melanieperon/neatline/fullscreen/francine-christophe" target="_blank">
         <button>Fullscreen</button>
       </a>  
     </div>
@@ -96,6 +92,41 @@ layout: default
 <!--Photos-->
 <!--1. Create a spreadsheet for each photo carousel. Find a blank version in folder named "data", which is outside the EN and FR subfolders. The easiest way to do this is create a Google Sheets with five columns: "title_EN", "title_FR", "image", "caption_EN", and "caption_FR". You will only fill out either "title_EN" and "title_FR" for the *first* photo. This will be the title of the entire photo album. For "title_EN", "Photo Album." For "title_FR", "Album Photo." Ignore the "title" columns for the rest of the photos. For each photo, add a new row. Under the "image" column: after you add all the photos into a new folder in the "assets/images/" folder, then add the url of the image to the column, including any .jpg, .jpeg, or .png tag. For example, the url might look like this: "/assets/images/muller/carousel/1930RachelManek.jpeg". Then, add the english and the french captions to the "caption_EN" and "caption_FR" (respectively).--> 
 <!--2. Then, change only one item in the section below:  'for item in site.data.muller_carousel': change "muller_carousel" to the name of the CSV you created > this is pointing to the spreadsheet file in that "data" folder. If you have kept the name of the columns consistent/as suggested above, this should work. The code below is pointing to those columns by refering to "item.image and item.title_FR and item.title_FR".  -->
+
+<a name="photos">
+  <div class="carousel-body">
+    <div class="carousel">
+      <div class="carousel__nav">
+       <span id="moveLeft" class="carousel__arrow">
+            <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
+        <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
+    </svg>
+        </span>
+        <span id="moveRight" class="carousel__arrow" >
+          <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
+      <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
+    </svg>    
+        </span>
+      </div>
+        {% for item in site.data.muller_carousel %}
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('{{ item.image }}');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title">{{item.title}}</h1>-->
+              {% if item.title %}
+                <h2 class="carousel-item__subtitle">{{item.title}}</h2>
+              {% endif %}
+              <p class="carousel-item__description">{{ item.caption_EN }}</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+    </div>
+  </div>
+</a>
 
 
 <!--Correspondence / Carousel of Letters -->
@@ -146,36 +177,35 @@ layout: default
 
 
   
-<a name="blog">
-  <div class="pn-container-section-white-blog">
-    
-    <div class="pn-text-blog">
-      <h3>Blog de [name]</h3>
-      <p>[Description text.]</p>
-      <a href="/blogs/muller.html" target="blank">
-        <button>Lire le blog</button>
-      </a>
-    </div>
-    <div class="pn-image-blog">
-      <img class="pn-image-blog-background" src="/assets/images/muller/blog/Henri_plaque.jpeg"></img>
-    </div>
-  </div>
-</a>
-
-
-
+  <a name="blog">
+    <div class="pn-container-section-white-blog">
       
+      <div class="pn-text-blog">
+        <h3>Blog Post by Mélanie</h3>
+        <p>[Introductory text]</p> 
+        <a href="/en/blogs/muller.html" target="_blank">
+          <button>Read the Blog</button>
+        </a>
+      </div>
+      <div class="pn-image-blog">
+        <img class="pn-image-blog-background" src="/assets/images/muller/blog/Henri_plaque.jpeg"></img>
+      </div>
+    </div>
+  </a>
+  
+
+
+
 <!--Video-->
 <!--If there is no video, delete this section. If there is a video, change the name in the header (h2) and then add the "embed iframe JS" link of the video from Kalutra.-->
 
 <br>
-    <a name= "video"><div class="pn-container-section-embed">
-      <h2>Vidéo mettant en vedette [name]</h2><br>
-      <div style="max-width:660px"><div style="position:relative;padding-bottom:66.118421052632%">
-        <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_6siz5nk6&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ieqh8ez0" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
-      </div></div>
-    </div></a>
-    <br>
+<a name= "video"><div class="pn-container-section-embed">
+  <h2>Video featuring [name]</h2><br>
+  <div style="max-width:660px"><div style="position:relative;padding-bottom:66.118421052632%">
+    <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_6siz5nk6&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ieqh8ez0" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
+  </div></div>
+</div></a>
 
 <!--Resources, Additional Reading, Videos, and Additional Links -->
 <!-- There are four section below, all of which include links either internal to the website (i.e., pointing to another page you have created, such as a "full testimony page") or external to the website (provided by Melanie in the spreadsheet). -->
