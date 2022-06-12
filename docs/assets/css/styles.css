@@ -863,6 +863,12 @@
     background-position:0% 45%;
   }
 
+  .banner-areiman {
+    background-image: url("/assets/images/reiman/banner_arlette_vha.png");
+    background-size: cover;
+    background-position: 0% 55%;
+  }
+
   .banner-jedinak {
     background-image: url("/assets/images/jedinak/rachel1944.jpeg");
     background-size: cover;
@@ -1200,7 +1206,7 @@ pn-body {
 
 .pn-image-reiman {
   margin: 20px 8% 0 0;
-    width: 40%;
+    width: 35%;
     object-fit: contain;
     align-self: flex-start;
 }
