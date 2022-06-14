@@ -835,12 +835,19 @@
   }
 
   .banner-contributors {
-    background-image: url("/assets/images/banner_images/banner_image_2.jpg");
+    background-image: url("/assets/images/banner_images/contributionsbanner.png");
     background-size: cover;
     background-position:0% 87%;
     /* background-image: url("/assets/images/banner_images/bluewhite.png");
     background-size: cover;
     background-position:0% 50%; */
+
+  }
+
+  .banner-error {
+    background-image: url("/assets/images/banner_images/banner_image_2.jpg");
+    background-size: cover;
+    background-position:0% 87%;
 
   }
 
