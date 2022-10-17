@@ -20,7 +20,7 @@ Oral History | VHA Interview Code: 3374
 
 <a href="https://vha-usc-edu.proxy.library.upenn.edu/viewingPage?testimonyID=3494&returnIndex=0" target="_blank">Watch the full interview in French</a>
 </div>
-<embed src="/assets/pdf/Muller_narrative_composite.pdf" width="80%" height="800vh"
+<embed src="{{site.baseurl}}/assets/pdf/Muller_narrative_composite.pdf" width="80%" height="800vh"
  type="application/pdf">
 
 # Interview with Annette Bessmann née Muller

@@ -482,30 +482,30 @@
   }
 
   .globe {
-    background-image: url("/assets/images/book_images/atlas_r.jpg"); 
+    background-image: url("../images/book_images/atlas_r.jpg"); 
     background-size: cover;   
   }
 
   .book {
-    background-image: url(/assets/images/book_images/project_r.jpg);
+    background-image: url(../images/book_images/project_r.jpg);
     background-size: cover;   
 
   }
 
   .map {
-    background-image: url(/assets/images/book_images/map_r.jpg);
+    background-image: url(../images/book_images/map_r.jpg);
     background-size: cover;   
 
   }
 
   .muller {
-    background-image: url("/assets/images/book_images/annette-muller-cover.jpg");
+    background-image: url("../images/book_images/annette-muller-cover.jpg");
     background-size: cover;
 
   }
 
   .christophe {
-    background-image: url("/assets/images/book_images/francine-christophe-cover.jpg");
+    background-image: url("../images/book_images/francine-christophe-cover.jpg");
     background-size: cover;
 
   }
@@ -513,79 +513,79 @@
 
 
   .reiman {
-    background-image: url("/assets/images/book_images/arlette-reiman-cover.jpg");
+    background-image: url("../images/book_images/arlette-reiman-cover.jpg");
     background-size: cover;
   }
 
   .bessmann {
-    background-image: url("/assets/images/book_images/bessmann.jpg");
+    background-image: url("../images/book_images/bessmann.jpg");
     background-size: cover;
   }
 
   .chapiro {
-    background-image: url("/assets/images/book_images/chapiro.jpg");
+    background-image: url("../images/book_images/chapiro.jpg");
     background-size: cover;
   }
 
   .dalsace {
-    background-image: url("/assets/images/book_images/dalsace.jpg");
+    background-image: url("../images/book_images/dalsace.jpg");
     background-size: cover;
   }
 
   .duval {
-    background-image: url("/assets/images/book_images/duval.jpeg");
+    background-image: url("../images/book_images/duval.jpeg");
     background-size: cover;
   }
 
   .lorch {
-    background-image: url("/assets/images/book_images/lorch.jpg");
+    background-image: url("../images/book_images/lorch.jpg");
     background-size: cover;
   }
 
   .montard {
-    background-image: url("/assets/images/book_images/montard.jpg");
+    background-image: url("../images/book_images/montard.jpg");
     background-size: cover;
   }
 
   .mora {
-    background-image: url("/assets/images/book_images/mora.jpg");
+    background-image: url("../images/book_images/mora.jpg");
     background-size: cover;
   }
 
   .testyler {
-    background-image: url("/assets/images/book_images/testyler.jpg");
+    background-image: url("../images/book_images/testyler.jpg");
     background-size: cover;
   }
 
 
 
   .bernheim {
-    background-image: url("/assets/images/book_images/francoise-bernheim-cover.jpg");
+    background-image: url("../images/book_images/francoise-bernheim-cover.jpg");
     background-size: cover;
   }
 
   .berr {
-    background-image: url("/assets/images/book_images/helene-berr-cover.jpg");
+    background-image: url("../images/book_images/helene-berr-cover.jpg");
     background-size: cover;
   }
 
   .jacobson {
-    background-image: url("/assets/images/book_images/louise-jacobson-cover.jpg");
+    background-image: url("../images/book_images/louise-jacobson-cover.jpg");
     background-size: cover;
   }
 
   .cohen {
-    background-image: url("/assets/images/book_images/marcel-cohen-cover.jpg");
+    background-image: url("../images/book_images/marcel-cohen-cover.jpg");
     background-size: cover;
   }
 
   .psankiewicz {
-    background-image: url("/assets/images/book_images/rachel-jedinak-cover.jpg");
+    background-image: url("../images/book_images/rachel-jedinak-cover.jpg");
     background-size: cover;
   }
 
   .lichtsztejn {
-    background-image: url("/assets/images/book_images/sarah-montard-cover.jpg");
+    background-image: url("../images/book_images/sarah-montard-cover.jpg");
     background-size: cover;
   }
 
@@ -822,81 +822,81 @@
 
 
   .banner-about {
-    background-image: url("/assets/images/banner_images/banner_image_1.jpg");
+    background-image: url("../images/banner_images/banner_image_1.jpg");
     background-size: cover;
     background-position:0% 80%;
 
   }
   .banner-author {
-    background-image: url("/assets/images/banner_images/banner-author.jpg");
+    background-image: url("../images/banner_images/banner-author.jpg");
     background-size: cover;
     background-position:0% 80%;
 
   }
 
   .banner-contributors {
-    background-image: url("/assets/images/banner_images/contributionsbanner.png");
+    background-image: url("../images/banner_images/contributionsbanner.png");
     background-size: cover;
     background-position:0% 87%;
-    /* background-image: url("/assets/images/banner_images/bluewhite.png");
+    /* background-image: url("../images/banner_images/bluewhite.png");
     background-size: cover;
     background-position:0% 50%; */
 
   }
 
   .banner-error {
-    background-image: url("/assets/images/banner_images/banner_image_2.jpg");
+    background-image: url("../images/banner_images/banner_image_2.jpg");
     background-size: cover;
     background-position:0% 87%;
 
   }
 
   .banner-muller-blog {
-    background-image: url("/assets/images/muller/blog/bistro_mural.png");
+    background-image: url("../images/muller/blog/bistro_mural.png");
     background-size: cover;
     background-position:0% 80%;
 
   }
 
   .banner-amonod {
-    background-image: url("/assets/images/banner_images/baraque.jpeg");
+    background-image: url("../images/banner_images/baraque.jpeg");
     background-size: cover;
     background-position:0% 45%;
   }
 
   .banner-amuller {
-    background-image: url("/assets/images/muller/testimony/petite_fille.png");
+    background-image: url("../images/muller/testimony/petite_fille.png");
     background-size: cover;
     background-position:0% 45%;
   }
 
   .banner-areiman {
-    background-image: url("/assets/images/reiman/banner_arlette_vha.png");
+    background-image: url("../images/reiman/banner_arlette_vha.png");
     background-size: cover;
     background-position: 0% 55%;
   }
 
   .banner-fchristophe {
-    background-image: url("/assets/images/christophe/christophe_banner.png");
+    background-image: url("../images/christophe/christophe_banner.png");
     background-size: cover;
     background-position: 0% 40%;
   }
 
   .banner-jedinak {
-    background-image: url("/assets/images/jedinak/rachel1944.jpeg");
+    background-image: url("../images/jedinak/rachel1944.jpeg");
     background-size: cover;
     background-position:0% 30%;
   }
 
   .banner-michel {
-    background-image: url("/assets/images/banner_images/banner-michel.jpg");
+    background-image: url("../images/banner_images/banner-michel.jpg");
     background-size: cover;
     background-position: 0% 45%;
 
   }
 
   .banner-context {
-    background-image: url("/assets/images/headers/context-banner.jpg");
+    background-image: url("../images/headers/context-banner.jpg");
     background-size: cover;
     background-position:0% 30%;
 
@@ -1651,16 +1651,16 @@ position: relative;
 
 
 /* .carousel-item--1 .carousel-item__image{
-  background-image: url('/assets/images/muller/letters/28_juillet_1942_back.JPG');
+  background-image: url('../images/muller/letters/28_juillet_1942_back.JPG');
 }
 
 
 .carousel-item--2 .carousel-item__image{
-  background-image: url('/assets/images/muller/letters/carte_23.8.1942.jpg');
+  background-image: url('../images/muller/letters/carte_23.8.1942.jpg');
 }
 
 .carousel-item--3 .carousel-item__image{
-  background-image: url('/assets/images/muller/letters/carte_7.9.42_a.jpg');
+  background-image: url('../images/muller/letters/carte_7.9.42_a.jpg');
 }
 
 .carousel-item--4 .carousel-item__image{
