@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://kit.fontawesome.com/5409614f24.js" crossorigin="anonymous"></script>
+  </head>
+
+  <body>
+    <ul class="navigation">    
+    <div class="site-header">
+      <div class="site-header__wrapper">
+        <div class="header-title">
+          <a href="/en/" class="brand"><img src="/assets/images/headers/header_2.png"  height="80px" alt="brand" /></a>
+        </div>
+        <div class="pages-navigation">
+          <ul class="navbar-nav">
+            <div class="nav-item">
+              <a href="/en/map.html">Map</a>
+            </div>
+            <div class="nav-item">
+              <a href="/en/atlas.html">Atlas</a>
+            </div>
+            <div class="nav-item has-dropdown">
+              <a href="/en/about.html">About</a>
+              <ul class="dropdown">
+                <div class="dropdown-item">
+                  <a href="/en/about.html">The Project</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="/en/author.html">About the Author</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="/en/context.html">Historical Context</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="/en/contributors.html">Contributors</a>
+                </div>
+
+              </ul>
+            </div>
+            <div class="nav-item">
+              <a href="/fr/atlas-safe.html"><i class="fa fa-solid fa-globe"></i></a>
+
+            </div>
+
+
+
+
+          </ul>
+
+
+        </div>
+    </div>
+    
+</ul>
+    <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Atlas of Personal Maps</title>
+</head>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Atlas of Personal Maps</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+
+  <div class="navbar-atlas" id="bar-items" style="text-align: center;">
+    <a class = "toggleButton" id="muller-map" onclick="switchMap(this.id)"></h1>Henri Muller</a>
+    <a class = "toggleButton" id="francine-lorch" onclick="switchMap(this.id)"></h1>Lorch</a>
+    <a class = "toggleButton" id="nathan-spiewak" onclick="switchMap(this.id)"></h1>Spiewak</a>
+    <a class = "toggleButton" id="kofman" onclick="switchMap(this.id)"></h1>Kofman</a>
+    <a class = "toggleButton" id="perec" onclick="switchMap(this.id)"></h1>Perec</a>
+    <a class = "toggleButton" id="heleneberr" onclick="switchMap(this.id)"></h1>Berr</a>
+    <a class = "toggleButton" id="rachel-jedinak" onclick="switchMap(this.id)"></h1>Jedinak</a>
+    <a class = "toggleButton" id="mirka-mora-paris-map" onclick="switchMap(this.id)"></h1>Mirka</a>
+  </div>
+
+  <body>
+    <div id="map" style="text-align: center;">
+      <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit" width="95%" height="700vh" frameborder="0"></iframe>
+    </div><br>
+    <div class="iframe-wrapper">
+      <p>
+        <div id="full" class="button">
+          <a href="https://pennds.org/melanieperon/neatline/fullscreen/test-exhibit-1" target="blank">
+            <button>Fullscreen Map</button></a>
+        </div>  
+      </p>  
+      </div>
+  </body>
+
+<script>
+
+document.getElementsByClassName("toggleButton").onclick = console.log(this.id); 
+
+
+
+
+
+function switchMap(id){
+  let map = document.getElementById("map");
+	map.innerHTML = "<iframe src='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' width='95%' height='700vh' frameborder='0'></iframe>"
+  let full = document.getElementById("full");
+	full.innerHTML = "<a href='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' target='blank'> <button>Fullscreen Map</button></a>"
+}
+
+// function switchFull(id){
+//   let full = document.getElementById("full");
+// 	full.innerHTML = "<a href='https://pennds.org/melanieperon/neatline/fullscreen/" + id +"' target='blank' <button>Fulscreen Map</button></a>>"
+// }
+
+
+
+</script>
+
+
+  <!--  make height and width 90%  --> 
+
+  </body>
+</html>
+

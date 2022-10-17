@@ -1,0 +1,1449 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://kit.fontawesome.com/5409614f24.js" crossorigin="anonymous"></script>
+  </head>
+
+  <body>
+    <ul class="navigation">    
+    <div class="site-header">
+      <div class="site-header__wrapper">
+        <div class="header-title">
+          <a href="/en/" class="brand"><img src="/assets/images/headers/header_2.png"  height="80px" alt="brand" /></a>
+        </div>
+        <div class="pages-navigation">
+          <ul class="navbar-nav">
+            <div class="nav-item">
+              <a href="/en/map.html">Map</a>
+            </div>
+            <div class="nav-item">
+              <a href="/en/atlas.html">Atlas</a>
+            </div>
+            <div class="nav-item has-dropdown">
+              <a href="/en/about.html">About</a>
+              <ul class="dropdown">
+                <div class="dropdown-item">
+                  <a href="/en/about.html">The Project</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="/en/author.html">About the Author</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="/en/context.html">Historical Context</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="/en/contributors.html">Contributors</a>
+                </div>
+
+              </ul>
+            </div>
+            <div class="nav-item">
+              <a href="/fr/book_template.html"><i class="fa fa-solid fa-globe"></i></a>
+
+            </div>
+
+
+
+
+          </ul>
+
+
+        </div>
+    </div>
+    
+</ul>
+    <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Biography</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+  </head>
+
+  <br>
+  <br>
+
+  <!-- Intro Bio section-->
+  <!-- Chance "src" of image to correct image, stored in assets/images/book_images. Change "header" to either individual name or family name. In paragraph (<p></p>) section, paste in bio. Include new paragraph line (with corresponding <p></p> tags) for each paragarph. -->
+
+  <a name= "biography"><div class="pn-container">
+    <img class="pn-image-christophe" src="/assets/images/christophe/1938francine_cropped.png">
+    <div class="pn-text-bio">
+      <header>[Name] Family</header>
+      <p>[text]</p>
+    </div>
+  </div></a>
+
+  <!-- Table of Contents -->
+  <!-- The <a href="#" needs to correspond to the "a name" for each section. Place in order of contents in this book.  -->
+
+  <div class="navbar-pn" id="bar-items">
+    <a href="#biography">Biography</a>
+    <a href="#testimony">Testimony</a>
+    <a href="#timeline">Timeline</a>
+    <a href="#map">Map</a>
+    <a href="#photos">Photo Album</a>
+    <a href="#correspondence">Correspondence</a>
+    <a href="#blog">Blog</a>
+    <a href="#video">Video</a>
+    <a href="#resources">Resources</a>
+  </div>
+  
+<!-- Testimony -->
+<!-- Insert name and text introducing testimony. Change link to point to the correct html testimony file [must create this seperately] -->
+
+  <a name= "testimony"><div class="pn-container-section-white">
+    <div class="pn-text">
+      <h3>Testimony from [name]</h3>
+      <p>[Text]</p>    
+      <a href="/en/testimony/fchristophe.html" target="blank">
+        <button>Read the testimony</button>
+      </a>
+    </div>
+  </div></a>
+
+  <!--Timeline-->
+  <!--include the correct embed link, provided in spreadsheet / by Melanie-->
+
+
+  <a name= "timeline"><div class="pn-container-section-embed">
+    <h2>The [name] Family's Timeline</h2>
+
+    <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16nxKGfdnaep9ydD3yQDg0jNvMMlTaXqRmU_vQOPRmDM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>  
+  <br>
+
+  <!--Map-->
+  <!--Switch the name in both the header section and introductory section paragraph. Then, include the neatline *fullscreen* link to both the iframe section below and button section below. To find this correct link, find the neatline map online (link provided by Melanie/spreadsheet), then click "view fullscreen." Copy and paste the url from that fulscreen display. -->
+
+  <a name= "map"><div class="pn-container-section-embed"></a>
+    <h2>[Name] Family Map</h2>
+    <p>Click on the points on the map to follow the [name] family's story within the Parisian landscape.</p>
+    <br>
+    <div class="embed_map">
+      <iframe src="https://pennds.org/melanieperon/neatline/fullscreen/francine-christophe" width="100%" height="700" frameborder="0"></iframe>
+    </div>
+    <br>
+    <div class="embed_map_button">
+      <a href="https://pennds.org/melanieperon/neatline/fullscreen/francine-christophe" target="_blank">
+        <button>Fullscreen</button>
+      </a>  
+    </div>
+  </div></a>
+
+  <br>
+
+<!--Photos-->
+<!--1. Create a spreadsheet for each photo carousel. Find a blank version in folder named "data", which is outside the EN and FR subfolders. The easiest way to do this is create a Google Sheets with five columns: "title_EN", "title_FR", "image", "caption_EN", and "caption_FR". You will only fill out either "title_EN" and "title_FR" for the *first* photo. This will be the title of the entire photo album. For "title_EN", "Photo Album." For "title_FR", "Album Photo." Ignore the "title" columns for the rest of the photos. For each photo, add a new row. Under the "image" column: after you add all the photos into a new folder in the "assets/images/" folder, then add the url of the image to the column, including any .jpg, .jpeg, or .png tag. For example, the url might look like this: "/assets/images/muller/carousel/1930RachelManek.jpeg". Then, add the english and the french captions to the "caption_EN" and "caption_FR" (respectively).--> 
+<!--2. Then, change only one item in the section below:  'for item in site.data.muller_carousel': change "muller_carousel" to the name of the CSV you created > this is pointing to the spreadsheet file in that "data" folder. If you have kept the name of the columns consistent/as suggested above, this should work. The code below is pointing to those columns by refering to "item.image and item.title_FR and item.title_FR".  -->
+
+<a name="photos">
+  <div class="carousel-body">
+    <div class="carousel">
+      <div class="carousel__nav">
+       <span id="moveLeft" class="carousel__arrow">
+            <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
+        <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
+    </svg>
+        </span>
+        <span id="moveRight" class="carousel__arrow" >
+          <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
+      <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
+    </svg>    
+        </span>
+      </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/1930RachelManek.jpeg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Rachel and Manek circa 1930</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/1934_enfants_Manek.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Paris, 1934 - Manek, Henri, Jean, Annette and a childhood friend in the Square des Envierges. Picture taken by Rachel.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/1934_enfants_Rachel.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Paris, 1934 - Rachel, Henri, Jean, Annette and a childhood friend in the Square des Envierges. Picture taken by Manek.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Pierre.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Manek's brother, Pierre Schneps. He lived in Paris and survived the war.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Chana_Schneps.jpeg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Manek's sister, Chana Schneps. She was murdered in Poland in 1942.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Elek_Schneps.jpeg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Manek's youngest brother, Elek Schneps. He was murdered in Poland in 1942.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/1940_Biez.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Biez-en-Belin, Fall 1940 - Rachel and her children in the village where they took refuge in 1940. Picture taken by a German soldier.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Soeur_Clotilde.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Sister Clotilde who saved the Muller children.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Lamarck_Annette_Michel.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Front row, very middle: Annette and Michel at the Lamarck Asylum after getting out the Drancy camp in September 1942</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/1942_Annette_Ruban.png');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Paris, November 1942 - The four siblings are finally reunited. Annette wears the bow Sister Clotilde made to hide her shaved head.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Henri_Jean_Hay.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">L'Haÿ-les-Roses, May 1943 - Communion of Jean and Henri </p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Henri_Drouilly.png');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Drouilly, 1944 -  Henri (front row, first on the left), Jean (back row)</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Annette_St_Remy.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">St-Rémy, 1944 - Annette (front row, second from right)</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Manek_zone_libre_2.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Toulouse, 1944 - Manek after escaping from the work camp.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/1945_enfants.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Le Mans, 1945 - Château de Méhoncourt run by the Jewish charity organization O.S.E. (Oeuvre de secours aux enfants)</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/1945_enfants_Manek.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Le Mans, 1945 -  first postwar picture of Manek with his four children </p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Annette_Henri_1945.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Le Mans, 1945 - Annette and Henri</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Manek_rue_de_lavenir_2.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Paris, 1945 - Manek back at 3 rue de l'Avenir</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Annette_Communion.png');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">St-Rémy, April 1945 - Communion of Annette</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/1947_Annette.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Paris, 1947 - Annette at 3 rue de l'Avenir</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div class="carousel-item__image" style="background-image:url('/assets/images/muller/carousel/Pauline_Kleinman.jpg');background-size:contain"></div>
+          <div class="carousel-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Pauline Kleinman whom Manek married in 1948</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+            </div>
+          </div>
+        </div>
+        
+    </div>
+  </div>
+</a>
+
+
+<!--Correspondence / Carousel of Letters -->
+<!-- 1. The process is very similar to the "photo album" section above. Create a google sheet with the following columns: image-front,image-back,toggle,title,heading_FR,date_FR,text_FR,heading_EN,date_EN,text_EN,address_sender,address_recipient. You can also see this under the file "correspondence_template" in the "data" folder. For the "image-front" and "image-back" columns, include the url of where the image is stored, for example, "/assets/images/muller/letters/28_juillet_1942.jpg" (remember to include .jpg or .jpeg tags). If there is no back image, leave the "image-back" column blank. If there *is* a back image, then write "yes" in the "toggle" column. Just like in the photo album, only include "title" for the very first image. The title should be "Family Correspondence". You will also only include a "heading_FR" or "heading_EN" for the fist image. This is text explaining the corresponence, and will be included in the spreadsheet if it needs to be added to this column. [Note: if there isn't a heading, we don't want to delete this column- rather, just leave it blank. This will make it easier if we decide to go back and add a heading later.] Then, in the spreadsheet, add the transcript of the letter under "text_EN" and "text_FR" for english and french versions. Fill out the date and address columns when this information is available [Note: we are including both an English and a French date, but are not translating the addresses into English.]-->
+<!-- 2.Then, change only one item in the section below: 'for item in site.data.muller_correspondence': change "muller_correspondence" to the name of the CSV you created > this is pointing to the spreadsheet file in that "data" folder. If you have kept the name of the columns consistent/as suggested above, this should work. If you have changed the column names in the CSV file (spreadsheet), you will need to change the  item.x  variables in the below code, as in the photo album.-->
+
+  <a name= "photos"><div class="carousel-letter-body">
+    <div class="carousel-letter">
+      <div class="carousel__nav">
+       <span id="letter-moveLeft" class="carousel__arrow">
+            <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
+        <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
+    </svg>
+        </span>
+        <span id="letter-moveRight" class="carousel__arrow" >
+          <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
+      <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
+    </svg>    
+        </span>
+      </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1914esthernordmann.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                  <h2 class="carousel-item__subtitle">Photo Album</h2>
+                
+                <p class="carousel-item__description"></p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1930mariagedanieletsuzanne_1.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1930 - Marcelle and Robert at the wedding of Daniel Christophe and Suzanne Bernheim.</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1930mariagedanieletsuzanne_2.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description"></p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1930mariagedanieletsuzanne.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1930 - Wedding of Marcelle and Robert</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1931estheretedmond.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1931 - Esther and Edmond Nordmann.  Francine's maternal grand-parents. Paris Colonial Exposition.</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1931estheretmarcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1931 - Marcelle and Esther at the Paris Colonial Exposition.</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1931marcelleparrobert.jpg');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1931 - Marcelle by Robert</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1931ninachristophe.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1931 - Nina Christophe. Francine's paternal grand-mother.</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1931ninaetmarcelle .png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1931 - Marcelle and Nina</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1931ninaetrobert.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1931 - Nina and her son Robert</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1932lunapark.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1932 - Marcelle and Robert at the Luna Park</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1933francinenaissance.jpg');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1933 - Birth of Francine on Georges Berger street</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1933francinepremieresortie.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1933 - Francine's first outing</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1934francineetrobert.jpg');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1934 - Francine in her father's arms</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+                  <button onclick="toggle()">Flip the letter over!</button>
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1934wimereuxfrancine.jpg');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1934 - Family vacations in Wimereux</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1934wimereux.jpg');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1934 - Family vacations in Wimereux</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1935beauchamps1.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1935 - Family vacation in La Ferté Saint-Bernard</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1935beauchamps2.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1935 - Family vacation in La Ferté Saint-Bernard</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1935cousines.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1935 - Francine and her cousins, Ginette and Marianne, daughters of Daniel Christophe's.</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1937francineetmarcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1937 - Francine and her mother</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1937francineetrobert.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1938 - Francine and her father</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1938edmondnordmann.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1938 - Edmond Nordmann </p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1938estheredmondfrancine.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1938 - Francine and her maternal grand-parents</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1938ruecardinet.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1938 - Francine in her bedroom on Cardinet street</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1938francinechambre.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description"></p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1938francinelit.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description"></p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1938francinedeuil.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1938 - Francine in mourning dress in memory of her grand-father Edmond.</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1939danielsuzanneninacharles.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1939 - Daniel and Suzanne Christophe with Nina Christophe and Charles Streiff in Nice</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1939mobilisation.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1939 - Robert in uniform</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1939francineetmarcellenice.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1939 - Francine and her mother in Nice</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1939francineetmarcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1939 - Francine and her mother in Monte-Carlo</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1939permissionnice.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1939 - Robert's leave in Nice</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1939rentreenice.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1939 - First day of school in Nice</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1939robertetfrancinenice.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1939 - Francine and her father in Nice</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1940robertcaptivite.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1940 - Robert after the defeat in Amiens and as a prisoner of war</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1941francineetmarcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1941</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1941francine.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1941</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1942esthermarcellefrancine.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1941 - Esther, Marcelle et Francine</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1942marcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1942</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1942marcellechezevard.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1942 - Easter at the Evards'</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1942marcelleetfrancine.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1942</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/etoilefrancine.jpg');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">Francine' star</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1945retour.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1945 - Return</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1945nicemarcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1945 - Marcelle in Nice</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1945nicerobertmarcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1945 - Nice</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1946parcmonceau.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1946 - Francine in the Monceau Park</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1948estheretlafamille.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1948</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1948francineetmarcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1948</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1948vacancesenfamille.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1948</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1948marcellerobertfrancine.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1948</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1948post-operation.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1948 - "After three years of suffering, Marcelle underwent a delicate surgery of her spine. Here she is in 1948, recovering, with Robert and Francine who is entering her fifteen year."</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/francinepary.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">circa 1952- Francine and Esther in front of the latter's boutique</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1955marcelleetclo.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1955 - Marcelle and Clo Avy in Grasse</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1955cloetmarcelle.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description"></p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1955marcelleetclo2.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description"></p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1955robertetclo.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">Robert and Clo</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+          <div class="carousel-letter-item">
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/christophe/album/1957mariagefrancine.png');background-size:contain" ></div>
+            <div class="carousel-letter-item__info">
+              <div class="carousel-item__container">
+                <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+                <h1 class="carousel-item__title"></h1>-->
+                
+                <p class="carousel-item__description">1957 - Wedding of Francine to Jean-Jacques Lorch</p>
+                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                
+              </div>
+            </div>
+          </div>
+        
+    </div>
+  </div></a>
+  <br>
+
+
+<!-- Blog -->
+<!--1. First, create the blog post. See the "blog_template" file under the folder "blogs"-->
+<!--2. In the section below, change the name in the hader (h3). Then, add the text introducing the blog in the paragraph section (<p>) creating multiple paragraphs if needed. If you cannot find an introductory text, leave this paragraph blank and let one of the project managers know. Change the src to point to the new file you have created in the "blogs" folder. Finally, replace the image src to point to an image associated with the blog (you will need to find this image in the spreadsheet, put it in the correct place under the "images" folder, make sure it is named without any spaces, and then change the src to point to where you have put that image).  -->
+
+
+  
+  <a name="blog">
+    <div class="pn-container-section-white-blog">
+      
+      <div class="pn-text-blog">
+        <h3>Blog Post by Mélanie</h3>
+        <p>[Introductory text]</p> 
+        <a href="/en/blogs/muller.html" target="_blank">
+          <button>Read the Blog</button>
+        </a>
+      </div>
+      <div class="pn-image-blog">
+        <img class="pn-image-blog-background" src="/assets/images/muller/blog/Henri_plaque.jpeg"></img>
+      </div>
+    </div>
+  </a>
+  
+
+
+
+<!--Video-->
+<!--If there is no video, delete this section. If there is a video, change the name in the header (h2) and then add the "embed iframe JS" link of the video from Kalutra.-->
+
+<br>
+<a name= "video"><div class="pn-container-section-embed">
+  <h2>Video featuring [name]</h2><br>
+  <div style="max-width:660px"><div style="position:relative;padding-bottom:66.118421052632%">
+    <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_6siz5nk6&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ieqh8ez0" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>
+  </div></div>
+</div></a>
+
+<!--Resources, Additional Reading, Videos, and Additional Links -->
+<!-- There are four section below, all of which include links either internal to the website (i.e., pointing to another page you have created, such as a "full testimony page") or external to the website (provided by Melanie in the spreadsheet). -->
+<!-- If not organized on the spreadsheet, these 4 sections will be up to your discretion. Read the following information and then decide where to include links. For each link, include a brief description (the title of the website, or what information is included in the spreadsheet), followed by a comma, and the link (src=the actual link, text = "here"). See first <p></p> of each section for how the link should be formatted.  -->
+<!-- 1. Ressources Supplementaries [Supplementary Resources]: Include all other testimonies or interviews here, whether from this site or external resources. If there are none, delete this section-->
+<!-- 2. Lecture Supplémentaire [Additional Reading]: All additional readings included by Melanie in the spreadsheet-->
+<!-- 3. Videos: If there are external videos, include here. If not, delete the section.-->
+<!-- 4. Liens Supplémentaires [Additional Links]: When the resource is not pointing to a specific page or reading [in supplementary resources], but is directing to a website (such as an organization's website) or online archive, include in this section. For this, you do not need to include a description: just include the name of the wesbite in the "text" of the URL. -->
+
+<a name= "resources"><div class="pn-container-section">
+  <div class="pn-text">
+    <h3>Supplementary Sources</h3>
+    <p>Read the full testimony from [name] <a href="/testimony/hmuller.html" target="_blank">here</a>.</p>
+
+    <br>
+
+    <h4>Additional Reading</h4>
+    <p>Description, <a href="link" target="_blank">here</a>.</p>
+    <br>
+
+    <h4>Videos</h4>
+    <p>Description: watch <a href="link" target="_blank">here</a>.</p>
+
+    <br>
+
+    <h4>Additional Links</h4>
+    <p><a href="link" target="_blank">[Title]</a></p>
+    <br>
+    <br>
+
+  </div>
+</div></a>
+
+
+<!-- *Do not change anything under this section* -->
+<!-- This controls the photo album and correspondence album -->
+
+<script>
+  let facingFront;
+  $(function(){
+  $('.carousel-item').eq(0).addClass('active');
+  var total = $('.carousel-item').length;
+  var current = 0;
+  $('#moveRight').on('click', function(){
+    var next=current;
+    current= current+1;
+    setSlide(next, current);
+  });
+  $('#moveLeft').on('click', function(){
+    var prev=current;
+    current = current- 1;
+    setSlide(prev, current);
+  });
+  function setSlide(prev, next){
+    var slide= current;
+    if(next>total-1){
+     slide=0;
+      current=0;
+    }
+    if(next<0){
+      slide=total - 1;
+      current=total - 1;
+    }
+           $('.carousel-item').eq(prev).removeClass('active');
+           $('.carousel-item').eq(slide).addClass('active');
+      setTimeout(function(){
+
+      },800);
+    
+
+    
+    console.log('current '+current);
+    console.log('prev '+prev);
+  }
+});
+
+$(function(){
+  $('.carousel-letter-item').eq(0).addClass('active');
+  var total = $('.carousel-letter-item').length;
+  var current = 0;
+  $('#letter-moveRight').on('click', function(){
+    var next=current;
+    current= current+1;
+    setSlide(next, current);
+  });
+  $('#letter-moveLeft').on('click', function(){
+    var prev=current;
+    current = current- 1;
+    setSlide(prev, current);
+  });
+  function setSlide(prev, next){
+    facingFront = true;
+    console.log(facingFront);
+    var slide= current;
+    if(next>total-1){
+     slide=0;
+      current=0;
+    }
+    if(next<0){
+      slide=total - 1;
+      current=total - 1;
+    }
+           $('.carousel-letter-item').eq(prev).removeClass('active');
+           $('.carousel-letter-item').eq(slide).addClass('active');
+           $('.carousel-item__image').eq(slide).addClass('active');
+      setTimeout(function(){
+
+      },800);
+    
+
+    
+    console.log('current '+current);
+    console.log('prev '+prev);
+  }
+});
+
+function toggle(){
+//select the parent element (carousel letter item)
+let imgElement = document.getElementsByClassName("carousel-letter-item active");
+//select the child element (the image div)
+imgElement = imgElement.item(0).childNodes[1];
+let url;
+//grab the backgroundImage property of the image div and save it in a variable
+let baseurl = imgElement.style.backgroundImage;
+
+if(baseurl.endsWith('_back.jpg")')==true){
+//if the back of the image is displaying
+  url = baseurl.substring(0,baseurl.length-11) + '.jpg")'
+  //remove the "back" part of the url so that the front displays
+}else{
+//if the front of the image is displaying, flip to back
+  url = baseurl.substring(0,baseurl.length-6) + '_back.jpg")';
+  //add the "back" part of the url so that the back displays
+}
+//set the image element style to reflect the new background image url
+imgElement.style = "background-image: "+ url ;
+
+}
+
+
+</script>  
+
+
+  </body>
+</html>
+
