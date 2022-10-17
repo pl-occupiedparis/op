@@ -10,7 +10,7 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Biography</title>
-  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
   <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -24,7 +24,7 @@ layout: default
   <!-- Chance "src" of image to correct image, stored in assets/images/book_images. Change "header" to either individual name or family name. In paragraph (<p></p>) section, paste in bio. Include new paragraph line (with corresponding <p></p> tags) for each paragarph. -->
 
   <a name= "biography"><div class="pn-container">
-    <img class="pn-image-christophe" src="/assets/images/christophe/1938francine_cropped.png">
+    <img class="pn-image-christophe" src="{{site.baseurl}}/assets/images/christophe/1938francine_cropped.png">
     <div class="pn-text-bio">
       <header>Bernheim Family</header>
       <p>[text]</p>
@@ -53,7 +53,7 @@ layout: default
     <div class="pn-text">
       <h3>Testimony from [name]</h3>
       <p>[Text]</p>    
-      <a href="/en/testimony/fchristophe.html" target="blank">
+      <a href="{{site.baseurl}}/en/testimony/fchristophe.html" target="blank">
         <button>Read the testimony</button>
       </a>
     </div>
@@ -110,7 +110,7 @@ layout: default
       </div>
         {% for item in site.data.muller_carousel %}
         <div class="carousel-item">
-          <div class="carousel-item__image" style="background-image:url('{{ item.image }}');background-size:contain"></div>
+          <div class="carousel-item__image" style="background-image:url('{{site.baseurl}}/{{ item.image }}');background-size:contain"></div>
           <div class="carousel-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
@@ -149,7 +149,7 @@ layout: default
       </div>
         {% for item in site.data.christophe_photosalbum %}
           <div class="carousel-letter-item">
-            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{site.baseurl}}/{{ item.image-front }}');;background-size:contain" ></div>
             <div class="carousel-letter-item__info">
               <div class="carousel-item__container">
                 <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
@@ -183,12 +183,12 @@ layout: default
       <div class="pn-text-blog">
         <h3>Blog Post by Mélanie</h3>
         <p>[Introductory text]</p> 
-        <a href="/en/blogs/muller.html" target="_blank">
+        <a href="{{site.baseurl}}/en/blogs/muller.html" target="_blank">
           <button>Read the Blog</button>
         </a>
       </div>
       <div class="pn-image-blog">
-        <img class="pn-image-blog-background" src="/assets/images/muller/blog/Henri_plaque.jpeg"></img>
+        <img class="pn-image-blog-background" src="{{site.baseurl}}/assets/images/muller/blog/Henri_plaque.jpeg"></img>
       </div>
     </div>
   </a>

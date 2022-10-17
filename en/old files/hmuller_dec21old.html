@@ -10,7 +10,7 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Biography</title>
-  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
   <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -21,7 +21,7 @@ layout: default
   <br>
 
   <a name= "biography"><div class="pn-container">
-    <img class="pn-image" src="/assets/images/book_images/muller.jpg">
+    <img class="pn-image" src="{{site.baseurl}}/assets/images/book_images/muller.jpg">
     <div class="pn-text-bio">
       <header>The Muller Family</header>
       <p>The Muller family lived at 3 rue de l'Avenir in the 20th arrondissement. Manek and Rachel emigrated from Poland in the 1930s and set up shop as home-based dressmakers. During the war, their four children - Henri, Jean, Annette and Michel - attended school on rue Olivier-Metra.</p>
@@ -77,7 +77,7 @@ layout: default
       </div>
         {% for item in site.data.muller_carousel %}
         <div class="carousel-item">
-          <div class="carousel-item__image" style="background-image:url('{{ item.image }}');background-size:contain"></div>
+          <div class="carousel-item__image" style="background-image:url('{{site.baseurl}}/{{ item.image }}');background-size:contain"></div>
           <div class="carousel-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
@@ -157,7 +157,7 @@ layout: default
       </div>
         {% for item in site.data.muller_correspondence %}
         <div class="carousel-letter-item">
-          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{site.baseurl}}/{{ item.image-front }}');;background-size:contain" ></div>
           <div class="carousel-letter-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>

@@ -10,7 +10,7 @@ layout: default_fr
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Biography</title>
-  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
   <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -21,7 +21,7 @@ layout: default_fr
   <br>
 
   <a name= "biography"><div class="pn-container">
-    <img class="pn-image" src="/assets/images/jedinak/carousel/Rachel1936.jpg">
+    <img class="pn-image" src="{{site.baseurl}}/assets/images/jedinak/carousel/Rachel1936.jpg">
     <div class="pn-text-bio">
       <header>Psankiewicz Family</header>
       <p>La famille Psankiewicz habite au 26 rue Duris dans le 20ème arrondissement. Abram et Chana ont émigré de Pologne au milieu des années 20. Ils se sont rencontrés à Paris où Chana et sa soeur Ruschka avaient décidé de faire escale avant d’émigrer aux Etats-Unis avec leurs parents. Chacune y a rencontré son futur mari. Elles sont ainsi restées en France. Abram et Chana ont deux filles, Louise et Rachel, qui fréquentent l’école de la rue de Tlemcen au moment de la guerre. </p>
@@ -119,7 +119,7 @@ layout: default_fr
       </div>
         {% for item in site.data.jedinak_images %}
         <div class="carousel-letter-item">
-          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{site.baseurl}}/{{ item.image-front }}');;background-size:contain" ></div>
           <div class="carousel-letter-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
@@ -149,12 +149,12 @@ layout: default_fr
         <div class="pn-text-blog">
           <h3>Billet de blog par Mélanie</h3>
           <p>Le soir du 15 juin 2019, j’ai consigné dans mon carnet Mnémosyne les détails de ma rencontre fortuite avec Rachel pour essayer d’en préserver la magie. Ce jour-là, j’ai eu l’impression qu’un insterstice, me permettant de me faufiler dans le passé, dans mon passé, s’était ouvert. Depuis, à chaque fois que nous nous téléphonons ou nous voyons, Rachel me refait le plus cadeau : elle me permet de revoir les yeux de ma grand-mère et de ressentir sa chaleur réconfortante.</p>
-          <a href="/fr/blogs/rachel.html" target="blank">
+          <a href="{{site.baseurl}}/fr/blogs/rachel.html" target="blank">
             <button>Lire le blog</button>
           </a>
         </div>
         <div class="pn-image-blog">
-          <img class="pn-image-blog-background" src="/assets/images/jedinak/blog/carte_rachel_2019.png"></img>
+          <img class="pn-image-blog-background" src="{{site.baseurl}}/assets/images/jedinak/blog/carte_rachel_2019.png"></img>
         </div>
       </div>
     </a>

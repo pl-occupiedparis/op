@@ -10,7 +10,7 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Biography</title>
-  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
   <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -24,7 +24,7 @@ layout: default
   <!-- Chance "src" of image to correct image, stored in assets/images/book_images. Change "header" to either individual name or family name. In paragraph (<p></p>) section, paste in bio. Include new paragraph line (with corresponding <p></p> tags) for each paragarph. -->
 
   <a name= "biography"><div class="pn-container">
-    <img class="pn-image-christophe" src="/assets/images/christophe/1938francine_cropped.png">
+    <img class="pn-image-christophe" src="{{site.baseurl}}/assets/images/christophe/1938francine_cropped.png">
     <div class="pn-text-bio">
       <header>Christophe Family</header>
       <p>The Christophe family lives at 106 rue Cardinet in the 17th arrondissement. Robert and Marcelle come from the so-called Israelite, secular and republican bourgeoisie. With their only daughter, Francine, they form a close-knit family. </p>
@@ -54,7 +54,7 @@ layout: default
       <h3>Testimony from Francine Christophe</h3>
       <p>In 1995, Francine gave her testimony to the Shoah Foundation. The text below is a translation of her testimony, interspersed with excerpts from her parents' memoirs Une famille dans la guerre (1940-1945). This three-voice narrative attempts to reconstruct the historical and personal events experienced by the family. It also attempts to capture the inexhaustible love that bound together this trio, whose motto was, despite everything, "Life is beautiful".</p>    
       <p>This document is only a fragment of the memorial tapestry that Francine has been weaving ever since. When tied to the books she would later publish, it becomes the canvas on which the "privileged little girl" was able to bring the unimaginable to life so that it could not be erased and conveniently forgotten.</p>  
-      <a href="/en/testimony/fchristophe.html" target="_blank">
+      <a href="{{site.baseurl}}/en/testimony/fchristophe.html" target="_blank">
         <button>Read the testimony</button>
       </a>
     </div>
@@ -115,7 +115,7 @@ layout: default
       </div>
         {% for item in site.data.christophe_photosalbum %}
           <div class="carousel-letter-item">
-            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');background-size:contain" ></div>
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{site.baseurl}}/{{ item.image-front }}');;background-size:contain" ></div>
             <div class="carousel-letter-item__info">
               <div class="carousel-item__container">
                 <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
