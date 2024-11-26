@@ -74,7 +74,7 @@ layout: default
       </div>
         {% for item in site.data.muller_carousel %}
         <div class="carousel-item">
-          <div class="carousel-item__image" style="background-image:url('{{site.baseurl}}/{{ item.image }}');background-size:contain"></div>
+          <div class="carousel-item__image" style="background-image:url('/{{ item.image }}');background-size:contain"></div>
           <div class="carousel-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
@@ -153,7 +153,7 @@ layout: default
       </div>
         {% for item in site.data.letters %}
         <div class="carousel-letter-item">
-          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{site.baseurl}}/{{ item.image-front }}');;background-size:contain" ></div>
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/{{ item.image-front }}');;background-size:contain" ></div>
           <div class="carousel-letter-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
