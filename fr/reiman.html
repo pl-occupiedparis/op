@@ -116,7 +116,7 @@ layout: default_fr
         </div>
           {% for item in site.data.reiman_photoalbum %}
             <div class="carousel-item">
-              <div class="carousel-item__image" style="background-image:url('/{{item.image}}');background-size:contain"></div>
+              <div class="carousel-item__image" style="background-image:url('{{item.image}}');background-size:contain"></div>
               <div class="carousel-item__info">
                 <div class="carousel-item__container">
                   {% if item.title_FR %}
@@ -150,7 +150,7 @@ layout: default_fr
       </div>
         {% for item in site.data.reiman_archives %}
           <div class="carousel-letter-item">
-            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/{{ item.image-front }}');;background-size:contain" ></div>
+            <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');;background-size:contain" ></div>
             <div class="carousel-letter-item__info">
               <div class="carousel-item__container">
                 <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
