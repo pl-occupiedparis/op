@@ -1,8 +1,65 @@
----
-layout: default
----
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://kit.fontawesome.com/5409614f24.js" crossorigin="anonymous"></script>
+  </head>
 
-<!DOCTYPE html>
+  <body>
+    <ul class="navigation">    
+    <div class="site-header">
+      <div class="site-header__wrapper">
+        <div class="header-title">
+          <a href="../en/" class="brand"><img src="../assets/images/headers/header_2.png"  height="80px" alt="brand" /></a>
+        </div>
+        <div class="pages-navigation">
+          <ul class="navbar-nav">
+            <div class="nav-item">
+              <a href="../en/map.html">Map</a>
+            </div>
+            <div class="nav-item">
+              <a href="../en/atlas.html">Atlas</a>
+            </div>
+            <div class="nav-item has-dropdown">
+              <a href="../en/about.html">About</a>
+              <ul class="dropdown">
+                 
+                <div class="dropdown-item">
+                  <a href="../en/about.html">The Project</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="../en/notice.html">Take-down notice</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="../en/author.html">About the Author</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="../en/context.html">Historical Context</a>
+                </div>
+                <div class="dropdown-item">
+                  <a href="../en/contributors.html">Contributors</a>
+                </div>
+
+              </ul>
+            </div>
+            <div class="nav-item">
+              <a href="../fr/jedinak.html"><i class="fa fa-solid fa-globe"></i></a>
+
+            </div>
+
+
+
+
+          </ul>
+
+
+        </div>
+    </div>
+    
+</ul>
+    <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -10,7 +67,7 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Biography</title>
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
   <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -21,7 +78,7 @@ layout: default
   <br>
 
   <a name= "biography"><div class="pn-container">
-    <img class="pn-image" src="{{site.baseurl}}/assets/images/jedinak/carousel/Rachel1936.jpg">
+    <img class="pn-image" src="/assets/images/jedinak/carousel/Rachel1936.jpg">
     <div class="pn-text-bio">
       <header>Psankiewicz Family</header>
       <p>The Psankiewicz family lives at 26 rue Duris in the 20th arrondissement. Abram and Chana emigrated from Poland in the mid-1920s. They met in Paris where Chana and her sister Ruschka had decided to make a stopover before emigrating to the United States with their parents. Each met her future husband there so they stayed in France. Abram and Chana have two girls, Louise and Rachel, who attend the school on rue de Tlemcen at the time of the war. </p>
@@ -114,25 +171,297 @@ layout: default
     </svg>    
         </span>
       </div>
-        {% for item in site.data.jedinak_images %}
+        
         <div class="carousel-letter-item">
-          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('{{ item.image-front }}');;background-size:contain" ></div>
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/PsankiewiczCouple.jpg');;background-size:contain" ></div>
           <div class="carousel-letter-item__info">
             <div class="carousel-item__container">
               <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
-              <h1 class="carousel-item__title">{{item.title}}</h1>-->
-              {% if item.title %}
-                <h2 class="carousel-item__subtitle">{{item.title}}</h2>
-              {% endif %}
-              <p class="carousel-item__description">{{ item.caption_EN }}</p>
+              <h1 class="carousel-item__title">Album Photo</h1>-->
+              
+                <h2 class="carousel-item__subtitle">Album Photo</h2>
+              
+              <p class="carousel-item__description">Abram and Chana Psankiewicz in Paris, 1928. <br>Handwritten note in Yiddish on the back of the photo reads: 'My dear brother, here is now a picture as a souvenir - your brother Abram Psankiewicz'</p>
                <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
-              {% if item.toggle == "yes" %}
+              
                 <button onclick="toggle()">Flip the photo over</button>
-              {% endif %}
+              
             </div>
           </div>
         </div>
-        {% endfor %}
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/PsankiewiczMariage.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Wedding picture of Chana and Abram. Paris, 1928.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/PsankiewiczFamille.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Abram, Chana, Louise and Rachel circa 1934</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/Rachel1936.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Rachel circa 1936</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/RachelLouise1942.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Louise and Rachel in March 1942</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/PauletMaurice.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Paul and Maurice Psankiewicz with their school awards.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/Paul.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Paul Psankiewicz circa 1940</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/PsankiewiczHendla.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Rachel's paternal grand-mother, Hendla Psankiewicz</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/PsankiewiczNachmann.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Rachel's paternal grand-father, Nachmann Psankiewicz</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/Zyto.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Rachel's maternal grand-parents, the Zytos, who emigrated to the U.S.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/AbramMaurice1.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Abram, Maurice and Larbel Becker in Beaune-la-Rolande. January 1942. 'As a souvenir from here and hopefully becoming free again, we send you a photo'</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/AbramMaurice3.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Abram and Maurice in Beaune-la-Rolande. April 1942.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/AbramMaurice2.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Abram and Maurice in Beaune-la-Rolande. April 1942.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/AbramMai42.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Abram in Beaune-la-Rolande. May 1942.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/AbramJuin42.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Abram in Beaune-la-Rolande wearing his makeshift shoes. June 1942.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+                <button onclick="toggle()">Flip the photo over</button>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/AbramNonRapatriement.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Certificate of Non-Rapatriation issued in April 1946. It indicates that Abram was deported to Germany in June 1943</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/AbramActeDeces.png');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Death certificate issued in 1952 indicating that Abram died in Beaune-la-Rolande.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/AbramActeDeces99.png');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Revision of Abram's death certificate issued in 1999 and indicating he died in deportation, in Auschwitz (Poland).</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="carousel-letter-item">
+          <div class="carousel-item__image" id="carousel-letter-item__image" style="background-image:url('/assets/images/jedinak/carousel/ChanaActeDeces.jpg');;background-size:contain" ></div>
+          <div class="carousel-letter-item__info">
+            <div class="carousel-item__container">
+              <!--<h2 class="carousel-item__subtitle">hello! grand moment </h2>
+              <h1 class="carousel-item__title"></h1>-->
+              
+              <p class="carousel-item__description">Death certificate of Chana issued by the Red-Cross.</p>
+               <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+              
+            </div>
+          </div>
+        </div>
+        
     </div>
   </div>
 </a>
@@ -147,12 +476,12 @@ layout: default
         <div class="pn-text-blog">
           <h3>Blog Post by Mélanie</h3>
           <p>On the evening of June 15, 2019, I recorded the details of my serendipitous encounter with Rachel - in my Mnemosyne notebook - to try to preserve its magic. That day, I felt as if an interstice had opened up and allowed me to slip into the past, into my past. Since then, every time we call or see each other, Rachel gives me the greatest gift of all: she allows me to see my grandmother's eyes again and to sense her comforting warmth.</p>
-          <a href="{{site.baseurl}}/en/blogs/rachel.html" target="_blank">
+          <a href="/en/blogs/rachel.html" target="_blank">
             <button>Read the Blog</button>
           </a>
         </div>
         <div class="pn-image-blog">
-          <img class="pn-image-blog-background" src="{{site.baseurl}}/assets/images/jedinak/blog/carte_rachel_2019.png"></img>
+          <img class="pn-image-blog-background" src="/assets/images/jedinak/blog/carte_rachel_2019.png"></img>
         </div>
       </div>
     </a>
@@ -170,25 +499,52 @@ layout: default
       <p>On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness.</p>
 
       <br><h2>26 rue Duris</h2>
-      <div style="max-width:660px"><div style="position:relative;padding-bottom:66.118421052632%">
-        <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_2jednlrc&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_jmfv1nf2" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>      
+      <div style="max-width:660px"><div style="position:relative;padding-bottom:56.25%">
+          <iframe src="https://www.youtube.com/embed/kved8VYAL0E?list=PLIS_ynEbt_u8fmDAB1_kaHruUS3kXybVA" 
+              style="position:absolute;top:0;left:0;width:100%;height:100%" 
+              title="Rachel Jedinak au 26 rue Duris (360 | VR)" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              referrerpolicy="strict-origin-when-cross-origin" 
+              allowfullscreen>
+          </iframe>      
       </div></div>
-
+      
       <br><h2>15 rue de Tlemcen</h2>
-      <div style="max-width:660px"><div style="position:relative;padding-bottom:66.118421052632%">
-        <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_9jgo0etf&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_8t2cdxmv" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>      
+      <div style="max-width:660px"><div style="position:relative;padding-bottom:56.25%">
+          <iframe src="https://www.youtube.com/embed/aO91cNIZh5A?list=PLIS_ynEbt_u8fmDAB1_kaHruUS3kXybVA" 
+              style="position:absolute;top:0;left:0;width:100%;height:100%" 
+              title="Rachel Jedinak à l'adresse de ses grands-parents (360 | VR)" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              referrerpolicy="strict-origin-when-cross-origin" 
+              allowfullscreen>
+          </iframe>      
       </div></div>
-
+      
       <br><h2>Ecole 9 rue de Tlemcen</h2>
-      <div style="max-width:660px"><div style="position:relative;padding-bottom:66.118421052632%">
-        <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_w5rv9mbo&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_vbzukx7c" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>      
+      <div style="max-width:660px"><div style="position:relative;padding-bottom:56.25%">
+          <iframe src="https://www.youtube.com/embed/v1tjQq28KtQ?list=PLIS_ynEbt_u8fmDAB1_kaHruUS3kXybVA" 
+              style="position:absolute;top:0;left:0;width:100%;height:100%" 
+              title="Rachel Jedinak à l'école élémentaire Tlemcen (360 | VR)" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              referrerpolicy="strict-origin-when-cross-origin" 
+              allowfullscreen>
+          </iframe>      
       </div></div>
-
+      
       <br><h2>La Bellevilloise</h2>
-      <div style="max-width:660px"><div style="position:relative;padding-bottom:66.118421052632%">
-        <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_hs6rgkjk&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_648xsgh5" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe>      
+      <div style="max-width:660px"><div style="position:relative;padding-bottom:56.25%">
+          <iframe src="https://www.youtube.com/embed/0F0at9h-pyc?list=PLIS_ynEbt_u8fmDAB1_kaHruUS3kXybVA" 
+              style="position:absolute;top:0;left:0;width:100%;height:100%" 
+              title="Rachel Jedinak devant la Bellevilloise (360 | VR)" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              referrerpolicy="strict-origin-when-cross-origin" 
+              allowfullscreen>
+          </iframe>      
       </div></div>
-
     
       </div></a>
     <br>
@@ -441,3 +797,7 @@ imgElement.style = "background-image: "+ url ;
 
 
 </script>  
+
+  </body>
+</html>
+
