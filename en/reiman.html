@@ -133,7 +133,8 @@ layout: default
 
   <!--Archives-->
 
-  <a name= "archive"><div class="carousel-letter-body">
+  <a name= "archive">
+    <div class="carousel-letter-body">
     <div class="carousel-letter">
       <div class="carousel__nav">
        <span id="letter-moveLeft" class="carousel__arrow">
@@ -157,10 +158,16 @@ layout: default
                 {% if item.title_EN %}
                   <h2 class="carousel-item__subtitle">{{item.title_EN}}</h2>
                 {% endif %}
-                <p class="carousel-item__description">{{ item.caption_EN }}</p>
+                <p class="carousel-item__description" style="margin-bottom: -0.5em">{{ item.caption_EN }}</p>
                 <!-- <a href="#" class="carousel-item__btn">Explore the tour</a>-->
+                {% if item.translation %}
+                {% assign sentences = item.translation | split: ". " %}
+                {% for sentence in sentences %}
+                  <p class="carousel-item__description" style="margin-bottom: -0.5em"><i>{{ sentence }}</i></p>
+                {% endfor %}
+                {% endif %}
                 {% if item.toggle == "yes" %}
-                  <button onclick="toggle()">Flip the letter over!</button>
+                  <button style="margin-top: 1em" onclick="toggle()">Flip the letter over!</button>
                 {% endif %}
               </div>
             </div>
