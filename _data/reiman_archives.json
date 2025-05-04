@@ -6,8 +6,8 @@
         "image-back": "",
         "toggle": "",
         "name": "Acte de mariage Reimann ",
-        "caption_EN": "Wedding certificate of Abraham and Malka.",
-        "caption_FR": ""
+        "caption_EN": "Wedding certificate of Abraham and Malka",
+        "caption_FR": "Acte de mariage d'Abraham et Malka"
     },
     {
         "title_EN": "",
@@ -17,7 +17,7 @@
         "toggle": "",
         "name": "Fourrures Reiman",
         "caption_EN": "Reiman Furs",
-        "caption_FR": ""
+        "caption_FR": "Fourrures Reiman"
     },
     {
         "title_EN": "",
@@ -27,7 +27,7 @@
         "toggle": "",
         "name": "Administrateur provisoire 1",
         "caption_EN": "Temporary administrator for the Reiman's company",
-        "caption_FR": ""
+        "caption_FR": "Administrateur provisoire pour l'entreprise de Reiman"
     },
     {
         "title_EN": "",
@@ -37,7 +37,7 @@
         "toggle": "",
         "name": "Administrateur provisoire 2",
         "caption_EN": "Second temporary administrator for the Reiman's company",
-        "caption_FR": ""
+        "caption_FR": "Deuxième administrateur provisoire pour l'entreprise de Reiman"
     },
     {
         "title_EN": "",
@@ -58,7 +58,7 @@
         "toggle": "",
         "name": "Fiche Liberation",
         "caption_EN": "Release form of Malka from Beaune-la-Rolande",
-        "caption_FR": ""
+        "caption_FR": "Fiche de libération de Malka de Beaune-la-Rolande"
     },
     {
         "title_EN": "",
@@ -68,7 +68,7 @@
         "toggle": "",
         "name": "Grundel",
         "caption_EN": "Pay slip from Grundel's",
-        "caption_FR": ""
+        "caption_FR": "Bulletin de paye de Grundel"
     },
     {
         "title_EN": "",
@@ -78,7 +78,7 @@
         "toggle": "",
         "name": "Carte interne de Malka",
         "caption_EN": "Dec. 1944 - Malka's Internee ID card",
-        "caption_FR": ""
+        "caption_FR": "Déc. 1944 - Carte d'internée de Malka"
     },
     {
         "title_EN": "",
@@ -88,7 +88,7 @@
         "toggle": "",
         "name": "1950 Acte de disparition",
         "caption_EN": "1950 - Missing person form",
-        "caption_FR": ""
+        "caption_FR": "1950 - Acte de disparition"
     },
     {
         "title_EN": "",
@@ -98,7 +98,7 @@
         "toggle": "",
         "name": "1950 disparition Abram",
         "caption_EN": "1950 - Adminstrative refusal to declare Abraham as deceased",
-        "caption_FR": ""
+        "caption_FR": "1950 - Refus administratif de déclarer Abraham décédé"
     },
     {
         "title_EN": "",
@@ -108,7 +108,7 @@
         "toggle": "",
         "name": "1950 non-rentre",
         "caption_EN": "1950 - Certificate acknowledging Abraham has not returned",
-        "caption_FR": ""
+        "caption_FR": "1950 - Certificat attestant la non-rentrée d'Abraham"
     },
     {
         "title_EN": "",
@@ -118,6 +118,6 @@
         "toggle": "",
         "name": "1951 pension orpheline",
         "caption_EN": "1951 - Pension for orphans",
-        "caption_FR": ""
+        "caption_FR": "1951 - Pension d'orphelin"
     }
 ]
